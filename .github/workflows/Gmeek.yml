@@ -36,7 +36,7 @@ jobs:
       - name: Clone source code
         run: |
           GMEEK_VERSION=$(jq -r ".GMEEK_VERSION" config.json)
-          git clone https://github.com/Meekdai/Gmeek.git /opt/Gmeek;
+          git clone https://github.com/chinobing/Gmeek.git /opt/Gmeek;
           cd /opt/Gmeek/
           lastTag=$(git describe --tags `git rev-list --tags --max-count=1`)
           if [ $GMEEK_VERSION == 'last' ]; then git checkout $lastTag; else git checkout $GMEEK_VERSION; fi;
@@ -54,6 +54,7 @@ jobs:
           cp -a /opt/Gmeek/docs ${{ github.workspace }} 
           cp -a /opt/Gmeek/backup ${{ github.workspace }} 
           cp /opt/Gmeek/blogBase.json ${{ github.workspace }} 
+          python main.py ${{ secrets.GITHUB_TOKEN }} ${{ github.repository }} --issue_number '${{ github.event.issue.number }}'
           
       - name: update html
         run: |
