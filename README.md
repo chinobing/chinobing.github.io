@@ -6,3 +6,10 @@ My personal blog([About Me](https://github.com/yihong0618/gitblog/issues/282)) u
 ## 最近更新
 - [test2](https://github.com/chinobing/chinobing.github.io/issues/2)--2024-10-29
 - [test](https://github.com/chinobing/chinobing.github.io/issues/1)--2024-10-28
+## bug
+- [test2](https://github.com/chinobing/chinobing.github.io/issues/2)--2024-10-29
+- [test](https://github.com/chinobing/chinobing.github.io/issues/1)--2024-10-28
+## duplicate
+- [test2](https://github.com/chinobing/chinobing.github.io/issues/2)--2024-10-29
+## test
+- [test](https://github.com/chinobing/chinobing.github.io/issues/1)--2024-10-28
