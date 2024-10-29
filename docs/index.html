@@ -64,7 +64,11 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
         </svg>
     </a>
     
-    
+    <a href="https://chinobing.github.io/about.html" class="btn btn-invisible circle" title="关于">
+        <svg class="octicon" width="16" height="16" >
+            <path id="关于" fill-rule="evenodd"></path>
+        </svg>
+    </a>
     <a href="https://chinobing.github.io/rss.xml" target="_blank" id="buttonRSS" class="btn btn-invisible circle" title="RSS">
         <svg class="octicon" width="16" height="16" >
             <path id="pathRSS" fill-rule="evenodd"></path>
@@ -110,7 +114,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     </div>
     <div class="listLabels">
         
-        <span class="Label LabelName" style="background-color:#912430"><object><a style="color:#fff" href="tag.html#About">About</a></object></span>
+        <span class="Label LabelName" style="background-color:"><object><a style="color:#fff" href="tag.html#About">About</a></object></span>
         <span class="Label LabelTime" style="background-color:#bc4c00">2024-10-28</span>
     </div>
 </a>
@@ -180,7 +184,7 @@ for(var i=0;i<iconPost.length;i++){
 
 
 
-
+document.getElementById("关于").setAttribute("d",value=IconList["about"]);
 </script>
 
 
