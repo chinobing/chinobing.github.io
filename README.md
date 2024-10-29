@@ -1,5 +1,5 @@
 # ChinoBing's Blog: https://chinobing.github.io 
-### :page_facing_up: Articles: [3](https://chinobing.github.io/tag.html) | :speech_balloon: Comments: 0 | :hibiscus: WordCounts: 49 | :alarm_clock: 2024-10-29 22:38:46 
+### :page_facing_up: Articles: [3](https://chinobing.github.io/tag.html) | :speech_balloon: Comments: 0 | :hibiscus: WordCounts: 78 | :alarm_clock: 2024-10-29 23:29:43 
 Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek) + [GitBlog](https://github.com/yihong0618/gitblog)
 
 
@@ -15,5 +15,5 @@ Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek) + [GitBlog](https:/
 ## TODO
 TODO list from [接下来想写啥呢](https://github.com/chinobing/chinobing.github.io/issues/4)--1 jobs to do--1 jobs done
 - [x] 2
-- [ ] 1
+- [ ] 上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计
 
