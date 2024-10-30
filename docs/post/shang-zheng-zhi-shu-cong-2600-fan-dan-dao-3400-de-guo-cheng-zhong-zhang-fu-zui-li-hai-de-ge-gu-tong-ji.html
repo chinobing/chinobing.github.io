@@ -10,10 +10,10 @@
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
-<meta name="description" content="### 统计的理由
+<meta name="description" content="## 一、统计的理由
 说实话，中国的A股从21年开始到现在就一直反反复复地下跌。">
 <meta property="og:title" content="上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计">
-<meta property="og:description" content="### 统计的理由
+<meta property="og:description" content="## 一、统计的理由
 说实话，中国的A股从21年开始到现在就一直反反复复地下跌。">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://chinobing.github.io/post/shang-zheng-zhi-shu-cong-2600-fan-dan-dao-3400-de-guo-cheng-zhong-zhang-fu-zui-li-hai-de-ge-gu-tong-ji.html">
@@ -75,10 +75,145 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 </div>
 </div>
     <div id="content">
-<div class="markdown-body" id="postBody"><h3>统计的理由</h3>
+<div class="markdown-body" id="postBody"><h2>一、统计的理由</h2>
 <p>说实话，中国的A股从21年开始到现在就一直反反复复地下跌。当然大盘的行情也是伴随着政府救市政策的出台一惊一乍的。</p>
 <p>较为意外是国庆节举办的国新办新闻发布会，潘功胜、吴清等人的发话直接将A股带上天了。直到国庆节的节后第一个开盘日，10月8日，上证指数已经累计上升了接近30%，从2700的低位上涨到接近3700点。这算是活久见了。</p>
-<p>但是，我持有的两只票居然跑输了大盘。 在此之前，我一直奉行“大盘业绩股”策略。 策略的好处是股票有业绩支撑，不容易出现下跌。 但国庆节打后，炒股的风格发生了骤变。 我发现这种“大盘业绩股”基本是跑输大盘的，而且跌跌不休。</p></div>
+<p>但是，我持有的两只票居然跑输了大盘。 在此之前，我一直奉行“大盘业绩股”策略。 策略的好处是股票有业绩支撑，不容易出现下跌。 但国庆节打后，炒股的风格发生了骤变。 我发现这种“大盘业绩股”基本是跑输大盘的，而且跌跌不休。</p>
+<p>这究竟是不是错觉，还得用数据来说话。</p>
+<h2>二、统计过程</h2>
+<h3>（1）先说结论</h3>
+<p>我获取了 <strong>2024年9月18日至2024年10月8日</strong> 的全部股票日线数据，其中包括了上证指数的日线数据。（tushare数据）</p>
+<ol>
+<li>通过计算，上证指数在这段期间累计上涨了<code class="notranslate">26%</code>；</li>
+<li>总的股票数（含北交所）为<code class="notranslate">5349</code>， 其中有<code class="notranslate">4003</code>只股票的涨幅是大于上证的<code class="notranslate">26%</code>，占比约为74.83%；</li>
+<li>为了避免次新股的影响，我将上市日期早于<strong>2024年06月01日</strong>的剔除掉，剩余的股票仍有<code class="notranslate">3723</code>只；
+<ul>
+<li>次新股<code class="notranslate">无线传媒（301551）</code>在此期间的涨幅高达3倍</li>
+</ul>
+</li>
+<li>最大涨幅的股票来源于创业板的<code class="notranslate">银之杰（300085）</code>， 高达1.67倍；</li>
+<li>从<strong>概念</strong>上说，涨幅较前的股票并没有太多的交集；（同花顺数据）</li>
+<li>从<strong>市值</strong>来说，相关性比较大，这次涨幅较猛的基本都是小盘股；
+<ul>
+<li><em>难怪我持有的“大盘业绩股”都跑输给上证指数。。。。</em></li>
+</ul>
+</li>
+<li>从<code class="notranslate">市盈率、市净率</code>来看，韭菜们压根不看这个；</li>
+</ol>
+<h3>（2）与概念无关</h3>
+<p>反正啥概念都涉及，涨幅靠前的都没有集中在某一概念板块。<br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/87939e31-9798-4acc-a54b-bf340d93ab6a"><img src="https://github.com/user-attachments/assets/87939e31-9798-4acc-a54b-bf340d93ab6a" alt="image" style="max-width: 100%;"></a></p>
+<h3>（3）与市值关系很大</h3>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/01168a63-9d66-4d05-bed7-90b3d825bca2"><img src="https://github.com/user-attachments/assets/01168a63-9d66-4d05-bed7-90b3d825bca2" alt="image" style="max-width: 100%;"></a></p>
+<ul>
+<li>获取了股票在9月18日当日的对应市值、PB、PE；</li>
+<li>合并到前述表格当中；</li>
+<li>随便一看，涨幅好的，基本是都市值较低的小盘股；
+<ul>
+<li>但其实这也不难理解，<strong>小盘股的好处在于用小量的资金就可以干出大事，而且创业板的涨幅为20%</strong>，妥妥的最佳标的</li>
+</ul>
+</li>
+</ul>
+<h3>（4）详细统计</h3>
+<p>上述的表格和数据只能看一个大概，并没有一个有力的数据来支撑。</p>
+<h4>1、按市值（数量）划分</h4>
+<p>我将<code class="notranslate">3744</code>只这次跑赢上证的股票按照市值进行划分，从50亿至1万亿划分了10个档次：<code class="notranslate">[0,50,100,150,200,250,300,500,1000,3000,10000]</code>。</p>
+<p>统计如下：</p>
+<markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th align="right"></th>
+<th align="right">股票数量</th>
+<th>百分比</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right">(0, 50]</td>
+<td align="right">2325</td>
+<td>62.12</td>
+</tr>
+<tr>
+<td align="right">(50, 100]</td>
+<td align="right">687</td>
+<td>18.35</td>
+</tr>
+<tr>
+<td align="right">(100, 150]</td>
+<td align="right">274</td>
+<td>7.32</td>
+</tr>
+<tr>
+<td align="right">(150, 200]</td>
+<td align="right">127</td>
+<td>3.39</td>
+</tr>
+<tr>
+<td align="right">(200, 250]</td>
+<td align="right">82</td>
+<td>2.19</td>
+</tr>
+<tr>
+<td align="right">(250, 300]</td>
+<td align="right">45</td>
+<td>1.20</td>
+</tr>
+<tr>
+<td align="right">(300, 500]</td>
+<td align="right">95</td>
+<td>2.54</td>
+</tr>
+<tr>
+<td align="right">(500, 1000]</td>
+<td align="right">57</td>
+<td>1.52</td>
+</tr>
+<tr>
+<td align="right">(1000, 3000]</td>
+<td align="right">45</td>
+<td>1.20</td>
+</tr>
+<tr>
+<td align="right">(3000, 10000]</td>
+<td align="right">6</td>
+<td>0.16</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<ol>
+<li>可以看出，跑赢大盘的<code class="notranslate">2325</code>股票介于0~50亿的范围；</li>
+<li>大多数都是集中在150亿以下，累计占比为<code class="notranslate">87.79%</code>；</li>
+</ol>
+<h3>2、涨幅情况</h3>
+<markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th align="right"></th>
+<th align="right">total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right">(0.26, 0.5]</td>
+<td align="right">3128</td>
+</tr>
+<tr>
+<td align="right">(0.5, 0.75]</td>
+<td align="right">582</td>
+</tr>
+<tr>
+<td align="right">(0.75, 1.0]</td>
+<td align="right">31</td>
+</tr>
+<tr>
+<td align="right">(1.0, 2.0]</td>
+<td align="right">3</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<p>虽然跑赢上证的个股多达<code class="notranslate">3744</code>， 但并不是大多数个股可以实现翻倍。</p>
+<p>有多达<code class="notranslate">3128</code>只股票涨幅是介于26%~50%之间。</p>
+<p>涨幅超过一倍的只有<strong>3只</strong>。</p></div>
 <div style="font-size:small;margin-top:8px;float:right;"></div>
 
 <button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
