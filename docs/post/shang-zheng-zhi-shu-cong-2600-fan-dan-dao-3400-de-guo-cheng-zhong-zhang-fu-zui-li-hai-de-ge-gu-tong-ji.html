@@ -214,8 +214,194 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <p>虽然跑赢上证的个股多达<code class="notranslate">3744</code>， 但并不是大多数个股可以实现翻倍。</p>
 <p>有多达<code class="notranslate">3128</code>只股票涨幅是介于26%~50%之间。</p>
 <p>涨幅超过一倍的只有<strong>3只</strong>。</p>
+<h4>3、市值与涨幅</h4>
+<p>股票数量与市值的对应关系表格：</p>
+<markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th align="right">returns</th>
+<th align="right">(0.26, 0.5]</th>
+<th align="right">(0.5, 0.75]</th>
+<th align="right">(0.75, 1.0]</th>
+<th align="right">(1.0, 2.0]</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right">mv</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+</tr>
+<tr>
+<td align="right">(0, 50]</td>
+<td align="right">1985</td>
+<td align="right">322</td>
+<td align="right">17</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">(50, 100]</td>
+<td align="right">550</td>
+<td align="right">129</td>
+<td align="right">7</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">(100, 150]</td>
+<td align="right">209</td>
+<td align="right">63</td>
+<td align="right">1</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">(150, 200]</td>
+<td align="right">100</td>
+<td align="right">25</td>
+<td align="right">2</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">(200, 250]</td>
+<td align="right">71</td>
+<td align="right">11</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">(250, 300]</td>
+<td align="right">40</td>
+<td align="right">5</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">(300, 500]</td>
+<td align="right">80</td>
+<td align="right">14</td>
+<td align="right">1</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">(500, 1000]</td>
+<td align="right">48</td>
+<td align="right">7</td>
+<td align="right">2</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">(1000, 3000]</td>
+<td align="right">40</td>
+<td align="right">4</td>
+<td align="right">1</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">(3000, 10000]</td>
+<td align="right">4</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<p>股票数量与市值的对应关系表格（百分比，%）：</p>
+<markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th align="right">returns_cut</th>
+<th align="right">(0.26, 0.5]</th>
+<th align="right">(0.5, 0.75]</th>
+<th align="right">(0.75, 1.0]</th>
+<th align="right">(1.0, 2.0]</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right">mv_cut</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+<td align="right">-</td>
+</tr>
+<tr>
+<td align="right">(0, 50]</td>
+<td align="right">53.03</td>
+<td align="right">8.60</td>
+<td align="right">0.45</td>
+<td align="right">0.03</td>
+</tr>
+<tr>
+<td align="right">(50, 100]</td>
+<td align="right">14.69</td>
+<td align="right">3.45</td>
+<td align="right">0.19</td>
+<td align="right">0.03</td>
+</tr>
+<tr>
+<td align="right">(100, 150]</td>
+<td align="right">5.58</td>
+<td align="right">1.68</td>
+<td align="right">0.03</td>
+<td align="right">0.03</td>
+</tr>
+<tr>
+<td align="right">(150, 200]</td>
+<td align="right">2.67</td>
+<td align="right">0.67</td>
+<td align="right">0.05</td>
+<td align="right">0.00</td>
+</tr>
+<tr>
+<td align="right">(200, 250]</td>
+<td align="right">1.90</td>
+<td align="right">0.29</td>
+<td align="right">0.00</td>
+<td align="right">0.00</td>
+</tr>
+<tr>
+<td align="right">(250, 300]</td>
+<td align="right">1.07</td>
+<td align="right">0.13</td>
+<td align="right">0.00</td>
+<td align="right">0.00</td>
+</tr>
+<tr>
+<td align="right">(300, 500]</td>
+<td align="right">2.14</td>
+<td align="right">0.37</td>
+<td align="right">0.03</td>
+<td align="right">0.00</td>
+</tr>
+<tr>
+<td align="right">(500, 1000]</td>
+<td align="right">1.28</td>
+<td align="right">0.19</td>
+<td align="right">0.05</td>
+<td align="right">0.00</td>
+</tr>
+<tr>
+<td align="right">(1000, 3000]</td>
+<td align="right">1.07</td>
+<td align="right">0.11</td>
+<td align="right">0.03</td>
+<td align="right">0.00</td>
+</tr>
+<tr>
+<td align="right">(3000, 10000]</td>
+<td align="right">0.11</td>
+<td align="right">0.05</td>
+<td align="right">0.00</td>
+<td align="right">0.00</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<p>这样看过去，基本就比较清晰明了。 上涨的股票基本都是集中在50亿以下，而且涨幅集中在26%~75%之间。</p>
+<h4>4、表格数据</h4>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/30cdbd5f-0c6d-4039-93ab-79b7ed393a13"><img src="https://github.com/user-attachments/assets/30cdbd5f-0c6d-4039-93ab-79b7ed393a13" alt="image" style="max-width: 100%;"></a></p>
 <hr>
-<h2>未完，待写。</h2></div>
+<p><strong>下载地址</strong>：<a href="https://github.com/user-attachments/files/17571211/024.xlsx">024.xlsx</a></p></div>
 <div style="font-size:small;margin-top:8px;float:right;"></div>
 
 <button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
