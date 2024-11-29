@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/chinobing/blog</id><title>RSS feed of chinobing's blog</title><updated>2024-11-29T05:28:02.198094+00:00</updated><link href="https://github.com/chinobing/blog"/><link href="https://raw.githubusercontent.com/chinobing/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/chinobing/blog/issues/5</id><title>《控糖革命》读书笔记</title><updated>2024-11-29T05:28:02.602380+00:00</updated><content type="html"><![CDATA[<p>前段时间不知道为啥《控糖革命》这本书在twitter上疯传，好几个大V都在推这书，而且口碑评价都不错。于是乎我也认真读了起来。
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/chinobing/blog</id><title>RSS feed of chinobing's blog</title><updated>2024-11-29T05:28:59.804177+00:00</updated><link href="https://github.com/chinobing/blog"/><link href="https://raw.githubusercontent.com/chinobing/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/chinobing/blog/issues/6</id><title>从《内部视角陷阱：CEO为什么频频预测失误》说起</title><updated>2024-11-29T05:29:00.109005+00:00</updated><content type="html"><![CDATA[<p>最近沉迷上了贝叶斯定理，还专门在京东买了两本书，一本是刘雪峰编写的《生活不是掷骰子》，另一本是Will Kurt的《趣学贝叶斯统计》。</p>
+<p>在《生活不是掷骰子》中，刘大师说起了内外部视角对先验概率的影响，其中就引用了百度前副总裁李靖写的一篇文章《 <a href="https://mp.weixin.qq.com/s/7dkXYXsabmCFbk8Wz_NWqA">内部视角陷阱：CEO为什么频频预测失误</a> 》中的一个例子。 </p>
+<p>由于这例子很有意思，我还特意把这篇15年的文章找了出来整篇阅读。
+例子如下：</p>
+<blockquote>
+<p>一个传统的照明公司（做低端节能灯）的CEO希望能够做一个APP，进军互联网，并且希望通过APP推广自己的产品。
+“这次公司是下了大决心的，可以投入很多的资源去做。而且我们有那么多经销商，都可以帮忙去推广APP，肯定能推出去的！”——他说。</p>
+</blockquote>
+<p>这CEO的想法其实很简单，因为“我下了大决心”、“投入了很多资源”、“那么多的经销商渠道推广”，所以这事一定能成。但往往就是人家口中经常所说的“没有从客户角度（外部角度）”想问题。 </p>
+<p>话说回来，为什么我觉得这个例子很有趣呢？ 这主要是因为让我想起了几年前跟一个互联网大佬做的一次尽职调查。这家企业至今在互联网上市场上也是非常有名气的。</p>
+<p>大概5年前，这家企业启动了上市前的pre-ipo轮融资，而我方作为投资机构有幸去到了北京跟这位大佬见面做访谈。</p>
+<p>当时候这企业已有大概好几千万的净利润，但其估值也去到了“高不可攀”的地步。 由于其主营业务按照当时的竞争环境，其实长远来说也不容乐观。 这大佬说起了这高估值的其中一个主要原因就是他们即将要发布的新产品会给企业带来前所未有的业绩，一个关于面向企业团队的管理系统。他说了一大堆，说这个系统会整合整个公司各个部门的职能，能处理人事、成员、事务、日程、报销、财务等操作。然后这系统会按照企业的使用人数每个月向企业收取一定的费用，企业用了这个系统之后就难以更换。 我们公司花了”非常多的资源”在上面，而且通过我们现有的“经销商渠道去推广”，每个经销商我都按安装率给高提成，我敢保证，这管理系统很快就在全国铺开。</p>
+<p>针对他的想法，我提了几个问题。 后面基本就聊不下去了，主要原因就是他觉得我们不懂这系统有多厉害，不懂他们的经销商渠道有多厉害。</p>
+<p><code>5年过去了，这公司的管理系统没有铺开，融资没有办成，当然也没有上市。 </code></p>
+<p>现在想起来还是有点意思。这大佬当时候就是从内部角度去做产品，倘若当年他也看了李靖写的《内部视角陷阱：CEO为什么频频预测失误》，结果会不会不一样呢？</p>
+]]></content><link href="https://github.com/chinobing/blog/issues/6"/><category term="想法"/><published>2024-11-29T05:28:32+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/5</id><title>《控糖革命》读书笔记</title><updated>2024-11-29T05:29:00.249762+00:00</updated><content type="html"><![CDATA[<p>前段时间不知道为啥《控糖革命》这本书在twitter上疯传，好几个大V都在推这书，而且口碑评价都不错。于是乎我也认真读了起来。
 书本基本围绕着（1）为什么要控糖；（2）葡萄糖峰值的危害；（3）控糖技巧；去展开。</p>
 <p>以下是主要的控糖技巧：</p>
 <ol>
@@ -37,7 +52,7 @@
 <p>实际上，上面的控糖方法都是简单明了的。对于第7点，我还特意在京东买了3盒苹果醋试试。</p>
 <hr />
 <p><img src="https://github.com/user-attachments/assets/76fbdf83-f71a-46aa-86d1-bf04648fc860" alt="45e584236bb7ba89cd90f29c6a35f22" /></p>
-]]></content><link href="https://github.com/chinobing/blog/issues/5"/><category term="笔记"/><published>2024-11-29T05:27:39+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/4</id><title>上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计</title><updated>2024-11-29T05:28:02.805724+00:00</updated><content type="html"><![CDATA[<h2>一、统计的理由</h2>
+]]></content><link href="https://github.com/chinobing/blog/issues/5"/><category term="笔记"/><published>2024-11-29T05:27:39+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/4</id><title>上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计</title><updated>2024-11-29T05:29:00.411795+00:00</updated><content type="html"><![CDATA[<h2>一、统计的理由</h2>
 <p>说实话，中国的A股从21年开始到现在就一直反反复复地下跌。当然大盘的行情也是伴随着政府救市政策的出台一惊一乍的。</p>
 <p>较为意外是国庆节举办的国新办新闻发布会，潘功胜、吴清等人的发话直接将A股带上天了。直到国庆节的节后第一个开盘日，10月8日，上证指数已经累计上升了接近30%，从2700的低位上涨到接近3700点。这算是活久见了。</p>
 <p>但是，我持有的两只票居然跑输了大盘。 在此之前，我一直奉行“大盘业绩股”策略。 策略的好处是股票有业绩支撑，不容易出现下跌。 但国庆节打后，炒股的风格发生了骤变。 我发现这种“大盘业绩股”基本是跑输大盘的，而且跌跌不休。</p>
@@ -159,7 +174,7 @@
 <p><img src="https://github.com/user-attachments/assets/30cdbd5f-0c6d-4039-93ab-79b7ed393a13" alt="image" /></p>
 <hr />
 <p><strong>下载地址</strong>：<a href="https://github.com/user-attachments/files/17571211/024.xlsx">024.xlsx</a></p>
-]]></content><link href="https://github.com/chinobing/blog/issues/4"/><category term="研究"/><published>2024-11-29T05:26:19+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/3</id><title>人总是善忘：喷射战士华莱士</title><updated>2024-11-29T05:28:02.971720+00:00</updated><content type="html"><![CDATA[<h3>总是善忘</h3>
+]]></content><link href="https://github.com/chinobing/blog/issues/4"/><category term="研究"/><published>2024-11-29T05:26:19+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/3</id><title>人总是善忘：喷射战士华莱士</title><updated>2024-11-29T05:29:00.559271+00:00</updated><content type="html"><![CDATA[<h3>总是善忘</h3>
 <p>对的，我又拉肚子了。</p>
 <p>事情还得从那顿叉烧饭说起。</p>
 <p>依稀记得上年差不多也是这个时间，在同样的餐馆，吃同样的叉烧饭，拉同样的肚子，感觉就像吃了华莱士一样。当时候还暗暗地“发誓”，这家店太“干净又卫生”， 以后再也不吃了。</p>
@@ -185,7 +200,7 @@
 <hr />
 <p><img src="https://github.com/user-attachments/assets/e328c0df-a48e-4641-827b-124d5a981d0a" alt="image" /></p>
 <p>[^1]: fear of missing out.</p>
-]]></content><link href="https://github.com/chinobing/blog/issues/3"/><category term="想法"/><published>2024-11-29T05:21:25+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/2</id><title>接下来想写啥呢</title><updated>2024-11-29T05:28:03.161473+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/chinobing/blog/issues/3"/><category term="想法"/><published>2024-11-29T05:21:25+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/2</id><title>接下来想写啥呢</title><updated>2024-11-29T05:29:00.713739+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox"> 《控糖革命》笔记</li>
 <li><input checked="" disabled="" type="checkbox"> 上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计</li>
 <li><input checked="" disabled="" type="checkbox"> 人总是善忘：喷射战士华莱士</li>
@@ -193,7 +208,7 @@
 <li><input checked="" disabled="" type="checkbox"> 从《内部视角陷阱：CEO为什么频频预测失误》说起</li>
 <li><input disabled="" type="checkbox"> Convert Jupiter notebook with GitHub action</li>
 </ul>
-]]></content><link href="https://github.com/chinobing/blog/issues/2"/><category term="TODO"/><published>2024-11-29T05:19:39+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/1</id><title>关于</title><updated>2024-11-29T05:28:03.369354+00:00</updated><content type="html"><![CDATA[<ol>
+]]></content><link href="https://github.com/chinobing/blog/issues/2"/><category term="TODO"/><published>2024-11-29T05:19:39+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/1</id><title>关于</title><updated>2024-11-29T05:29:00.884033+00:00</updated><content type="html"><![CDATA[<ol>
 <li>曾经漂洋过海，见证过万恶的华尔街</li>
 <li>经历过15年股灾</li>
 <li>现从事股权投资行业</li>
