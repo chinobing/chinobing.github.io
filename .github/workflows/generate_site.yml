@@ -50,8 +50,7 @@ jobs:
       - name: Set custom theme
         run: |
           git clone https://github.com/chinobing/repo-for-generate-blog.git repo-for-generate-blog
-          cd repo-for-generate-blog/
-          cp -r BACKUP/* content/post/
+          cp -r BACKUP/* repo-for-generate-blog/content/post/
       # - name: Delete existing config.toml
       #   run: |
       #     rm -f config.toml
