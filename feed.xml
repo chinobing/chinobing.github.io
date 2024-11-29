@@ -1,5 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/chinobing/blog</id><title>RSS feed of chinobing's blog</title><updated>2024-11-29T05:28:59.804177+00:00</updated><link href="https://github.com/chinobing/blog"/><link href="https://raw.githubusercontent.com/chinobing/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/chinobing/blog/issues/6</id><title>从《内部视角陷阱：CEO为什么频频预测失误》说起</title><updated>2024-11-29T05:29:00.109005+00:00</updated><content type="html"><![CDATA[<p>最近沉迷上了贝叶斯定理，还专门在京东买了两本书，一本是刘雪峰编写的《生活不是掷骰子》，另一本是Will Kurt的《趣学贝叶斯统计》。</p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/chinobing/blog</id><title>RSS feed of chinobing's blog</title><updated>2024-11-29T05:29:36.689529+00:00</updated><link href="https://github.com/chinobing/blog"/><link href="https://raw.githubusercontent.com/chinobing/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/chinobing/blog/issues/7</id><title>第一性原理：钙尔奇钙片</title><updated>2024-11-29T05:29:37.063488+00:00</updated><content type="html"><![CDATA[<p>最近家里的老人家开始有补钙的需求，而我为了买钙片这事情也是使出了浑身解数，小红书、什么值得买、京东评论一个不落。</p>
+<p>但在选购钙片之前就听说过固态钙会导致便秘，而液态钙就不存在这种情况。所以在购买的时候我就特意搜索液态钙。</p>
+<p>搜索出来的结果五花八门，只看标题的话难以下手，有的叫软胶囊液态钙，有的还添加了D3、K2。</p>
+<p>最终我挑了钙尔奇的D3软胶囊钙。 当时候我的购买逻辑就是，胶囊等于液态，D3属于加分项。</p>
+<p>但买了以后，我开始后悔了。因为我留意到了成分表里面写着“碳酸钙”。 实际上，碳酸钙就是我们俗称的固态钙。</p>
+<ul>
+<li>
+<strong>碳酸钙属于固态钙，柠檬酸钙属于液态钙</strong><ul>
+<li><code>碳酸钙</code>：便宜、钙含量高；需要胃酸分解吸收，容易造成胃酸分泌过量，肠胃多余沉积的碳酸钙会导致便秘；</li>
+<li><code>柠檬酸钙</code>：易溶于水，吸收快；不容易沉积，不导致便秘；但钙含量较低；</li>
+</ul>
+</li>
+<li>
+<strong>D3</strong><ul>
+<li>促进钙吸收</li>
+</ul>
+</li>
+<li>
+<strong>K2</strong><ul>
+<li>调节钙的沉积</li>
+<li>增强钙的利用效率</li>
+<li>减少钙的流失</li>
+</ul>
+</li>
+</ul>
+<p>判断钙片是固态还是液态，得看成分表，而不是花里花俏的名称。 </p>
+<p>这不就是第一性原理吗？！</p>
+<p>我之所以第一次购买钙片的时候被误导，就是因为没有用第一性原理去发掘问题本身。</p>
+<blockquote>
+<p>所谓第一性原理指的是，回归事物最基本的条件，把其解构成各种要素进行分析，从而找到实现目标最优路径的方法。</p>
+</blockquote>
+<p>生活中还有很多关于第一性原理的例子。例如购买牙膏、化妆品等，我们可以通过产品的成分表去分析那些产品是真正具有美白功效的，那些是具有防蛀牙功效的，而不是只看宣传广告语。</p>
+]]></content><link href="https://github.com/chinobing/blog/issues/7"/><category term="想法"/><published>2024-11-29T05:29:14+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/6</id><title>从《内部视角陷阱：CEO为什么频频预测失误》说起</title><updated>2024-11-29T05:29:37.251698+00:00</updated><content type="html"><![CDATA[<p>最近沉迷上了贝叶斯定理，还专门在京东买了两本书，一本是刘雪峰编写的《生活不是掷骰子》，另一本是Will Kurt的《趣学贝叶斯统计》。</p>
 <p>在《生活不是掷骰子》中，刘大师说起了内外部视角对先验概率的影响，其中就引用了百度前副总裁李靖写的一篇文章《 <a href="https://mp.weixin.qq.com/s/7dkXYXsabmCFbk8Wz_NWqA">内部视角陷阱：CEO为什么频频预测失误</a> 》中的一个例子。 </p>
 <p>由于这例子很有意思，我还特意把这篇15年的文章找了出来整篇阅读。
 例子如下：</p>
@@ -14,7 +46,7 @@
 <p>针对他的想法，我提了几个问题。 后面基本就聊不下去了，主要原因就是他觉得我们不懂这系统有多厉害，不懂他们的经销商渠道有多厉害。</p>
 <p><code>5年过去了，这公司的管理系统没有铺开，融资没有办成，当然也没有上市。 </code></p>
 <p>现在想起来还是有点意思。这大佬当时候就是从内部角度去做产品，倘若当年他也看了李靖写的《内部视角陷阱：CEO为什么频频预测失误》，结果会不会不一样呢？</p>
-]]></content><link href="https://github.com/chinobing/blog/issues/6"/><category term="想法"/><published>2024-11-29T05:28:32+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/5</id><title>《控糖革命》读书笔记</title><updated>2024-11-29T05:29:00.249762+00:00</updated><content type="html"><![CDATA[<p>前段时间不知道为啥《控糖革命》这本书在twitter上疯传，好几个大V都在推这书，而且口碑评价都不错。于是乎我也认真读了起来。
+]]></content><link href="https://github.com/chinobing/blog/issues/6"/><category term="想法"/><published>2024-11-29T05:28:32+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/5</id><title>《控糖革命》读书笔记</title><updated>2024-11-29T05:29:37.437989+00:00</updated><content type="html"><![CDATA[<p>前段时间不知道为啥《控糖革命》这本书在twitter上疯传，好几个大V都在推这书，而且口碑评价都不错。于是乎我也认真读了起来。
 书本基本围绕着（1）为什么要控糖；（2）葡萄糖峰值的危害；（3）控糖技巧；去展开。</p>
 <p>以下是主要的控糖技巧：</p>
 <ol>
@@ -52,7 +84,7 @@
 <p>实际上，上面的控糖方法都是简单明了的。对于第7点，我还特意在京东买了3盒苹果醋试试。</p>
 <hr />
 <p><img src="https://github.com/user-attachments/assets/76fbdf83-f71a-46aa-86d1-bf04648fc860" alt="45e584236bb7ba89cd90f29c6a35f22" /></p>
-]]></content><link href="https://github.com/chinobing/blog/issues/5"/><category term="笔记"/><published>2024-11-29T05:27:39+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/4</id><title>上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计</title><updated>2024-11-29T05:29:00.411795+00:00</updated><content type="html"><![CDATA[<h2>一、统计的理由</h2>
+]]></content><link href="https://github.com/chinobing/blog/issues/5"/><category term="笔记"/><published>2024-11-29T05:27:39+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/4</id><title>上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计</title><updated>2024-11-29T05:29:37.609279+00:00</updated><content type="html"><![CDATA[<h2>一、统计的理由</h2>
 <p>说实话，中国的A股从21年开始到现在就一直反反复复地下跌。当然大盘的行情也是伴随着政府救市政策的出台一惊一乍的。</p>
 <p>较为意外是国庆节举办的国新办新闻发布会，潘功胜、吴清等人的发话直接将A股带上天了。直到国庆节的节后第一个开盘日，10月8日，上证指数已经累计上升了接近30%，从2700的低位上涨到接近3700点。这算是活久见了。</p>
 <p>但是，我持有的两只票居然跑输了大盘。 在此之前，我一直奉行“大盘业绩股”策略。 策略的好处是股票有业绩支撑，不容易出现下跌。 但国庆节打后，炒股的风格发生了骤变。 我发现这种“大盘业绩股”基本是跑输大盘的，而且跌跌不休。</p>
@@ -174,7 +206,7 @@
 <p><img src="https://github.com/user-attachments/assets/30cdbd5f-0c6d-4039-93ab-79b7ed393a13" alt="image" /></p>
 <hr />
 <p><strong>下载地址</strong>：<a href="https://github.com/user-attachments/files/17571211/024.xlsx">024.xlsx</a></p>
-]]></content><link href="https://github.com/chinobing/blog/issues/4"/><category term="研究"/><published>2024-11-29T05:26:19+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/3</id><title>人总是善忘：喷射战士华莱士</title><updated>2024-11-29T05:29:00.559271+00:00</updated><content type="html"><![CDATA[<h3>总是善忘</h3>
+]]></content><link href="https://github.com/chinobing/blog/issues/4"/><category term="研究"/><published>2024-11-29T05:26:19+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/3</id><title>人总是善忘：喷射战士华莱士</title><updated>2024-11-29T05:29:37.773174+00:00</updated><content type="html"><![CDATA[<h3>总是善忘</h3>
 <p>对的，我又拉肚子了。</p>
 <p>事情还得从那顿叉烧饭说起。</p>
 <p>依稀记得上年差不多也是这个时间，在同样的餐馆，吃同样的叉烧饭，拉同样的肚子，感觉就像吃了华莱士一样。当时候还暗暗地“发誓”，这家店太“干净又卫生”， 以后再也不吃了。</p>
@@ -200,7 +232,7 @@
 <hr />
 <p><img src="https://github.com/user-attachments/assets/e328c0df-a48e-4641-827b-124d5a981d0a" alt="image" /></p>
 <p>[^1]: fear of missing out.</p>
-]]></content><link href="https://github.com/chinobing/blog/issues/3"/><category term="想法"/><published>2024-11-29T05:21:25+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/2</id><title>接下来想写啥呢</title><updated>2024-11-29T05:29:00.713739+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/chinobing/blog/issues/3"/><category term="想法"/><published>2024-11-29T05:21:25+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/2</id><title>接下来想写啥呢</title><updated>2024-11-29T05:29:37.943573+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox"> 《控糖革命》笔记</li>
 <li><input checked="" disabled="" type="checkbox"> 上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计</li>
 <li><input checked="" disabled="" type="checkbox"> 人总是善忘：喷射战士华莱士</li>
@@ -208,7 +240,7 @@
 <li><input checked="" disabled="" type="checkbox"> 从《内部视角陷阱：CEO为什么频频预测失误》说起</li>
 <li><input disabled="" type="checkbox"> Convert Jupiter notebook with GitHub action</li>
 </ul>
-]]></content><link href="https://github.com/chinobing/blog/issues/2"/><category term="TODO"/><published>2024-11-29T05:19:39+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/1</id><title>关于</title><updated>2024-11-29T05:29:00.884033+00:00</updated><content type="html"><![CDATA[<ol>
+]]></content><link href="https://github.com/chinobing/blog/issues/2"/><category term="TODO"/><published>2024-11-29T05:19:39+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/1</id><title>关于</title><updated>2024-11-29T05:29:38.127094+00:00</updated><content type="html"><![CDATA[<ol>
 <li>曾经漂洋过海，见证过万恶的华尔街</li>
 <li>经历过15年股灾</li>
 <li>现从事股权投资行业</li>
