@@ -1,5 +1,127 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/chinobing/blog</id><title>RSS feed of chinobing's blog</title><updated>2024-11-29T05:21:43.804455+00:00</updated><link href="https://github.com/chinobing/blog"/><link href="https://raw.githubusercontent.com/chinobing/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/chinobing/blog/issues/3</id><title>人总是善忘：喷射战士华莱士</title><updated>2024-11-29T05:21:43.995760+00:00</updated><content type="html"><![CDATA[<h3>总是善忘</h3>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/chinobing/blog</id><title>RSS feed of chinobing's blog</title><updated>2024-11-29T05:26:44.011639+00:00</updated><link href="https://github.com/chinobing/blog"/><link href="https://raw.githubusercontent.com/chinobing/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/chinobing/blog/issues/4</id><title>上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计</title><updated>2024-11-29T05:26:44.230306+00:00</updated><content type="html"><![CDATA[<h2>一、统计的理由</h2>
+<p>说实话，中国的A股从21年开始到现在就一直反反复复地下跌。当然大盘的行情也是伴随着政府救市政策的出台一惊一乍的。</p>
+<p>较为意外是国庆节举办的国新办新闻发布会，潘功胜、吴清等人的发话直接将A股带上天了。直到国庆节的节后第一个开盘日，10月8日，上证指数已经累计上升了接近30%，从2700的低位上涨到接近3700点。这算是活久见了。</p>
+<p>但是，我持有的两只票居然跑输了大盘。 在此之前，我一直奉行“大盘业绩股”策略。 策略的好处是股票有业绩支撑，不容易出现下跌。 但国庆节打后，炒股的风格发生了骤变。 我发现这种“大盘业绩股”基本是跑输大盘的，而且跌跌不休。</p>
+<p>这究竟是不是错觉，还得用数据来说话。</p>
+<h2>二、统计过程</h2>
+<h3>（1）先说结论</h3>
+<p>我获取了 <strong>2024年9月18日至2024年10月8日</strong> 的全部股票日线数据，其中包括了上证指数的日线数据。（tushare数据）</p>
+<ol>
+<li>通过计算，上证指数在这段期间累计上涨了<code>26%</code>；</li>
+<li>总的股票数（含北交所）为<code>5349</code>， 其中有<code>4003</code>只股票的涨幅是大于上证的<code>26%</code>，占比约为74.83%；</li>
+<li>
+为了避免次新股的影响，我将上市日期早于<strong>2024年06月01日</strong>的剔除掉，剩余的股票仍有<code>3723</code>只；<ul>
+<li>次新股<code>无线传媒（301551）</code>在此期间的涨幅高达3倍</li>
+</ul>
+</li>
+<li>最大涨幅的股票来源于创业板的<code>银之杰（300085）</code>， 高达1.67倍；</li>
+<li>从<strong>概念</strong>上说，涨幅较前的股票并没有太多的交集；（同花顺数据）</li>
+<li>
+从<strong>市值</strong>来说，相关性比较大，这次涨幅较猛的基本都是小盘股；<ul>
+<li><em>难怪我持有的“大盘业绩股”都跑输给上证指数。。。。</em></li>
+</ul>
+</li>
+<li>从<code>市盈率、市净率</code>来看，韭菜们压根不看这个； </li>
+</ol>
+<h3>（2）与概念无关</h3>
+<p>反正啥概念都涉及，涨幅靠前的都没有集中在某一概念板块。
+<img src="https://github.com/user-attachments/assets/87939e31-9798-4acc-a54b-bf340d93ab6a" alt="image" /></p>
+<h3>（3）与市值关系很大</h3>
+<p><img src="https://github.com/user-attachments/assets/01168a63-9d66-4d05-bed7-90b3d825bca2" alt="image" /></p>
+<ul>
+<li>获取了股票在9月18日当日的对应市值、PB、PE；</li>
+<li>合并到前述表格当中；</li>
+<li>
+随便一看，涨幅好的，基本是都市值较低的小盘股；<ul>
+<li>但其实这也不难理解，<strong>小盘股的好处在于用小量的资金就可以干出大事，而且创业板的涨幅为20%</strong>，妥妥的最佳标的</li>
+</ul>
+</li>
+</ul>
+<h3>（4）详细统计</h3>
+<p>上述的表格和数据只能看一个大概，并没有一个有力的数据来支撑。</p>
+<h4>1、按市值（数量）划分</h4>
+<p>我将<code>3744</code>只这次跑赢上证的股票按照市值进行划分，从50亿至1万亿划分了10个档次：<code>[0,50,100,150,200,250,300,500,1000,3000,10000]</code>。</p>
+<p>统计如下：
+|               | 股票数量 | 百分比 |
+|--------------:|---------:|---------|
+|       (0, 50] |     2325 |   62.12 |
+|     (50, 100] |      687 |   18.35 |
+|    (100, 150] |      274 |    7.32 |
+|    (150, 200] |      127 |    3.39 |
+|    (200, 250] |       82 |    2.19 |
+|    (250, 300] |       45 |    1.20 |
+|    (300, 500] |       95 |    2.54 |
+|   (500, 1000] |       57 |    1.52 |
+|  (1000, 3000] |       45 |    1.20 |
+| (3000, 10000] |        6 |    0.16 |</p>
+<ol>
+<li>可以看出，跑赢大盘的<code>2325</code>股票介于0~50亿的范围；</li>
+<li>大多数都是集中在150亿以下，累计占比为<code>87.79%</code>；</li>
+</ol>
+<h4>2、涨幅情况</h4>
+<table>
+<thead>
+<tr>
+<th align="right"></th>
+<th align="right">total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right">(0.26, 0.5]</td>
+<td align="right">3128</td>
+</tr>
+<tr>
+<td align="right">(0.5, 0.75]</td>
+<td align="right">582</td>
+</tr>
+<tr>
+<td align="right">(0.75, 1.0]</td>
+<td align="right">31</td>
+</tr>
+<tr>
+<td align="right">(1.0, 2.0]</td>
+<td align="right">3</td>
+</tr>
+</tbody></table><p>虽然跑赢上证的个股多达<code>3744</code>， 但并不是大多数个股可以实现翻倍。</p>
+<p>有多达<code>3128</code>只股票涨幅是介于26%~50%之间。</p>
+<p>涨幅超过一倍的只有<strong>3只</strong>。</p>
+<h4>3、市值与涨幅</h4>
+<p>股票数量与市值的对应关系表格：
+|   returns | (0.26, 0.5] | (0.5, 0.75] | (0.75, 1.0] | (1.0, 2.0] |
+|--------------:|------------:|------------:|------------:|-----------:|
+|        mv |           - |           - |           - |          - |
+|       (0, 50] |        1985 |         322 |          17 |          1 |
+|     (50, 100] |         550 |         129 |           7 |          1 |
+|    (100, 150] |         209 |          63 |           1 |          1 |
+|    (150, 200] |         100 |          25 |           2 |          0 |
+|    (200, 250] |          71 |          11 |           0 |          0 |
+|    (250, 300] |          40 |           5 |           0 |          0 |
+|    (300, 500] |          80 |          14 |           1 |          0 |
+|   (500, 1000] |          48 |           7 |           2 |          0 |
+|  (1000, 3000] |          40 |           4 |           1 |          0 |
+| (3000, 10000] |           4 |           2 |           0 |          0 |</p>
+<p>股票数量与市值的对应关系表格（百分比，%）：
+|   returns_cut | (0.26, 0.5] | (0.5, 0.75] | (0.75, 1.0] | (1.0, 2.0] |
+|--------------:|------------:|------------:|------------:|-----------:|
+|        mv_cut |           - |           - |           - |          - |
+|       (0, 50] |       53.03 |        8.60 |        0.45 |       0.03 |
+|     (50, 100] |       14.69 |        3.45 |        0.19 |       0.03 |
+|    (100, 150] |        5.58 |        1.68 |        0.03 |       0.03 |
+|    (150, 200] |        2.67 |        0.67 |        0.05 |       0.00 |
+|    (200, 250] |        1.90 |        0.29 |        0.00 |       0.00 |
+|    (250, 300] |        1.07 |        0.13 |        0.00 |       0.00 |
+|    (300, 500] |        2.14 |        0.37 |        0.03 |       0.00 |
+|   (500, 1000] |        1.28 |        0.19 |        0.05 |       0.00 |
+|  (1000, 3000] |        1.07 |        0.11 |        0.03 |       0.00 |
+| (3000, 10000] |        0.11 |        0.05 |        0.00 |       0.00 |</p>
+<p>这样看过去，基本就比较清晰明了。 上涨的股票基本都是集中在50亿以下，而且涨幅集中在26%~75%之间。</p>
+<h4>4、表格数据</h4>
+<p><img src="https://github.com/user-attachments/assets/30cdbd5f-0c6d-4039-93ab-79b7ed393a13" alt="image" /></p>
+<hr />
+<p><strong>下载地址</strong>：<a href="https://github.com/user-attachments/files/17571211/024.xlsx">024.xlsx</a></p>
+]]></content><link href="https://github.com/chinobing/blog/issues/4"/><category term="研究"/><published>2024-11-29T05:26:19+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/3</id><title>人总是善忘：喷射战士华莱士</title><updated>2024-11-29T05:26:44.342718+00:00</updated><content type="html"><![CDATA[<h3>总是善忘</h3>
 <p>对的，我又拉肚子了。</p>
 <p>事情还得从那顿叉烧饭说起。</p>
 <p>依稀记得上年差不多也是这个时间，在同样的餐馆，吃同样的叉烧饭，拉同样的肚子，感觉就像吃了华莱士一样。当时候还暗暗地“发誓”，这家店太“干净又卫生”， 以后再也不吃了。</p>
@@ -25,7 +147,7 @@
 <hr />
 <p><img src="https://github.com/user-attachments/assets/e328c0df-a48e-4641-827b-124d5a981d0a" alt="image" /></p>
 <p>[^1]: fear of missing out.</p>
-]]></content><link href="https://github.com/chinobing/blog/issues/3"/><category term="想法"/><published>2024-11-29T05:21:25+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/2</id><title>接下来想写啥呢</title><updated>2024-11-29T05:21:44.083708+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/chinobing/blog/issues/3"/><category term="想法"/><published>2024-11-29T05:21:25+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/2</id><title>接下来想写啥呢</title><updated>2024-11-29T05:26:44.442946+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox"> 《控糖革命》笔记</li>
 <li><input checked="" disabled="" type="checkbox"> 上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计</li>
 <li><input checked="" disabled="" type="checkbox"> 人总是善忘：喷射战士华莱士</li>
@@ -33,7 +155,7 @@
 <li><input checked="" disabled="" type="checkbox"> 从《内部视角陷阱：CEO为什么频频预测失误》说起</li>
 <li><input disabled="" type="checkbox"> Convert Jupiter notebook with GitHub action</li>
 </ul>
-]]></content><link href="https://github.com/chinobing/blog/issues/2"/><category term="TODO"/><published>2024-11-29T05:19:39+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/1</id><title>关于</title><updated>2024-11-29T05:21:44.193404+00:00</updated><content type="html"><![CDATA[<ol>
+]]></content><link href="https://github.com/chinobing/blog/issues/2"/><category term="TODO"/><published>2024-11-29T05:19:39+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/1</id><title>关于</title><updated>2024-11-29T05:26:44.549612+00:00</updated><content type="html"><![CDATA[<ol>
 <li>曾经漂洋过海，见证过万恶的华尔街</li>
 <li>经历过15年股灾</li>
 <li>现从事股权投资行业</li>
