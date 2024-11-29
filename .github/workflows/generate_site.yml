@@ -29,7 +29,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ github.token }}
-      HUGO_VERSION: v0.127.0
+      HUGO_VERSION: v0.139.2
       USER: ${{ github.repository_owner }}
       REPO: ${{ github.event.repository.name }}
       # BASE_URL: https://blog.yihong0618.me # change to your own domain
