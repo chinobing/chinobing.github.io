@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 # author: yihong0618
+# This blog is powered by Gitblog.
 
 import argparse
 import os
