@@ -45,9 +45,10 @@ jobs:
       - name: custom hugo site
         run: |
           git clone https://github.com/chinobing/repo-for-generate-blog.git blog-dir
-          mkdir -p blog-dir/content/post
-          cp -r BACKUP/* blog-dir/content/post/
-          # find . -type f -path './blog-dir/*' -exec ls -l {} \;
+          # mkdir -p blog-dir/content/post
+          # cp -r BACKUP/* blog-dir/content/posts/ 正常hugo的posts目录，这个看theme的要求改变
+          mkdir -p blog-dir/content/cn
+          cp -r BACKUP/* blog-dir/content/cn/
       - name: Build Hugo site
         run: |
           cd blog-dir
