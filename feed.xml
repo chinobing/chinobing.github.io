@@ -1,5 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/chinobing/blog</id><title>RSS feed of chinobing's blog</title><updated>2024-11-29T05:19:57.191153+00:00</updated><link href="https://github.com/chinobing/blog"/><link href="https://raw.githubusercontent.com/chinobing/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/chinobing/blog/issues/2</id><title>接下来想写啥呢</title><updated>2024-11-29T05:19:57.465279+00:00</updated><content type="html"><![CDATA[<ul>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/chinobing/blog</id><title>RSS feed of chinobing's blog</title><updated>2024-11-29T05:21:43.804455+00:00</updated><link href="https://github.com/chinobing/blog"/><link href="https://raw.githubusercontent.com/chinobing/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/chinobing/blog/issues/3</id><title>人总是善忘：喷射战士华莱士</title><updated>2024-11-29T05:21:43.995760+00:00</updated><content type="html"><![CDATA[<h3>总是善忘</h3>
+<p>对的，我又拉肚子了。</p>
+<p>事情还得从那顿叉烧饭说起。</p>
+<p>依稀记得上年差不多也是这个时间，在同样的餐馆，吃同样的叉烧饭，拉同样的肚子，感觉就像吃了华莱士一样。当时候还暗暗地“发誓”，这家店太“干净又卫生”， 以后再也不吃了。</p>
+<p>谁知道，一年之后再次入坑，已经是第三次了。</p>
+<p>突然想起了一句老话，“好了伤疤忘了疼”。 人总是善忘的。</p>
+<h3>说起炒股</h3>
+<p>A股比较有意思的地方在于，你5年前看上证指数，还是5年后看，结果还是3000点附近。 </p>
+<p>为什么会这样？</p>
+<p>股票的股价无非靠<strong>资金</strong>或者<strong>公司业绩增长</strong>来支撑。 但纵观这几年时间，A股整体的上企业在业绩上面时间上没有太大增幅。以下是Wind的数据：</p>
+<blockquote>
+<p>Wind数据显示，截至10月31日凌晨，已完成三季报披露的5356家上市公司前三季度营收合计为52.54万亿元，同比降0.87%；实现归母净利润4.41万亿元，同比降0.53%。
+<img src="https://github.com/user-attachments/assets/186381d0-8adc-4761-8511-2fe910c7dfbb" alt="image" /></p>
+</blockquote>
+<p>我们再看看资金方面，A股的日内成交金额常年徘徊在一万亿以下。除了国庆节前后有新一批“00后“韭菜入市刺激了一下资金量之外，后面基本不行了。</p>
+<p>这就解释了为什么A股一直半死不活的。</p>
+<p>我从20年就开始炒股，而且我是科班出身的，所以在选股方面一直按照基本面分析去执行。</p>
+<p>但是，外面的世界实在太精彩了。 FOMO[^1] 效应一次又一次在我身上出现。</p>
+<p>近一年时间里面，大盘跌跌不休。 我买了几只业绩、分红、ROE都较好的股票，这段时间都走得不错，累计收益都有15%。但随着国庆节前的经济刺激政策的发布，股市的风格也随之变化。这类型的股票突然就不香了。反而随随便便一只小盘股都涨幅起码26%以上，妥妥的跑赢大盘 #6。</p>
+<p>我的心态崩不住了。 居然小盘股一两天的涨幅就跑赢了我持有大半年的大盘股的涨幅。</p>
+<p>然后我憋不住了，减了小部分仓位，买了小盘股。 结果呢，回调了。 </p>
+<p>这么一来一回，我居然亏了。 这难道不就是韭菜行为吗？！</p>
+<p>记得刚开始炒股的时候就告诫自己，不要这样来回操作，很容易就被收割。结果呢，跟吃叉烧饭一样，喷射战士华莱士。</p>
+<hr />
+<p><img src="https://github.com/user-attachments/assets/e328c0df-a48e-4641-827b-124d5a981d0a" alt="image" /></p>
+<p>[^1]: fear of missing out.</p>
+]]></content><link href="https://github.com/chinobing/blog/issues/3"/><category term="想法"/><published>2024-11-29T05:21:25+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/2</id><title>接下来想写啥呢</title><updated>2024-11-29T05:21:44.083708+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox"> 《控糖革命》笔记</li>
 <li><input checked="" disabled="" type="checkbox"> 上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计</li>
 <li><input checked="" disabled="" type="checkbox"> 人总是善忘：喷射战士华莱士</li>
@@ -7,7 +33,7 @@
 <li><input checked="" disabled="" type="checkbox"> 从《内部视角陷阱：CEO为什么频频预测失误》说起</li>
 <li><input disabled="" type="checkbox"> Convert Jupiter notebook with GitHub action</li>
 </ul>
-]]></content><link href="https://github.com/chinobing/blog/issues/2"/><category term="TODO"/><published>2024-11-29T05:19:39+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/1</id><title>关于</title><updated>2024-11-29T05:19:57.554979+00:00</updated><content type="html"><![CDATA[<ol>
+]]></content><link href="https://github.com/chinobing/blog/issues/2"/><category term="TODO"/><published>2024-11-29T05:19:39+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/1</id><title>关于</title><updated>2024-11-29T05:21:44.193404+00:00</updated><content type="html"><![CDATA[<ol>
 <li>曾经漂洋过海，见证过万恶的华尔街</li>
 <li>经历过15年股灾</li>
 <li>现从事股权投资行业</li>
