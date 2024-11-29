@@ -47,16 +47,14 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "latest"
-      - name: Set custom theme
+      - name: custom hugo site
         run: |
           git clone https://github.com/chinobing/repo-for-generate-blog.git repo-for-generate-blog
           cp -r BACKUP/* repo-for-generate-blog/content/post/
-      # - name: Delete existing config.toml
-      #   run: |
-      #     rm -f config.toml
-      # - name: Copy custom config.toml
-      #   run: |
-      #     cp -f config.toml .
+      - name: Fix config.toml
+        run: |
+          cd repo-for-generate-blog
+          sed -i 's/\([0-9]\+\)\([a-zA-Z]\)/\1 \2/g' config.toml
       - name: Build Hugo site
         run: |
           cd repo-for-generate-blog/
