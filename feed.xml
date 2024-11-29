@@ -1,5 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/chinobing/blog</id><title>RSS feed of chinobing's blog</title><updated>2024-11-29T05:26:44.011639+00:00</updated><link href="https://github.com/chinobing/blog"/><link href="https://raw.githubusercontent.com/chinobing/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/chinobing/blog/issues/4</id><title>上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计</title><updated>2024-11-29T05:26:44.230306+00:00</updated><content type="html"><![CDATA[<h2>一、统计的理由</h2>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/chinobing/blog</id><title>RSS feed of chinobing's blog</title><updated>2024-11-29T05:28:02.198094+00:00</updated><link href="https://github.com/chinobing/blog"/><link href="https://raw.githubusercontent.com/chinobing/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/chinobing/blog/issues/5</id><title>《控糖革命》读书笔记</title><updated>2024-11-29T05:28:02.602380+00:00</updated><content type="html"><![CDATA[<p>前段时间不知道为啥《控糖革命》这本书在twitter上疯传，好几个大V都在推这书，而且口碑评价都不错。于是乎我也认真读了起来。
+书本基本围绕着（1）为什么要控糖；（2）葡萄糖峰值的危害；（3）控糖技巧；去展开。</p>
+<p>以下是主要的控糖技巧：</p>
+<ol>
+<li>
+<p><strong>按正确的顺序进食</strong>：改变进食的顺序，先吃蔬菜和蛋白质，然后是脂肪，最后吃淀粉和糖。这种顺序可以显著减少餐后血糖峰值。</p>
+</li>
+<li>
+<p><strong>在每餐前添加绿色开胃菜</strong>：在每餐开始时先吃蔬菜，这有助于减缓血糖上升，平衡餐后血糖曲线。</p>
+</li>
+<li>
+<p><strong>停止计算卡路里</strong>：了解不同类型卡路里的差异，认识到不是所有卡路里都相同，改变摄入的分子种类而非仅仅是卡路里数量可以改善健康。</p>
+</li>
+<li>
+<p><strong>改变早餐曲线</strong>：选择含有蛋白质、脂肪和纤维的早餐，避免高糖高淀粉的早餐，以减少血糖波动。</p>
+</li>
+<li>
+<p><strong>任意选择你喜欢的糖</strong>：所有类型的糖在分子层面上都是相同的，选择你喜欢的类型，但要注意摄入量。</p>
+</li>
+<li>
+<p><strong>选择餐后甜点而不是甜零食</strong>：如果你需要甜食，最好在餐后作为甜点食用，而不是作为餐间的零食，这样可以减少血糖的波动。</p>
+</li>
+<li>
+<p><strong>饭前喝醋</strong>：在吃含糖食物前喝含有醋的饮料可以帮助减少血糖和胰岛素的峰值。</p>
+</li>
+<li>
+<p><strong>饭后活动</strong>：饭后进行适度运动，如散步，可以帮助降低血糖峰值，无需增加胰岛素水平。</p>
+</li>
+<li>
+<p><strong>如果你需要零食，选择咸味</strong>：选择咸味零食而不是甜味零食，可以帮助稳定血糖水平，提供持续能量。</p>
+</li>
+<li>
+<p><strong>给你的碳水化合物“穿衣服</strong>”：不要单独食用碳水化合物，而是将它们与蛋白质、脂肪或纤维结合，以减缓血糖上升。</p>
+</li>
+</ol>
+<p>实际上，上面的控糖方法都是简单明了的。对于第7点，我还特意在京东买了3盒苹果醋试试。</p>
+<hr />
+<p><img src="https://github.com/user-attachments/assets/76fbdf83-f71a-46aa-86d1-bf04648fc860" alt="45e584236bb7ba89cd90f29c6a35f22" /></p>
+]]></content><link href="https://github.com/chinobing/blog/issues/5"/><category term="笔记"/><published>2024-11-29T05:27:39+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/4</id><title>上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计</title><updated>2024-11-29T05:28:02.805724+00:00</updated><content type="html"><![CDATA[<h2>一、统计的理由</h2>
 <p>说实话，中国的A股从21年开始到现在就一直反反复复地下跌。当然大盘的行情也是伴随着政府救市政策的出台一惊一乍的。</p>
 <p>较为意外是国庆节举办的国新办新闻发布会，潘功胜、吴清等人的发话直接将A股带上天了。直到国庆节的节后第一个开盘日，10月8日，上证指数已经累计上升了接近30%，从2700的低位上涨到接近3700点。这算是活久见了。</p>
 <p>但是，我持有的两只票居然跑输了大盘。 在此之前，我一直奉行“大盘业绩股”策略。 策略的好处是股票有业绩支撑，不容易出现下跌。 但国庆节打后，炒股的风格发生了骤变。 我发现这种“大盘业绩股”基本是跑输大盘的，而且跌跌不休。</p>
@@ -121,7 +159,7 @@
 <p><img src="https://github.com/user-attachments/assets/30cdbd5f-0c6d-4039-93ab-79b7ed393a13" alt="image" /></p>
 <hr />
 <p><strong>下载地址</strong>：<a href="https://github.com/user-attachments/files/17571211/024.xlsx">024.xlsx</a></p>
-]]></content><link href="https://github.com/chinobing/blog/issues/4"/><category term="研究"/><published>2024-11-29T05:26:19+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/3</id><title>人总是善忘：喷射战士华莱士</title><updated>2024-11-29T05:26:44.342718+00:00</updated><content type="html"><![CDATA[<h3>总是善忘</h3>
+]]></content><link href="https://github.com/chinobing/blog/issues/4"/><category term="研究"/><published>2024-11-29T05:26:19+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/3</id><title>人总是善忘：喷射战士华莱士</title><updated>2024-11-29T05:28:02.971720+00:00</updated><content type="html"><![CDATA[<h3>总是善忘</h3>
 <p>对的，我又拉肚子了。</p>
 <p>事情还得从那顿叉烧饭说起。</p>
 <p>依稀记得上年差不多也是这个时间，在同样的餐馆，吃同样的叉烧饭，拉同样的肚子，感觉就像吃了华莱士一样。当时候还暗暗地“发誓”，这家店太“干净又卫生”， 以后再也不吃了。</p>
@@ -147,7 +185,7 @@
 <hr />
 <p><img src="https://github.com/user-attachments/assets/e328c0df-a48e-4641-827b-124d5a981d0a" alt="image" /></p>
 <p>[^1]: fear of missing out.</p>
-]]></content><link href="https://github.com/chinobing/blog/issues/3"/><category term="想法"/><published>2024-11-29T05:21:25+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/2</id><title>接下来想写啥呢</title><updated>2024-11-29T05:26:44.442946+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/chinobing/blog/issues/3"/><category term="想法"/><published>2024-11-29T05:21:25+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/2</id><title>接下来想写啥呢</title><updated>2024-11-29T05:28:03.161473+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox"> 《控糖革命》笔记</li>
 <li><input checked="" disabled="" type="checkbox"> 上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计</li>
 <li><input checked="" disabled="" type="checkbox"> 人总是善忘：喷射战士华莱士</li>
@@ -155,7 +193,7 @@
 <li><input checked="" disabled="" type="checkbox"> 从《内部视角陷阱：CEO为什么频频预测失误》说起</li>
 <li><input disabled="" type="checkbox"> Convert Jupiter notebook with GitHub action</li>
 </ul>
-]]></content><link href="https://github.com/chinobing/blog/issues/2"/><category term="TODO"/><published>2024-11-29T05:19:39+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/1</id><title>关于</title><updated>2024-11-29T05:26:44.549612+00:00</updated><content type="html"><![CDATA[<ol>
+]]></content><link href="https://github.com/chinobing/blog/issues/2"/><category term="TODO"/><published>2024-11-29T05:19:39+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/1</id><title>关于</title><updated>2024-11-29T05:28:03.369354+00:00</updated><content type="html"><![CDATA[<ol>
 <li>曾经漂洋过海，见证过万恶的华尔街</li>
 <li>经历过15年股灾</li>
 <li>现从事股权投资行业</li>
