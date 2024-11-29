@@ -49,11 +49,10 @@ jobs:
           hugo-version: "latest"
       - name: custom hugo site
         run: |
-          git clone https://github.com/chinobing/repo-for-generate-blog.git repo-for-generate-blog
-          cp -r BACKUP/* repo-for-generate-blog/content/post/
+          git clone https://github.com/chinobing/repo-for-generate-blog.git .
+          cp -r BACKUP/* content/post/
       - name: Build Hugo site
         run: |
-          cd repo-for-generate-blog/
           hugo
       - name: Setup Pages
         uses: actions/configure-pages@v4
