@@ -49,8 +49,9 @@ jobs:
           hugo-version: "latest"
       - name: custom hugo site
         run: |
-          git clone https://github.com/chinobing/repo-for-generate-blog.git .
-          cp -r BACKUP/* content/post/
+          git clone https://github.com/chinobing/repo-for-generate-blog.git blog-dir
+          cp -r BACKUP/* blog-dir/content/post/
+          ls blog-dir/
       - name: Build Hugo site
         run: |
           hugo
