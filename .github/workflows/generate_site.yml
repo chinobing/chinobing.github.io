@@ -47,7 +47,7 @@ jobs:
         run: |
           git clone https://github.com/chinobing/repo-for-generate-blog.git blog-dir
           cp -r BACKUP/* blog-dir/content/post/
-          ls find blog-dir/ -type d -ls
+          find . -type f -path './blog-dir/*' -exec ls -l {} \;
       - name: Build Hugo site
         run: |
           hugo
