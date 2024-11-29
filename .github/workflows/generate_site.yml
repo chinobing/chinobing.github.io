@@ -51,14 +51,10 @@ jobs:
         run: |
           git clone https://github.com/chinobing/repo-for-generate-blog.git repo-for-generate-blog
           cp -r BACKUP/* repo-for-generate-blog/content/post/
-      - name: Fix config.toml
-        run: |
-          cd repo-for-generate-blog
-          sed -i 's/\([0-9]\+\)\([a-zA-Z]\)/\1 \2/g' config.toml
       - name: Build Hugo site
         run: |
           cd repo-for-generate-blog/
-          hugo --baseURL=$BASE_URL
+          hugo
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
