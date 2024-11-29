@@ -1,5 +1,155 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/chinobing/blog</id><title>RSS feed of chinobing's blog</title><updated>2024-11-29T05:30:11.463501+00:00</updated><link href="https://github.com/chinobing/blog"/><link href="https://raw.githubusercontent.com/chinobing/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/chinobing/blog/issues/8</id><title>自证陷阱：谁主张，谁举证</title><updated>2024-11-29T05:30:11.701583+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/user-attachments/assets/d7990044-f635-4a4f-9079-61d034aa4a42" alt="image" /></p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/chinobing/blog</id><title>RSS feed of chinobing's blog</title><updated>2024-11-29T05:31:22.189140+00:00</updated><link href="https://github.com/chinobing/blog"/><link href="https://raw.githubusercontent.com/chinobing/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/chinobing/blog/issues/9</id><title>《显示器》的避坑购买攻略</title><updated>2024-11-29T05:31:22.399858+00:00</updated><content type="html"><![CDATA[<p>最近用了差不多10年的显示器坏了，于是打算购买新的显示器。   基于#9 的原因，还是做做攻略比较好。</p>
+<p>看了一大圈，发现还得看性价比，反正越便宜越好...</p>
+<hr />
+<h3>2024-11-21</h3>
+<p>最后还是被坑了。 按照低价位、低分辨、低高刷，最终在京东上选了一个叫<code>HKC</code>的牌子。</p>
+<p>HKC的显示器是出了名的性价比高，而且在官网看到了其成立时间在2001年，感觉还是比较靠谱的。</p>
+<p>在满心期待的心情下签收了快件（HKC S2716Q），但当我打开外盒的时候就隐隐约约感觉不对劲。 为啥显示器的包装连塑料封条都没有？</p>
+<p>我看了看显示器和配件都是新的，渐渐放下戒心。</p>
+<p>当所有东西都安装好后，我心都碎了。 <strong>显示器居然不亮！！！</strong> 杀人的心都有了。</p>
+<p>反复按开机按钮和看说明书后，知道这东西一送来就是坏的。 </p>
+<p>幸亏京东售后还是比较让人放心，我隔天我就把这货给退了。</p>
+<h3>2024-11-22</h3>
+<p>有了这次购买经历后，我决定还是从一些比较知名的品牌，如小米、ViewSonic、AOC，上挑选。最后挑了AOC的27寸显示器。</p>
+<p>这次就挑对了。 显示器（AOC Q27B35）的包装是密封带封条的，而且通电后一次点亮。</p>
+<hr />
+<pre><code>Markmap
+---
+markmap:
+  maxWidth: 500
+---
+
+# 显示器
+## 面板类型
+- TN
+  - **优点**：时间快，价格便宜，
+  - **缺点**：色彩深度低，画面泛白，可视角窄，表现是最差
+- IPS
+  - **优点**：广视角屏幕，色彩显示效果最好
+  - **缺点**：普遍存在漏光
+  - **优劣等级排名**：P-IPS &gt; H-IPS &gt; S-IPS &gt; E-IPS = AH-IPS
+- VA
+  - **优点**：对比度和画面层次方面更有优势
+  - **缺点**：色彩表现稍逊于IPS，响应速度慢，多用于曲面屏
+
+## 尺寸与分辨率
+- **HD**：分辨率为1280×720
+- **FHD**： 代表1K或者1080P，分辨率为1920*1080
+- **QHD**：代表2K，分辨率为2560*1440
+- **WQHD**：“W”则表示“宽”，一般是带鱼屏，分辨率为3440*1440，很多商家标注4K，其实不属于4K；
+- **UHD**：代表4K，分辨率为3840x2160
+- **选择**：分辨率越大，像素点数量越多，画面越清晰精细；或者直接看==PPI像素密度==
+
+## 色深
+- 指的是色彩的层次，Bit值越大越好
+- **6bit**：表示64灰阶，可以支持26万色
+- **8bit**：表示256灰阶，可以支持1670万色
+- **10bit**：表示1024灰阶，能够支持10.7亿色
+
+## 色域与色准
+- **色准**：色彩准确度，通常ΔE&lt;3（数值当然越小越好）基本看不出差异了
+- **色域**：指的是显示器的色彩丰富度，目前常见的有三种，分别是sRGB、NTSC、Adobe RGB
+
+## DR技术
+- **SDR**：指的是标准动态范围 
+- **HDR**：指的是高动态范围，HDR技术能够提供更好的色彩精度和对比度
+  - **HDR400**：HDR400是一种HDR等级，根据亮度还有HDR500、HDR600、HDR1000等不同等级
+  - **HDR10**：开源的HDR标准
+  - 两者不具可比性
+  - ==DisplayHDR认证才能衡量HDR效果==
+
+## 刷新率
+- 高刷新率显示器主流针对FPS类游戏玩家，对于日常使用、设计、电影、非FPS游戏没有任何效果
+- 144Hz、155Hz、165Hz刷新率选择不必太纠结，差异不是太大
+- ==不玩游戏，高刷没用==
+- G-sync和Free-sync垂直同步技术
+  - G-Sync用英伟达芯片，画质提升明显，但价格贵
+  - Free-sync免费开源，成本低
+
+## 显示接口
+- **DVI**：前最新的是DVI-D，双通道支持最大1080P 120hz和2560 x 1600/60hz，对于高刷新率显示器DVI显示接口会受限
+- **HDMI**：主流的高清接口，支持高刷、高分辨率
+- **DP**：主流的高清接口，比HDMI更好
+- ==排名==：DP&gt;HDMI&gt;DVI&gt;VGA；
+</code></pre>
+<hr />
+<h1>显示器<a href="%5B%E5%88%AB%E8%A2%AB%E5%8F%82%E6%95%B0%E5%BF%BD%E6%82%A0%E4%BA%86%EF%BC%81%E9%80%9A%E4%BF%97%E6%98%93%E6%87%82%E7%9A%84%E7%94%B5%E8%84%91%E6%98%BE%E7%A4%BA%E5%99%A8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E7%A7%91%E6%99%AE%E4%B8%8E%E9%81%BF%E5%9D%91%E6%94%BB%E7%95%A5%5D(http://www.csfeho.com/news/1816.cshtml)">^1</a></h1>
+<h2>面板类型</h2>
+<ul>
+<li>
+TN<ul>
+<li><strong>优点</strong>：时间快，价格便宜，</li>
+<li><strong>缺点</strong>：色彩深度低，画面泛白，可视角窄，表现是最差</li>
+</ul>
+</li>
+<li>
+IPS<ul>
+<li><strong>优点</strong>：广视角屏幕，色彩显示效果最好</li>
+<li><strong>缺点</strong>：普遍存在漏光</li>
+<li><strong>优劣等级排名</strong>：P-IPS &gt; H-IPS &gt; S-IPS &gt; E-IPS = AH-IPS</li>
+</ul>
+</li>
+<li>
+VA<ul>
+<li><strong>优点</strong>：对比度和画面层次方面更有优势</li>
+<li><strong>缺点</strong>：色彩表现稍逊于IPS，响应速度慢，多用于曲面屏</li>
+</ul>
+</li>
+</ul>
+<h2>尺寸与分辨率</h2>
+<ul>
+<li><strong>HD</strong>：分辨率为1280×720</li>
+<li><strong>FHD</strong>： 代表1K或者1080P，分辨率为1920*1080</li>
+<li><strong>QHD</strong>：代表2K，分辨率为2560*1440</li>
+<li><strong>WQHD</strong>：“W”则表示“宽”，一般是带鱼屏，分辨率为3440*1440，很多商家标注4K，其实不属于4K；</li>
+<li><strong>UHD</strong>：代表4K，分辨率为3840x2160</li>
+<li><strong>选择</strong>：分辨率越大，像素点数量越多，画面越清晰精细；或者直接看<strong>PPI像素密度</strong></li>
+</ul>
+<h2>色深</h2>
+<ul>
+<li>指的是色彩的层次，Bit值越大越好</li>
+<li><strong>6bit</strong>：表示64灰阶，可以支持26万色</li>
+<li><strong>8bit</strong>：表示256灰阶，可以支持1670万色</li>
+<li><strong>10bit</strong>：表示1024灰阶，能够支持10.7亿色</li>
+</ul>
+<h2>色域与色准</h2>
+<ul>
+<li><strong>色准</strong>：色彩准确度，通常ΔE&lt;3（数值当然越小越好）基本看不出差异了</li>
+<li><strong>色域</strong>：指的是显示器的色彩丰富度，目前常见的有三种，分别是sRGB、NTSC、Adobe RGB</li>
+</ul>
+<h2>DR技术</h2>
+<ul>
+<li><strong>SDR</strong>：指的是标准动态范围 </li>
+<li>
+<strong>HDR</strong>：指的是高动态范围，HDR技术能够提供更好的色彩精度和对比度<ul>
+<li><strong>HDR400</strong>：HDR400是一种HDR等级，根据亮度还有HDR500、HDR600、HDR1000等不同等级</li>
+<li><strong>HDR10</strong>：开源的HDR标准</li>
+<li>两者不具可比性</li>
+<li><strong>DisplayHDR认证才能衡量HDR效果</strong></li>
+</ul>
+</li>
+</ul>
+<h2>刷新率</h2>
+<ul>
+<li>高刷新率显示器主流针对FPS类游戏玩家，对于日常使用、设计、电影、非FPS游戏没有任何效果</li>
+<li>144Hz、155Hz、165Hz刷新率选择不必太纠结，差异不是太大</li>
+<li><strong>不玩游戏，高刷没用</strong></li>
+<li>
+G-sync和Free-sync垂直同步技术<ul>
+<li>G-Sync用英伟达芯片，画质提升明显，但价格贵</li>
+<li>Free-sync免费开源，成本低</li>
+</ul>
+</li>
+</ul>
+<h2>显示接口</h2>
+<ul>
+<li><strong>DVI</strong>：前最新的是DVI-D，双通道支持最大1080P 120hz和2560 x 1600/60hz，对于高刷新率显示器DVI显示接口会受限</li>
+<li><strong>HDMI</strong>：主流的高清接口，支持高刷、高分辨率</li>
+<li><strong>DP</strong>：主流的高清接口，比HDMI更好</li>
+<li><strong>排名</strong>：DP&gt;HDMI&gt;DVI&gt;VGA；</li>
+</ul>
+]]></content><link href="https://github.com/chinobing/blog/issues/9"/><category term="笔记"/><published>2024-11-29T05:30:56+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/8</id><title>自证陷阱：谁主张，谁举证</title><updated>2024-11-29T05:31:22.511674+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/user-attachments/assets/d7990044-f635-4a4f-9079-61d034aa4a42" alt="image" /></p>
 <p>相信看过和没看过电影《让子弹飞》的人对于剧中的小六子被胡万污蔑吃了两碗粉这个情节都会震惊不已。 </p>
 <p>小六子为了证明自己只吃了一碗粉而剖开了自己的肚子，陷入了“自证陷阱”，最终丢了性命。</p>
 <p>其实这个时候，他只要说一句“<strong>你怎么证明我吃了两碗粉。</strong>”</p>
@@ -34,7 +184,7 @@
 [^2]:  <a href="https://www.51ldb.com/shsldb/ghnx/content/018bfac435a9c0010000ada09aaa8097.html">为什么女性更容易掉入“自证陷阱”？</a> </p>
 <hr />
 <h2>未完</h2>
-]]></content><link href="https://github.com/chinobing/blog/issues/8"/><category term="想法"/><published>2024-11-29T05:29:51+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/7</id><title>第一性原理：钙尔奇钙片</title><updated>2024-11-29T05:30:11.809444+00:00</updated><content type="html"><![CDATA[<p>最近家里的老人家开始有补钙的需求，而我为了买钙片这事情也是使出了浑身解数，小红书、什么值得买、京东评论一个不落。</p>
+]]></content><link href="https://github.com/chinobing/blog/issues/8"/><category term="想法"/><published>2024-11-29T05:29:51+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/7</id><title>第一性原理：钙尔奇钙片</title><updated>2024-11-29T05:31:22.675835+00:00</updated><content type="html"><![CDATA[<p>最近家里的老人家开始有补钙的需求，而我为了买钙片这事情也是使出了浑身解数，小红书、什么值得买、京东评论一个不落。</p>
 <p>但在选购钙片之前就听说过固态钙会导致便秘，而液态钙就不存在这种情况。所以在购买的时候我就特意搜索液态钙。</p>
 <p>搜索出来的结果五花八门，只看标题的话难以下手，有的叫软胶囊液态钙，有的还添加了D3、K2。</p>
 <p>最终我挑了钙尔奇的D3软胶囊钙。 当时候我的购买逻辑就是，胶囊等于液态，D3属于加分项。</p>
@@ -66,7 +216,7 @@
 <p>所谓第一性原理指的是，回归事物最基本的条件，把其解构成各种要素进行分析，从而找到实现目标最优路径的方法。</p>
 </blockquote>
 <p>生活中还有很多关于第一性原理的例子。例如购买牙膏、化妆品等，我们可以通过产品的成分表去分析那些产品是真正具有美白功效的，那些是具有防蛀牙功效的，而不是只看宣传广告语。</p>
-]]></content><link href="https://github.com/chinobing/blog/issues/7"/><category term="想法"/><published>2024-11-29T05:29:14+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/6</id><title>从《内部视角陷阱：CEO为什么频频预测失误》说起</title><updated>2024-11-29T05:30:11.909145+00:00</updated><content type="html"><![CDATA[<p>最近沉迷上了贝叶斯定理，还专门在京东买了两本书，一本是刘雪峰编写的《生活不是掷骰子》，另一本是Will Kurt的《趣学贝叶斯统计》。</p>
+]]></content><link href="https://github.com/chinobing/blog/issues/7"/><category term="想法"/><published>2024-11-29T05:29:14+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/6</id><title>从《内部视角陷阱：CEO为什么频频预测失误》说起</title><updated>2024-11-29T05:31:22.787038+00:00</updated><content type="html"><![CDATA[<p>最近沉迷上了贝叶斯定理，还专门在京东买了两本书，一本是刘雪峰编写的《生活不是掷骰子》，另一本是Will Kurt的《趣学贝叶斯统计》。</p>
 <p>在《生活不是掷骰子》中，刘大师说起了内外部视角对先验概率的影响，其中就引用了百度前副总裁李靖写的一篇文章《 <a href="https://mp.weixin.qq.com/s/7dkXYXsabmCFbk8Wz_NWqA">内部视角陷阱：CEO为什么频频预测失误</a> 》中的一个例子。 </p>
 <p>由于这例子很有意思，我还特意把这篇15年的文章找了出来整篇阅读。
 例子如下：</p>
@@ -81,7 +231,7 @@
 <p>针对他的想法，我提了几个问题。 后面基本就聊不下去了，主要原因就是他觉得我们不懂这系统有多厉害，不懂他们的经销商渠道有多厉害。</p>
 <p><code>5年过去了，这公司的管理系统没有铺开，融资没有办成，当然也没有上市。 </code></p>
 <p>现在想起来还是有点意思。这大佬当时候就是从内部角度去做产品，倘若当年他也看了李靖写的《内部视角陷阱：CEO为什么频频预测失误》，结果会不会不一样呢？</p>
-]]></content><link href="https://github.com/chinobing/blog/issues/6"/><category term="想法"/><published>2024-11-29T05:28:32+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/5</id><title>《控糖革命》读书笔记</title><updated>2024-11-29T05:30:12.061590+00:00</updated><content type="html"><![CDATA[<p>前段时间不知道为啥《控糖革命》这本书在twitter上疯传，好几个大V都在推这书，而且口碑评价都不错。于是乎我也认真读了起来。
+]]></content><link href="https://github.com/chinobing/blog/issues/6"/><category term="想法"/><published>2024-11-29T05:28:32+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/5</id><title>《控糖革命》读书笔记</title><updated>2024-11-29T05:31:22.873937+00:00</updated><content type="html"><![CDATA[<p>前段时间不知道为啥《控糖革命》这本书在twitter上疯传，好几个大V都在推这书，而且口碑评价都不错。于是乎我也认真读了起来。
 书本基本围绕着（1）为什么要控糖；（2）葡萄糖峰值的危害；（3）控糖技巧；去展开。</p>
 <p>以下是主要的控糖技巧：</p>
 <ol>
@@ -119,7 +269,7 @@
 <p>实际上，上面的控糖方法都是简单明了的。对于第7点，我还特意在京东买了3盒苹果醋试试。</p>
 <hr />
 <p><img src="https://github.com/user-attachments/assets/76fbdf83-f71a-46aa-86d1-bf04648fc860" alt="45e584236bb7ba89cd90f29c6a35f22" /></p>
-]]></content><link href="https://github.com/chinobing/blog/issues/5"/><category term="笔记"/><published>2024-11-29T05:27:39+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/4</id><title>上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计</title><updated>2024-11-29T05:30:12.179974+00:00</updated><content type="html"><![CDATA[<h2>一、统计的理由</h2>
+]]></content><link href="https://github.com/chinobing/blog/issues/5"/><category term="笔记"/><published>2024-11-29T05:27:39+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/4</id><title>上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计</title><updated>2024-11-29T05:31:22.977356+00:00</updated><content type="html"><![CDATA[<h2>一、统计的理由</h2>
 <p>说实话，中国的A股从21年开始到现在就一直反反复复地下跌。当然大盘的行情也是伴随着政府救市政策的出台一惊一乍的。</p>
 <p>较为意外是国庆节举办的国新办新闻发布会，潘功胜、吴清等人的发话直接将A股带上天了。直到国庆节的节后第一个开盘日，10月8日，上证指数已经累计上升了接近30%，从2700的低位上涨到接近3700点。这算是活久见了。</p>
 <p>但是，我持有的两只票居然跑输了大盘。 在此之前，我一直奉行“大盘业绩股”策略。 策略的好处是股票有业绩支撑，不容易出现下跌。 但国庆节打后，炒股的风格发生了骤变。 我发现这种“大盘业绩股”基本是跑输大盘的，而且跌跌不休。</p>
@@ -241,7 +391,7 @@
 <p><img src="https://github.com/user-attachments/assets/30cdbd5f-0c6d-4039-93ab-79b7ed393a13" alt="image" /></p>
 <hr />
 <p><strong>下载地址</strong>：<a href="https://github.com/user-attachments/files/17571211/024.xlsx">024.xlsx</a></p>
-]]></content><link href="https://github.com/chinobing/blog/issues/4"/><category term="研究"/><published>2024-11-29T05:26:19+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/3</id><title>人总是善忘：喷射战士华莱士</title><updated>2024-11-29T05:30:12.308670+00:00</updated><content type="html"><![CDATA[<h3>总是善忘</h3>
+]]></content><link href="https://github.com/chinobing/blog/issues/4"/><category term="研究"/><published>2024-11-29T05:26:19+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/3</id><title>人总是善忘：喷射战士华莱士</title><updated>2024-11-29T05:31:23.082413+00:00</updated><content type="html"><![CDATA[<h3>总是善忘</h3>
 <p>对的，我又拉肚子了。</p>
 <p>事情还得从那顿叉烧饭说起。</p>
 <p>依稀记得上年差不多也是这个时间，在同样的餐馆，吃同样的叉烧饭，拉同样的肚子，感觉就像吃了华莱士一样。当时候还暗暗地“发誓”，这家店太“干净又卫生”， 以后再也不吃了。</p>
@@ -267,7 +417,7 @@
 <hr />
 <p><img src="https://github.com/user-attachments/assets/e328c0df-a48e-4641-827b-124d5a981d0a" alt="image" /></p>
 <p>[^1]: fear of missing out.</p>
-]]></content><link href="https://github.com/chinobing/blog/issues/3"/><category term="想法"/><published>2024-11-29T05:21:25+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/2</id><title>接下来想写啥呢</title><updated>2024-11-29T05:30:12.398735+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/chinobing/blog/issues/3"/><category term="想法"/><published>2024-11-29T05:21:25+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/2</id><title>接下来想写啥呢</title><updated>2024-11-29T05:31:23.173472+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox"> 《控糖革命》笔记</li>
 <li><input checked="" disabled="" type="checkbox"> 上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计</li>
 <li><input checked="" disabled="" type="checkbox"> 人总是善忘：喷射战士华莱士</li>
@@ -275,7 +425,7 @@
 <li><input checked="" disabled="" type="checkbox"> 从《内部视角陷阱：CEO为什么频频预测失误》说起</li>
 <li><input disabled="" type="checkbox"> Convert Jupiter notebook with GitHub action</li>
 </ul>
-]]></content><link href="https://github.com/chinobing/blog/issues/2"/><category term="TODO"/><published>2024-11-29T05:19:39+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/1</id><title>关于</title><updated>2024-11-29T05:30:12.495347+00:00</updated><content type="html"><![CDATA[<ol>
+]]></content><link href="https://github.com/chinobing/blog/issues/2"/><category term="TODO"/><published>2024-11-29T05:19:39+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/1</id><title>关于</title><updated>2024-11-29T05:31:23.272141+00:00</updated><content type="html"><![CDATA[<ol>
 <li>曾经漂洋过海，见证过万恶的华尔街</li>
 <li>经历过15年股灾</li>
 <li>现从事股权投资行业</li>
