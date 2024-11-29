@@ -48,12 +48,13 @@ jobs:
           tar zxf zola.tar.gz && mv zola /usr/local/bin
           cp config.toml output/config.toml
           cd output && zola build --base-url $BASE_URL
+          cp -a /output/public ${{ github.workspace }}
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          path: 'output/public'
+          path: 'output/public/.'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v3
