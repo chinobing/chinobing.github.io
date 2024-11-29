@@ -2,11 +2,11 @@
 [RSS Feed](https://raw.githubusercontent.com/chinobing/blog/master/feed.xml)
 
 ## 最近更新
+- [《详谈左晖》书摘](https://github.com/chinobing/blog/issues/11)--2024-11-29
 - [反向选股：妖股是如何割韭菜的](https://github.com/chinobing/blog/issues/10)--2024-11-29
 - [《显示器》的避坑购买攻略](https://github.com/chinobing/blog/issues/9)--2024-11-29
 - [自证陷阱：谁主张，谁举证](https://github.com/chinobing/blog/issues/8)--2024-11-29
 - [第一性原理：钙尔奇钙片](https://github.com/chinobing/blog/issues/7)--2024-11-29
-- [从《内部视角陷阱：CEO为什么频频预测失误》说起](https://github.com/chinobing/blog/issues/6)--2024-11-29
 ## 一、想法
 - [自证陷阱：谁主张，谁举证](https://github.com/chinobing/blog/issues/8)--2024-11-29
 - [第一性原理：钙尔奇钙片](https://github.com/chinobing/blog/issues/7)--2024-11-29
@@ -16,6 +16,7 @@
 - [反向选股：妖股是如何割韭菜的](https://github.com/chinobing/blog/issues/10)--2024-11-29
 - [上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计](https://github.com/chinobing/blog/issues/4)--2024-11-29
 ## 三、笔记
+- [《详谈左晖》书摘](https://github.com/chinobing/blog/issues/11)--2024-11-29
 - [《显示器》的避坑购买攻略](https://github.com/chinobing/blog/issues/9)--2024-11-29
 - [《控糖革命》读书笔记](https://github.com/chinobing/blog/issues/5)--2024-11-29
 ## TODO
