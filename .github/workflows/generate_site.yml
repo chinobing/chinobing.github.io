@@ -29,7 +29,6 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ github.token }}
-      HUGO_VERSION: 0.110.0
       USER: ${{ github.repository_owner }}
       REPO: ${{ github.event.repository.name }}
       # BASE_URL: https://blog.f10.org # change to your own domain
@@ -42,7 +41,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "latest"
+          hugo-version: "0.119.0"
       - name: custom hugo site
         run: |
           git clone https://github.com/chinobing/repo-for-generate-blog.git blog-dir
