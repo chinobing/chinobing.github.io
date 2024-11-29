@@ -29,8 +29,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ github.token }}
-      ISITE_VERSION: v0.1.3
-      ZOLA_VERSION: v0.19.2
+      HUGO_VERSION: v0.127.0
       USER: ${{ github.repository_owner }}
       REPO: ${{ github.event.repository.name }}
       # BASE_URL: https://blog.yihong0618.me # change to your own domain
@@ -39,22 +38,27 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Generate markdown
+      - name: Copy Markdown files from BACKUP to content/posts
         run: |
-          gh release download $ISITE_VERSION --repo kemingy/isite -p '*Linux_x86_64*' --output isite.tar.gz
-          tar zxf isite.tar.gz && mv isite /usr/local/bin
-          isite generate --user $USER --repo $REPO
-          gh release download $ZOLA_VERSION --repo getzola/zola -p '*linux*' --output zola.tar.gz
-          tar zxf zola.tar.gz && mv zola /usr/local/bin
-          cp config.toml output/config.toml
-          cd output && zola build --base-url $BASE_URL
-          cp -a output/public/* ${{ github.workspace }}/public
+          mkdir -p content/posts
+          cp -r BACKUP/* content/posts/
+      - name: Setup Hugo
+        run: |
+          wget -O hugo.tar.gz https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
+          tar zxf hugo.tar.gz
+          mv hugo /usr/local/bin
+      - name: Set custom theme
+        run: |
+          git clone https://github.com/WingLim/hugo-tania.git themes/hugo-tania
+      - name: Build Hugo site
+        run: |
+          hugo --theme=hugo-tania --baseURL=$BASE_URL
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          path: 'public/.'
+          path: 'public'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v3
