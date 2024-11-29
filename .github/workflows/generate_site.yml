@@ -46,6 +46,7 @@ jobs:
       - name: custom hugo site
         run: |
           git clone https://github.com/chinobing/repo-for-generate-blog.git blog-dir
+          mkdir -p blog-dir/content/post
           cp -r BACKUP/* blog-dir/content/post/
           # find . -type f -path './blog-dir/*' -exec ls -l {} \;
       - name: Build Hugo site
