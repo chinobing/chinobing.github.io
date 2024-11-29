@@ -55,26 +55,26 @@ jobs:
           git push || echo "nothing to push"
           sleep 3
           
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: 'docs/.'
+      # - name: Upload artifact
+      #   uses: actions/upload-pages-artifact@v3
+      #   with:
+      #     path: 'docs/.'
           
-  deploy:
-    name: Deploy blog
-    runs-on: ubuntu-20.04
-    needs: build
-    permissions:
-      contents: write
-      pages: write
-      id-token: write
-    concurrency:
-      group: "pages"
-      cancel-in-progress: false
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+  # deploy:
+  #   name: Deploy blog
+  #   runs-on: ubuntu-20.04
+  #   needs: build
+  #   permissions:
+  #     contents: write
+  #     pages: write
+  #     id-token: write
+  #   concurrency:
+  #     group: "pages"
+  #     cancel-in-progress: false
+  #   environment:
+  #     name: github-pages
+  #     url: ${{ steps.deployment.outputs.page_url }}
+  #   steps:
+  #     - name: Deploy to GitHub Pages
+  #       id: deployment
+  #       uses: actions/deploy-pages@v4
