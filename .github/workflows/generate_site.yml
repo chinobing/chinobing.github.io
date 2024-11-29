@@ -49,9 +49,14 @@ jobs:
       - name: Set custom theme
         run: |
           git clone https://github.com/WingLim/hugo-tania.git themes/hugo-tania
-      # - name: Copy custom config.toml
-      #   run: |
-      #     cp config.toml .
+      - name: Copy custom config.toml
+        run: |
+          if [ -f config.toml ]; then
+            cp -f config.toml .
+          else
+            echo "config.toml does not exist"
+            exit 1
+          fi
       - name: Build Hugo site
         run: |
           hugo --theme=hugo-tania --baseURL=$BASE_URL
