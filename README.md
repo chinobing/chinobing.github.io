@@ -20,7 +20,6 @@
 - [《显示器》的避坑购买攻略](https://github.com/chinobing/blog/issues/9)--2024-11-29
 - [《控糖革命》读书笔记](https://github.com/chinobing/blog/issues/5)--2024-11-29
 ## TODO
-TODO list from [接下来想写啥呢](https://github.com/chinobing/blog/issues/2)--2 jobs to do--5 jobs done
+TODO list from [接下来想写啥呢](https://github.com/chinobing/blog/issues/2)--1 jobs to do--5 jobs done
 - [ ] Convert Jupiter notebook with GitHub action
-- [ ] 
 
