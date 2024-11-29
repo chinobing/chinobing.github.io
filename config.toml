@@ -1,0 +1,15 @@
+base_url = "https://chinobing.github.io"
+generate_feeds = true
+feed_filenames = ["rss.xml"]
+theme = "even"
+taxonomies = [
+    {name = "categories", feed = true},
+    {name = "tags", feed = true},
+]
+[extra]
+even_title = "ChinoBing's Blog"
+even_menu = [
+    {url = "$BASE_URL", name = "Home"},
+    {url = "$BASE_URL/tags/top/", name = "Top"},
+    {url = "$BASE_URL/issue-282/", name = "About"},
+]
