@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/chinobing/blog</id><title>RSS feed of chinobing's blog</title><updated>2024-11-29T05:16:36.450157+00:00</updated><link href="https://github.com/chinobing/blog"/><link href="https://raw.githubusercontent.com/chinobing/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/chinobing/blog/issues/1</id><title>关于</title><updated>2024-11-29T05:16:36.747653+00:00</updated><content type="html"><![CDATA[<ol>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/chinobing/blog</id><title>RSS feed of chinobing's blog</title><updated>2024-11-29T05:19:57.191153+00:00</updated><link href="https://github.com/chinobing/blog"/><link href="https://raw.githubusercontent.com/chinobing/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/chinobing/blog/issues/2</id><title>接下来想写啥呢</title><updated>2024-11-29T05:19:57.465279+00:00</updated><content type="html"><![CDATA[<ul>
+<li><input checked="" disabled="" type="checkbox"> 《控糖革命》笔记</li>
+<li><input checked="" disabled="" type="checkbox"> 上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计</li>
+<li><input checked="" disabled="" type="checkbox"> 人总是善忘：喷射战士华莱士</li>
+<li><input checked="" disabled="" type="checkbox"> <del>利用github action实现爬取和生成美股market breath图表.</del></li>
+<li><input checked="" disabled="" type="checkbox"> 从《内部视角陷阱：CEO为什么频频预测失误》说起</li>
+<li><input disabled="" type="checkbox"> Convert Jupiter notebook with GitHub action</li>
+</ul>
+]]></content><link href="https://github.com/chinobing/blog/issues/2"/><category term="TODO"/><published>2024-11-29T05:19:39+00:00</published></entry><entry><id>https://github.com/chinobing/blog/issues/1</id><title>关于</title><updated>2024-11-29T05:19:57.554979+00:00</updated><content type="html"><![CDATA[<ol>
 <li>曾经漂洋过海，见证过万恶的华尔街</li>
 <li>经历过15年股灾</li>
 <li>现从事股权投资行业</li>
