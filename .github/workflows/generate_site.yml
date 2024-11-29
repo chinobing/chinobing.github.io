@@ -47,9 +47,10 @@ jobs:
         run: |
           git clone https://github.com/chinobing/repo-for-generate-blog.git blog-dir
           cp -r BACKUP/* blog-dir/content/post/
-          find . -type f -path './blog-dir/*' -exec ls -l {} \;
+          # find . -type f -path './blog-dir/*' -exec ls -l {} \;
       - name: Build Hugo site
         run: |
+          cd blog-dir
           hugo
       - name: Setup Pages
         uses: actions/configure-pages@v4
