@@ -13,38 +13,60 @@ jobs:
     runs-on: ubuntu-20.04
     if: ${{ github.event.repository.owner.id == github.event.sender.id || github.event_name == 'schedule' }}
     permissions: write-all
+    # steps:
+    #   - name: Checkout
+    #     uses: actions/checkout@v4
+
+    #   - name: Setup Pages
+    #     id: pages
+    #     uses: actions/configure-pages@v4
+
+    #   - name: Set up Python
+    #     uses: actions/setup-python@v5
+    #     with:
+    #       python-version: 3.8
+
+    #   - name: Clone source code
+    #     run: |
+    #       git clone https://github.com/chinobing/repo-for-generate-blog.git /opt/repo-for-generate-blog;
+    #       cd /opt/repo-for-generate-blog/
+          
+    #   - name: Install dependencies
+    #     run: |
+    #       pip install --upgrade pip
+    #       pip install -r /opt/repo-for-generate-blog/requirements.txt
+
+    #   - name: Generate new html
+    #     run: |
+    #       cp -r ./* /opt/repo-for-generate-blog/
+    #       cd /opt/repo-for-generate-blog/
+          
+    #       python main.py ${{ secrets.G_T }} ${{ github.repository }} --issue_number '${{ github.event.issue.number }}'
+    #       cp -a /opt/repo-for-generate-blog/BACKUP ${{ github.workspace }}
+    #       cp /opt/repo-for-generate-blog/feed.xml ${{ github.workspace }}
+    #       cp /opt/repo-for-generate-blog/README.md ${{ github.workspace }}
+    
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v4
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: 3.8
+          cache: pip
+          cache-dependency-path: "requirements.txt"
 
-      - name: Clone source code
-        run: |
-          git clone https://github.com/chinobing/repo-for-generate-blog.git /opt/repo-for-generate-blog;
-          cd /opt/repo-for-generate-blog/
-          
       - name: Install dependencies
         run: |
-          pip install --upgrade pip
-          pip install -r /opt/repo-for-generate-blog/requirements.txt
+          python -m pip install --upgrade pip
+          python -m venv venv
+          source venv/bin/activate
+          pip install -r requirements.txt
 
-      - name: Generate new html
+      - name: Generate new md
         run: |
-          cp -r ./* /opt/repo-for-generate-blog/
-          cd /opt/repo-for-generate-blog/
-          
+          source venv/bin/activate
           python main.py ${{ secrets.G_T }} ${{ github.repository }} --issue_number '${{ github.event.issue.number }}'
-          cp -a /opt/repo-for-generate-blog/BACKUP ${{ github.workspace }}
-          cp /opt/repo-for-generate-blog/feed.xml ${{ github.workspace }}
-          cp /opt/repo-for-generate-blog/README.md ${{ github.workspace }}
 
       - name: update html
         run: |
@@ -55,26 +77,3 @@ jobs:
           git push || echo "nothing to push"
           sleep 3
           
-      # - name: Upload artifact
-      #   uses: actions/upload-pages-artifact@v3
-      #   with:
-      #     path: 'docs/.'
-          
-  # deploy:
-  #   name: Deploy blog
-  #   runs-on: ubuntu-20.04
-  #   needs: build
-  #   permissions:
-  #     contents: write
-  #     pages: write
-  #     id-token: write
-  #   concurrency:
-  #     group: "pages"
-  #     cancel-in-progress: false
-  #   environment:
-  #     name: github-pages
-  #     url: ${{ steps.deployment.outputs.page_url }}
-  #   steps:
-  #     - name: Deploy to GitHub Pages
-  #       id: deployment
-  #       uses: actions/deploy-pages@v4
