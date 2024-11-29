@@ -1,0 +1,8 @@
+PyGithub==1.59.1
+requests
+xpinyin
+feedgen
+Jinja2
+transliterate
+marko
+markdown
