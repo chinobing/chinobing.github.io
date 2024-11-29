@@ -39,17 +39,19 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Copy Markdown files from BACKUP to content/posts
-        run: |
-          mkdir -p content/posts
-          cp -r BACKUP/* content/post/
+      # - name: Copy Markdown files from BACKUP to content/posts
+      #   run: |
+      #     mkdir -p content/post
+      #     cp -r BACKUP/* content/post/
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "latest"
       - name: Set custom theme
         run: |
-          git clone https://github.com/chinobing/repo-for-generate-blog.git
+          git clone https://github.com/chinobing/repo-for-generate-blog.git repo-for-generate-blog
+          cd repo-for-generate-blog/
+          cp -r BACKUP/* content/post/
       # - name: Delete existing config.toml
       #   run: |
       #     rm -f config.toml
@@ -58,6 +60,7 @@ jobs:
       #     cp -f config.toml .
       - name: Build Hugo site
         run: |
+          cd repo-for-generate-blog/
           hugo --baseURL=$BASE_URL
       - name: Setup Pages
         uses: actions/configure-pages@v4
