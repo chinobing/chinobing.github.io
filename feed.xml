@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/chinobing/blog</id><title>RSS feed of chinobing's blog</title><updated>2024-11-29T05:16:36.450157+00:00</updated><link href="https://github.com/chinobing/blog"/><link href="https://raw.githubusercontent.com/chinobing/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/chinobing/blog/issues/1</id><title>关于</title><updated>2024-11-29T05:16:36.747653+00:00</updated><content type="html"><![CDATA[<ol>
+<li>曾经漂洋过海，见证过万恶的华尔街</li>
+<li>经历过15年股灾</li>
+<li>现从事股权投资行业</li>
+<li>对python情有独钟</li>
+</ol>
+]]></content><link href="https://github.com/chinobing/blog/issues/1"/><category term="About"/><published>2024-11-29T05:11:15+00:00</published></entry></feed>
