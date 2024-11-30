@@ -1,4 +1,4 @@
-name: build Blog
+name: Generate README
 
 on:
   workflow_dispatch:
