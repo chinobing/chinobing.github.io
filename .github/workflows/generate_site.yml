@@ -47,8 +47,8 @@ jobs:
           git clone https://github.com/chinobing/gohugo-blog.git blog-dir
           # mkdir -p blog-dir/content/post
           # cp -r BACKUP/* blog-dir/content/posts/ 正常hugo的posts目录，这个看theme的要求改变
-          mkdir -p blog-dir/content/cn
-          cp -r BACKUP/* blog-dir/content/cn/
+          mkdir -p blog-dir/content/cn/posts
+          cp -r BACKUP/* blog-dir/content/cn/posts/
       - name: Build Hugo site
         run: |
           cd blog-dir
