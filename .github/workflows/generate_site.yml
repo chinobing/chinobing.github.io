@@ -36,6 +36,9 @@ jobs:
       # BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
       BASE_URL: https://${{ github.repository_owner }}.github.io
     steps:
+      - name: Wait for 10 second
+        # 等待10秒，等待generate_readme.yml备份成功后再执行以下操作
+        run: sleep 10 
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Hugo
