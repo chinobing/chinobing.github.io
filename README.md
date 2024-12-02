@@ -2,7 +2,7 @@
 [RSS Feed](https://raw.githubusercontent.com/chinobing/chinobing.github.io/master/feed.xml)
 
 ## 最近更新
-- [付鹏的《2024年年终回顾和2025年展望——对冲风险VS软着陆》](https://github.com/chinobing/chinobing.github.io/issues/13)--2024-12-02
+- [付鹏的《对冲风险VS软着陆》总结](https://github.com/chinobing/chinobing.github.io/issues/13)--2024-12-02
 - [《详谈左晖》书摘](https://github.com/chinobing/chinobing.github.io/issues/11)--2024-11-29
 - [反向选股：妖股是如何割韭菜的](https://github.com/chinobing/chinobing.github.io/issues/10)--2024-11-29
 - [《显示器》的避坑购买攻略](https://github.com/chinobing/chinobing.github.io/issues/9)--2024-11-29
@@ -16,7 +16,7 @@
 - [反向选股：妖股是如何割韭菜的](https://github.com/chinobing/chinobing.github.io/issues/10)--2024-11-29
 - [上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计](https://github.com/chinobing/chinobing.github.io/issues/4)--2024-11-29
 ## 三、笔记
-- [付鹏的《2024年年终回顾和2025年展望——对冲风险VS软着陆》](https://github.com/chinobing/chinobing.github.io/issues/13)--2024-12-02
+- [付鹏的《对冲风险VS软着陆》总结](https://github.com/chinobing/chinobing.github.io/issues/13)--2024-12-02
 - [《详谈左晖》书摘](https://github.com/chinobing/chinobing.github.io/issues/11)--2024-11-29
 - [《显示器》的避坑购买攻略](https://github.com/chinobing/chinobing.github.io/issues/9)--2024-11-29
 - [《控糖革命》读书笔记](https://github.com/chinobing/chinobing.github.io/issues/5)--2024-11-29
