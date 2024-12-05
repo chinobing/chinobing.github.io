@@ -1,8 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/chinobing/chinobing.github.io</id><title>RSS feed of chinobing's chinobing.github.io</title><updated>2024-12-05T05:21:41.250470+00:00</updated><link href="https://github.com/chinobing/chinobing.github.io"/><link href="https://raw.githubusercontent.com/chinobing/chinobing.github.io/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/chinobing/chinobing.github.io/issues/15</id><title>发行股份及支付现金的并购重组案例：烽火电子</title><updated>2024-12-05T05:21:41.539051+00:00</updated><content type="html"><![CDATA[<p>最近并购重组在证监会新一届的领导<strong>吴清</strong>的带领下搞得红红火火，但这并不是我关注A股并购重组的直接理由。</p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/chinobing/chinobing.github.io</id><title>RSS feed of chinobing's chinobing.github.io</title><updated>2024-12-05T05:25:53.015317+00:00</updated><link href="https://github.com/chinobing/chinobing.github.io"/><link href="https://raw.githubusercontent.com/chinobing/chinobing.github.io/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/chinobing/chinobing.github.io/issues/15</id><title>发行股份及支付现金的并购重组案例：烽火电子</title><updated>2024-12-05T05:25:53.343947+00:00</updated><content type="html"><![CDATA[<p>最近并购重组在证监会新一届的领导<strong>吴清</strong>的带领下搞得红红火火，但这并不是我关注A股并购重组的直接理由。</p>
 <p>最主要的理由是：目前证监会收紧了A股上市IPO的节奏，我手头上一个跟了差不多4年的项目大概率要通过走并购重组这条路实现间接上市退出。 </p>
 <p>还是那句话，<strong>能退出总比烂在那里要强。</strong></p>
 <p>我浏览了一下这段时间并购重组的案例，大概有20几家，最终挑了<code>烽火电子（000561）</code>这个案例来做研究。主要还是它家比较接近我手头上这个项目的情况。</p>
+<p><strong>附件：</strong></p>
+<ul>
+<li><a href="https://github.com/user-attachments/files/18017783/2024_11_._._.pdf">2024_11_陕西烽火电子股份有限公司_发行股份及支付现金购买资产并募集配套资金_暨关联交易报告书.pdf</a></li>
+</ul>
 <hr />
 <h3>基本交易信息</h3>
 <ul>
@@ -54,7 +58,7 @@
 </ul>
 <hr />
 <p>最终还得回归到玄学上， <strong>这都得看命了</strong>。</p>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/15"/><category term="笔记"/><published>2024-12-05T05:21:14+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/13</id><title>付鹏的《对冲风险VS软着陆》总结</title><updated>2024-12-05T05:21:41.686898+00:00</updated><content type="html"><![CDATA[<p>时间：2024年11月24日</p>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/15"/><category term="笔记"/><published>2024-12-05T05:21:14+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/13</id><title>付鹏的《对冲风险VS软着陆》总结</title><updated>2024-12-05T05:25:53.504630+00:00</updated><content type="html"><![CDATA[<p>时间：2024年11月24日</p>
 <p>沙龙：汇丰私人财富规划</p>
 <p><strong>附件：</strong></p>
 <ul>
@@ -555,14 +559,14 @@
 <li>新兴市场危机: 由投资回报率下降和债务问题引发的经济危机</li>
 <li>三元悖论: 利率、汇率、财政政策之间的平衡关系</li>
 </ul>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/13"/><category term="笔记"/><published>2024-12-02T10:19:38+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/11</id><title>《详谈左晖》书摘</title><updated>2024-12-05T05:21:41.870126+00:00</updated><content type="html"><![CDATA[<ol>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/13"/><category term="笔记"/><published>2024-12-02T10:19:38+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/11</id><title>《详谈左晖》书摘</title><updated>2024-12-05T05:25:53.743283+00:00</updated><content type="html"><![CDATA[<ol>
 <li>读书是一项最被夸大的美德。 <code>p007</code></li>
 <li>我们不断和经纪人说，你卖了什么房子不重要，你不卖什么房子才是最重要的；你告诉消费者这个房子该买不重要，你高速消费者这个房子不该买才是最重要的。 <code>p018</code></li>
 <li>我觉得我们今天好像都偷懒了，要去问踩了那些坑。但这些坑毕竟是他踩的，你自己没踩过，你听的跟你碰到的差别是非常大，或者是完全不一样的。你有那个功夫到处去打听，还不如自己去干。 <code>p057</code></li>
 <li>你要想赢，有两个办法，第一个办法让自己变强，第二个办法是让别人变弱。关心竞争多了之后，很容易用第二种办法，因为比较容易，很容易去打击别人，去诋毁别人。 <code>p082</code></li>
 <li>他就说要做一件小事跟做一件大事付出的努力差不多。 <code>p109</code></li>
 </ol>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/11"/><category term="笔记"/><published>2024-11-29T05:32:16+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/10</id><title>反向选股：妖股是如何割韭菜的</title><updated>2024-12-05T05:21:41.992818+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/user-attachments/assets/eece90b2-c85a-41d9-b6e7-93477ad8bfc9" alt="image" /></p>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/11"/><category term="笔记"/><published>2024-11-29T05:32:16+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/10</id><title>反向选股：妖股是如何割韭菜的</title><updated>2024-12-05T05:25:53.893427+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/user-attachments/assets/eece90b2-c85a-41d9-b6e7-93477ad8bfc9" alt="image" /></p>
 <h3>看抖音选股票</h3>
 <p>最近刷抖音看了一位播主比较生动地介绍了庄家是如何通过各种方式割韭菜。 </p>
 <p>播主在视频里面所说的确实是炒股割韭菜的一些老套路。除了股东名册我们普通大众是拿不到之外，持股集中度、市值大小、年线等这些指标还是可以通过公开信息获得。</p>
@@ -603,7 +607,7 @@
 <li><a href="https://github.com/user-attachments/files/17964592/026.xlsx">026.xlsx</a></li>
 <li><a href="https://github.com/user-attachments/files/17964593/026_is_lowest.xlsx">026_is_lowest.xlsx</a></li>
 </ul>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/10"/><category term="研究"/><published>2024-11-29T05:31:43+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/9</id><title>《显示器》的避坑购买攻略</title><updated>2024-12-05T05:21:42.126029+00:00</updated><content type="html"><![CDATA[<p>最近用了差不多10年的显示器坏了，于是打算购买新的显示器。   基于#9 的原因，还是做做攻略比较好。</p>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/10"/><category term="研究"/><published>2024-11-29T05:31:43+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/9</id><title>《显示器》的避坑购买攻略</title><updated>2024-12-05T05:25:54.043782+00:00</updated><content type="html"><![CDATA[<p>最近用了差不多10年的显示器坏了，于是打算购买新的显示器。   基于#9 的原因，还是做做攻略比较好。</p>
 <p>看了一大圈，发现还得看性价比，反正越便宜越好....</p>
 <hr />
 <h3>2024-11-21</h3>
@@ -693,7 +697,7 @@ G-sync和Free-sync垂直同步技术<ul>
 <li><strong>DP</strong>：主流的高清接口，比HDMI更好</li>
 <li><strong>排名</strong>：DP&gt;HDMI&gt;DVI&gt;VGA；</li>
 </ul>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/9"/><category term="笔记"/><published>2024-11-29T05:30:56+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/8</id><title>自证陷阱：谁主张，谁举证</title><updated>2024-12-05T05:21:42.249486+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/user-attachments/assets/6ba97dfa-ba72-4a3e-9abf-464ba2ecff59" alt="image" /></p>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/9"/><category term="笔记"/><published>2024-11-29T05:30:56+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/8</id><title>自证陷阱：谁主张，谁举证</title><updated>2024-12-05T05:25:54.191291+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/user-attachments/assets/6ba97dfa-ba72-4a3e-9abf-464ba2ecff59" alt="image" /></p>
 <p>相信看过和没看过电影《让子弹飞》的人对于剧中的小六子被胡万污蔑吃了两碗粉这个情节都会震惊不已。 </p>
 <p>小六子为了证明自己只吃了一碗粉而剖开了自己的肚子，陷入了“自证陷阱”，最终丢了性命。</p>
 <p>其实这个时候，他只要说一句“<strong>你怎么证明我吃了两碗粉。</strong>”</p>
@@ -728,7 +732,7 @@ G-sync和Free-sync垂直同步技术<ul>
 [^2]:  <a href="https://www.51ldb.com/shsldb/ghnx/content/018bfac435a9c0010000ada09aaa8097.html">为什么女性更容易掉入“自证陷阱”？</a> </p>
 <hr />
 <h2>未完</h2>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/8"/><category term="想法"/><published>2024-11-29T05:29:51+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/7</id><title>第一性原理：钙尔奇钙片</title><updated>2024-12-05T05:21:42.370032+00:00</updated><content type="html"><![CDATA[<p>最近家里的老人家开始有补钙的需求，而我为了买钙片这事情也是使出了浑身解数，小红书、什么值得买、京东评论一个不落。</p>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/8"/><category term="想法"/><published>2024-11-29T05:29:51+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/7</id><title>第一性原理：钙尔奇钙片</title><updated>2024-12-05T05:25:54.356999+00:00</updated><content type="html"><![CDATA[<p>最近家里的老人家开始有补钙的需求，而我为了买钙片这事情也是使出了浑身解数，小红书、什么值得买、京东评论一个不落。</p>
 <p>但在选购钙片之前就听说过固态钙会导致便秘，而液态钙就不存在这种情况。所以在购买的时候我就特意搜索液态钙。</p>
 <p>搜索出来的结果五花八门，只看标题的话难以下手，有的叫软胶囊液态钙，有的还添加了D3、K2。</p>
 <p>最终我挑了钙尔奇的D3软胶囊钙。 当时候我的购买逻辑就是，胶囊等于液态，D3属于加分项。</p>
@@ -760,7 +764,7 @@ G-sync和Free-sync垂直同步技术<ul>
 <p>所谓第一性原理指的是，回归事物最基本的条件，把其解构成各种要素进行分析，从而找到实现目标最优路径的方法。</p>
 </blockquote>
 <p>生活中还有很多关于第一性原理的例子。例如购买牙膏、化妆品等，我们可以通过产品的成分表去分析那些产品是真正具有美白功效的，那些是具有防蛀牙功效的，而不是只看宣传广告语。</p>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/7"/><category term="想法"/><published>2024-11-29T05:29:14+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/6</id><title>从《内部视角陷阱：CEO为什么频频预测失误》说起</title><updated>2024-12-05T05:21:42.493739+00:00</updated><content type="html"><![CDATA[<p>最近沉迷上了贝叶斯定理，还专门在京东买了两本书，一本是刘雪峰编写的《生活不是掷骰子》，另一本是Will Kurt的《趣学贝叶斯统计》。</p>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/7"/><category term="想法"/><published>2024-11-29T05:29:14+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/6</id><title>从《内部视角陷阱：CEO为什么频频预测失误》说起</title><updated>2024-12-05T05:25:54.506595+00:00</updated><content type="html"><![CDATA[<p>最近沉迷上了贝叶斯定理，还专门在京东买了两本书，一本是刘雪峰编写的《生活不是掷骰子》，另一本是Will Kurt的《趣学贝叶斯统计》。</p>
 <p>在《生活不是掷骰子》中，刘大师说起了内外部视角对先验概率的影响，其中就引用了百度前副总裁李靖写的一篇文章《 <a href="https://mp.weixin.qq.com/s/7dkXYXsabmCFbk8Wz_NWqA">内部视角陷阱：CEO为什么频频预测失误</a> 》中的一个例子。 </p>
 <p>由于这例子很有意思，我还特意把这篇15年的文章找了出来整篇阅读。
 例子如下：</p>
@@ -775,7 +779,7 @@ G-sync和Free-sync垂直同步技术<ul>
 <p>针对他的想法，我提了几个问题。 后面基本就聊不下去了，主要原因就是他觉得我们不懂这系统有多厉害，不懂他们的经销商渠道有多厉害。</p>
 <p><code>5年过去了，这公司的管理系统没有铺开，融资没有办成，当然也没有上市。 </code></p>
 <p>现在想起来还是有点意思。这大佬当时候就是从内部角度去做产品，倘若当年他也看了李靖写的《内部视角陷阱：CEO为什么频频预测失误》，结果会不会不一样呢？</p>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/6"/><category term="想法"/><published>2024-11-29T05:28:32+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/5</id><title>《控糖革命》读书笔记</title><updated>2024-12-05T05:21:42.613303+00:00</updated><content type="html"><![CDATA[<p>前段时间不知道为啥《控糖革命》这本书在twitter上疯传，好几个大V都在推这书，而且口碑评价都不错。于是乎我也认真读了起来。
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/6"/><category term="想法"/><published>2024-11-29T05:28:32+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/5</id><title>《控糖革命》读书笔记</title><updated>2024-12-05T05:25:54.660850+00:00</updated><content type="html"><![CDATA[<p>前段时间不知道为啥《控糖革命》这本书在twitter上疯传，好几个大V都在推这书，而且口碑评价都不错。于是乎我也认真读了起来。
 书本基本围绕着（1）为什么要控糖；（2）葡萄糖峰值的危害；（3）控糖技巧；去展开。</p>
 <p>以下是主要的控糖技巧：</p>
 <ol>
@@ -813,7 +817,7 @@ G-sync和Free-sync垂直同步技术<ul>
 <p>实际上，上面的控糖方法都是简单明了的。对于第7点，我还特意在京东买了3盒苹果醋试试。</p>
 <hr />
 <p><img src="https://github.com/user-attachments/assets/c22c6cdb-eb2b-42d8-aa91-2b22949f64da" alt="image" /></p>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/5"/><category term="笔记"/><published>2024-11-29T05:27:39+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/4</id><title>上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计</title><updated>2024-12-05T05:21:42.727085+00:00</updated><content type="html"><![CDATA[<h2>一、统计的理由</h2>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/5"/><category term="笔记"/><published>2024-11-29T05:27:39+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/4</id><title>上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计</title><updated>2024-12-05T05:25:54.818740+00:00</updated><content type="html"><![CDATA[<h2>一、统计的理由</h2>
 <p>说实话，中国的A股从21年开始到现在就一直反反复复地下跌。当然大盘的行情也是伴随着政府救市政策的出台一惊一乍的。</p>
 <p>较为意外是国庆节举办的国新办新闻发布会，潘功胜、吴清等人的发话直接将A股带上天了。直到国庆节的节后第一个开盘日，10月8日，上证指数已经累计上升了接近30%，从2700的低位上涨到接近3700点。这算是活久见了。</p>
 <p>但是，我持有的两只票居然跑输了大盘。 在此之前，我一直奉行“大盘业绩股”策略。 策略的好处是股票有业绩支撑，不容易出现下跌。 但国庆节打后，炒股的风格发生了骤变。 我发现这种“大盘业绩股”基本是跑输大盘的，而且跌跌不休。</p>
@@ -935,7 +939,7 @@ G-sync和Free-sync垂直同步技术<ul>
 <p><img src="https://github.com/user-attachments/assets/2ceee6a6-86f8-4606-a396-309c289079d9" alt="image" /></p>
 <hr />
 <p><strong>下载地址</strong>： <a href="https://github.com/user-attachments/files/17571211/024.xlsx">024.xlsx</a></p>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/4"/><category term="研究"/><published>2024-11-29T05:26:19+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/3</id><title>人总是善忘：喷射战士华莱士</title><updated>2024-12-05T05:21:42.859354+00:00</updated><content type="html"><![CDATA[<h3>总是善忘</h3>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/4"/><category term="研究"/><published>2024-11-29T05:26:19+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/3</id><title>人总是善忘：喷射战士华莱士</title><updated>2024-12-05T05:25:54.982986+00:00</updated><content type="html"><![CDATA[<h3>总是善忘</h3>
 <p>对的，我又拉肚子了。</p>
 <p>事情还得从那顿叉烧饭说起。</p>
 <p>依稀记得上年差不多也是这个时间，在同样的餐馆，吃同样的叉烧饭，拉同样的肚子，感觉就像吃了华莱士一样。当时候还暗暗地“发誓”，这家店太“干净又卫生”， 以后再也不吃了。</p>
@@ -961,7 +965,7 @@ G-sync和Free-sync垂直同步技术<ul>
 <hr />
 <p><img src="https://github.com/user-attachments/assets/1d0673af-a775-4bf1-a028-4c7d57d0c45c" alt="image" /></p>
 <p>[^1]: fear of missing out.</p>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/3"/><category term="想法"/><published>2024-11-29T05:21:25+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/2</id><title>接下来想写啥呢</title><updated>2024-12-05T05:21:43.005067+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/3"/><category term="想法"/><published>2024-11-29T05:21:25+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/2</id><title>接下来想写啥呢</title><updated>2024-12-05T05:25:55.126096+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox"> 《控糖革命》笔记</li>
 <li><input checked="" disabled="" type="checkbox"> 上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计</li>
 <li><input checked="" disabled="" type="checkbox"> 人总是善忘：喷射战士华莱士</li>
@@ -969,7 +973,7 @@ G-sync和Free-sync垂直同步技术<ul>
 <li><input checked="" disabled="" type="checkbox"> 从《内部视角陷阱：CEO为什么频频预测失误》说起</li>
 <li><input disabled="" type="checkbox"> Convert Jupiter notebook with GitHub action</li>
 </ul>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/2"/><category term="TODO"/><published>2024-11-29T05:19:39+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/1</id><title>关于</title><updated>2024-12-05T05:21:43.123413+00:00</updated><content type="html"><![CDATA[<ol>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/2"/><category term="TODO"/><published>2024-11-29T05:19:39+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/1</id><title>关于</title><updated>2024-12-05T05:25:55.268298+00:00</updated><content type="html"><![CDATA[<ol>
 <li>曾经漂洋过海，见证过万恶的华尔街</li>
 <li>经历过15年股灾</li>
 <li>现从事股权投资行业</li>
