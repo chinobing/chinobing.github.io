@@ -319,17 +319,22 @@ title: {title}
 categories:
 {categories}
 date: {date}
+{_build}
 ---
 
 """
     title = issue.title
     date = issue.created_at.strftime("%Y-%m-%d")
     categories = ""
+    _build = ""
     for label in issue.labels:
         categories += f"- {label.name}\n"
-
+        if label.name in IGNORE_LABELS:
+            _build = """_build:
+   list: never
+"""
     with open(md_name, "w") as f:
-        f.write(meta_info.format(title=title, categories=categories, date=date))
+        f.write(meta_info.format(title=title, categories=categories, date=date, _build=_build))
         f.write(f"# [{issue.title}]({issue.html_url})\n\n")
         f.write(issue.body or "")
         if issue.comments:
