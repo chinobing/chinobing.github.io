@@ -19,3 +19,4 @@ _build:
 - 世界本来就是一个草台班子。
 - The best is yet to come.
 - 人生好像乘车，重点不是上车的人可以陪你去到哪个站，而是你们一起欣赏过那些风景。《破.地狱》
+-  A ship in harbor is safe, but that is not what ships are built for.  by John A. Shedd
