@@ -4,22 +4,24 @@
 ## 置顶文章
 - [Random Picks](https://github.com/chinobing/chinobing.github.io/issues/17)--2024-12-05
 ## 最近更新
+- [Travel.贵州.都匀](https://github.com/chinobing/chinobing.github.io/issues/19)--2024-12-10
 - [《破.地狱》：请珍惜眼前人](https://github.com/chinobing/chinobing.github.io/issues/18)--2024-12-07
 - [Random Picks](https://github.com/chinobing/chinobing.github.io/issues/17)--2024-12-05
 - [选股：低成交金额选股，站在游资的肩膀上](https://github.com/chinobing/chinobing.github.io/issues/16)--2024-12-05
 - [发行股份及支付现金的并购重组案例：烽火电子](https://github.com/chinobing/chinobing.github.io/issues/15)--2024-12-05
-- [付鹏的《对冲风险VS软着陆》总结](https://github.com/chinobing/chinobing.github.io/issues/13)--2024-12-02
-## 一、想法
+## 一、Travel
+- [Travel.贵州.都匀](https://github.com/chinobing/chinobing.github.io/issues/19)--2024-12-10
+## 二、想法
 - [《破.地狱》：请珍惜眼前人](https://github.com/chinobing/chinobing.github.io/issues/18)--2024-12-07
 - [自证陷阱：谁主张，谁举证](https://github.com/chinobing/chinobing.github.io/issues/8)--2024-11-29
 - [第一性原理：钙尔奇钙片](https://github.com/chinobing/chinobing.github.io/issues/7)--2024-11-29
 - [从《内部视角陷阱：CEO为什么频频预测失误》说起](https://github.com/chinobing/chinobing.github.io/issues/6)--2024-11-29
 - [人总是善忘：喷射战士华莱士](https://github.com/chinobing/chinobing.github.io/issues/3)--2024-11-29
-## 二、研究
+## 三、研究
 - [选股：低成交金额选股，站在游资的肩膀上](https://github.com/chinobing/chinobing.github.io/issues/16)--2024-12-05
 - [选股：妖股是如何割韭菜的](https://github.com/chinobing/chinobing.github.io/issues/10)--2024-11-29
 - [上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计](https://github.com/chinobing/chinobing.github.io/issues/4)--2024-11-29
-## 三、笔记
+## 四、笔记
 - [发行股份及支付现金的并购重组案例：烽火电子](https://github.com/chinobing/chinobing.github.io/issues/15)--2024-12-05
 - [付鹏的《对冲风险VS软着陆》总结](https://github.com/chinobing/chinobing.github.io/issues/13)--2024-12-02
 - [《详谈左晖》书摘](https://github.com/chinobing/chinobing.github.io/issues/11)--2024-11-29
