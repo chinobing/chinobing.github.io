@@ -21,3 +21,4 @@ _build:
 - 人生好像乘车，重点不是上车的人可以陪你去到哪个站，而是你们一起欣赏过那些风景。《破.地狱》
 -  A ship in harbor is safe, but that is not what ships are built for.  by John A. Shedd
 - 存在即合理。
+- 带着答案问你问题要的不是答案，要的是把柄。《延边刺客》
