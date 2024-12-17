@@ -22,3 +22,4 @@ _build:
 -  A ship in harbor is safe, but that is not what ships are built for.  by John A. Shedd
 - 存在即合理。
 - 带着答案问你问题要的不是答案，要的是把柄。《延边刺客》
+- 做一件小事跟做一件大事付出的努力差不多。我当时觉得，要选大的事去做。《详谈左晖》
