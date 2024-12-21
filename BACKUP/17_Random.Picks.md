@@ -15,6 +15,7 @@ _build:
 > 随机摘录
 
 ---
+- History doesn't repeat itself, but it often rhymes.
 - 如果一个蠢方法有效，那它就不是一个蠢方法。《美国士兵守则》
 - 计划了很多事，其实根本没有那一天。
 - 世界本来就是一个草台班子。
