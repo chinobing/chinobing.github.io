@@ -4,11 +4,11 @@
 ## 置顶文章
 - [Random Picks](https://github.com/chinobing/chinobing.github.io/issues/17)--2024-12-05
 ## 最近更新
+- [避雷：亿利洁能39亿存款说没就没了 - 存贷双高](https://github.com/chinobing/chinobing.github.io/issues/22)--2024-12-21
 - [月过十五光明少，人到中年万事休](https://github.com/chinobing/chinobing.github.io/issues/21)--2024-12-13
 - [药物治疗备忘录](https://github.com/chinobing/chinobing.github.io/issues/20)--2024-12-13
 - [Travel.贵州.都匀](https://github.com/chinobing/chinobing.github.io/issues/19)--2024-12-10
 - [《破.地狱》：请珍惜眼前人](https://github.com/chinobing/chinobing.github.io/issues/18)--2024-12-07
-- [Random Picks](https://github.com/chinobing/chinobing.github.io/issues/17)--2024-12-05
 ## 一、Travel
 - [Travel.贵州.都匀](https://github.com/chinobing/chinobing.github.io/issues/19)--2024-12-10
 ## 二、想法
@@ -23,6 +23,7 @@
 </details>
 
 ## 三、研究
+- [避雷：亿利洁能39亿存款说没就没了 - 存贷双高](https://github.com/chinobing/chinobing.github.io/issues/22)--2024-12-21
 - [选股：低成交金额选股，站在游资的肩膀上](https://github.com/chinobing/chinobing.github.io/issues/16)--2024-12-05
 - [选股：妖股是如何割韭菜的](https://github.com/chinobing/chinobing.github.io/issues/10)--2024-11-29
 - [上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计](https://github.com/chinobing/chinobing.github.io/issues/4)--2024-11-29
