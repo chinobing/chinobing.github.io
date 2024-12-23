@@ -4,11 +4,11 @@
 ## 置顶文章
 - [Random Picks](https://github.com/chinobing/chinobing.github.io/issues/17)--2024-12-05
 ## 最近更新
+- [《穷查理宝典》书摘](https://github.com/chinobing/chinobing.github.io/issues/24)--2024-12-23
 - [选股：周期性股票的交易方式-席勒市盈率](https://github.com/chinobing/chinobing.github.io/issues/23)--2024-12-21
 - [避雷：亿利洁能39亿存款说没就没了 - 存贷双高](https://github.com/chinobing/chinobing.github.io/issues/22)--2024-12-21
 - [月过十五光明少，人到中年万事休](https://github.com/chinobing/chinobing.github.io/issues/21)--2024-12-13
 - [药物治疗备忘录](https://github.com/chinobing/chinobing.github.io/issues/20)--2024-12-13
-- [Travel.贵州.都匀](https://github.com/chinobing/chinobing.github.io/issues/19)--2024-12-10
 ## 一、Travel
 - [Travel.贵州.都匀](https://github.com/chinobing/chinobing.github.io/issues/19)--2024-12-10
 ## 二、想法
@@ -29,13 +29,14 @@
 - [选股：妖股是如何割韭菜的](https://github.com/chinobing/chinobing.github.io/issues/10)--2024-11-29
 - [上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计](https://github.com/chinobing/chinobing.github.io/issues/4)--2024-11-29
 ## 四、笔记
+- [《穷查理宝典》书摘](https://github.com/chinobing/chinobing.github.io/issues/24)--2024-12-23
 - [药物治疗备忘录](https://github.com/chinobing/chinobing.github.io/issues/20)--2024-12-13
 - [发行股份及支付现金的并购重组案例：烽火电子](https://github.com/chinobing/chinobing.github.io/issues/15)--2024-12-05
 - [付鹏的《对冲风险VS软着陆》总结](https://github.com/chinobing/chinobing.github.io/issues/13)--2024-12-02
 - [《详谈左晖》书摘](https://github.com/chinobing/chinobing.github.io/issues/11)--2024-11-29
-- [《显示器》的避坑购买攻略](https://github.com/chinobing/chinobing.github.io/issues/9)--2024-11-29
 <details><summary>显示更多</summary>
 
+- [《显示器》的避坑购买攻略](https://github.com/chinobing/chinobing.github.io/issues/9)--2024-11-29
 - [《控糖革命》读书笔记](https://github.com/chinobing/chinobing.github.io/issues/5)--2024-11-29
 </details>
 
