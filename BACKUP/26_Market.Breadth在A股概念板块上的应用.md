@@ -54,7 +54,7 @@ date: 2024-12-24
 ---
 
 接着我又尝试不用20,80作为阀值，改用遍历的形式：
-```
+```python
 stats = bt.optimize(
     upper_band=range(70, 90, 5),
     lower_band=range(10, 30, 5),
@@ -65,7 +65,7 @@ stats = bt.optimize(
     return_heatmap=True)
 ```
 最后得到最优的结果：
-```
+```python
 <Strategy SignalStrategy(upper_band=70,lower_band=15)>
 ```
 ---
