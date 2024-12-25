@@ -25,7 +25,67 @@ date: 2024-12-24
 - 既然是追热点，不应该是到了`sell zone`继续追涨吗？
 - `market breadth`设置的天数问题，上面是用了20天，但是否应该设置更短的时间？
 
-后面有空应该再用backtesting测试一下。
+
+
+# 回测（Backtesting.py）
+由于概念板块的整体换手率数据是按日获取的，没有办法获得2024年12月20日之前的历史数据，所以这里只能假设`铜缆高速连接`的概念板块近半年、甚至一年内都是一直保持高热度。 这里选择`铜缆高速连接`单个概念板块整体数据用于计算market breadth交易指标，然后选取了板块中的其中一只股票`沃尔核材（002130）`作为交易标的。
+## 策略一
+交易策略：
+- 交易策略其实非常简单，类似布林带操作，这里设置upper_band为80， lower_band为20， 只要板块超过upper_band就卖出，跌破lower_band就买入；
+- 回测时间为2024-06-07至2024-12-24；
+- `market breadth`的周期为20日SMA
+- 回测框架用Backtesting.py
+
+结果是什么呢？ `连Buy & Hold策略都不如`。
+
+---
+![image](https://github.com/user-attachments/assets/be6709ad-2887-4419-90ae-a3b6490336ae)
+
+## 策略二
+交易策略：
+- 与上述策略相反，追热点，这里的逻辑是追涨；
+- 设置upper_band为80， lower_band为20， 只要板块超过upper_band就买入，跌破lower_band就卖出；
+
+结果是比上面的要好一丢丢，但是还是`比不过 Buy & Hold策略`。
+
+---
+![image](https://github.com/user-attachments/assets/b94fb7a3-0ada-418d-a238-2c6fb5cd2bb7)
+
+---
+
+接着我又尝试不用20,80作为阀值，改用遍历的形式：
+```
+stats = bt.optimize(
+    upper_band=range(70, 90, 5),
+    lower_band=range(10, 30, 5),
+    maximize='Equity Final [$]',
+    method = 'grid',
+    max_tries=56,
+    random_state=0,
+    return_heatmap=True)
+```
+最后得到最优的结果：
+```
+<Strategy SignalStrategy(upper_band=70,lower_band=15)>
+```
+---
+![image](https://github.com/user-attachments/assets/d843cec8-6641-4865-94fe-1e97f00492c3)
+
+![image](https://github.com/user-attachments/assets/979ee2d6-5972-4150-ad66-523698b32804)
+
+还是那句话，`结果是比上面的要好一丢丢，但是还是比不过 Buy & Hold策略`。
+
+# 短期结论
+> [!IMPORTANT]
+>  这种看换手率、看资金流入的炒股方式本质上就是追热点。既然是追热点，我们大概率应该在超买区（sell zone）继续买入达到追热点的效果。 上面只用了单一只股票`沃尔核材（002130）`作为回测，说句实话，也没有多大的参考意义。
+>
+> 买卖阀值这东西比较随意，但大概率是30以下，70以上作为阀值。
+
+可以继续探讨的方向：
+- `market breadth`设置的天数问题；
+- 交易标的的市值高低的影响；
+- 资金净流入对股票持续上涨的影响；
+
 
 ---
 未完，待续。
