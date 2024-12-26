@@ -4,11 +4,11 @@
 ## 置顶文章
 - [Random Picks](https://github.com/chinobing/chinobing.github.io/issues/17)--2024-12-05
 ## 最近更新
-- [1. 通过观察概念板块的换手率，筛选连续多日超过10%换手率的板块](https://github.com/chinobing/chinobing.github.io/issues/27)--2024-12-26
 - [Market Breadth在A股概念板块上的应用](https://github.com/chinobing/chinobing.github.io/issues/26)--2024-12-24
 - [《穷查理宝典》书摘](https://github.com/chinobing/chinobing.github.io/issues/24)--2024-12-23
 - [选股：周期性股票的交易方式-席勒市盈率](https://github.com/chinobing/chinobing.github.io/issues/23)--2024-12-21
 - [避雷：亿利洁能39亿存款说没就没了 - 存贷双高](https://github.com/chinobing/chinobing.github.io/issues/22)--2024-12-21
+- [月过十五光明少，人到中年万事休](https://github.com/chinobing/chinobing.github.io/issues/21)--2024-12-13
 ## 一、Travel
 - [Travel.贵州.都匀](https://github.com/chinobing/chinobing.github.io/issues/19)--2024-12-10
 ## 二、想法
