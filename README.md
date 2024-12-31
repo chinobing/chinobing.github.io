@@ -46,7 +46,8 @@
 </details>
 
 ## TODO
-TODO list from [接下来想写啥呢](https://github.com/chinobing/chinobing.github.io/issues/2)--2 jobs to do--6 jobs done
+TODO list from [接下来想写啥呢](https://github.com/chinobing/chinobing.github.io/issues/2)--3 jobs to do--6 jobs done
 - [ ] Convert Jupiter notebook with GitHub action
 - [ ] Integrate pagefind with hugo blog by [Spike Leung - 使用 pagefind 添加博客搜索功能](https://taxodium.ink/use-pagefind-to-search-blog.html) .
+- [ ] modify Travel Page by integrating  [Zen Hugo Theme](https://zen-demo.xdeb.org/products/) .
 
