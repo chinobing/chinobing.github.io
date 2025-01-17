@@ -5,12 +5,13 @@
 - [Amuse Myself](https://github.com/chinobing/chinobing.github.io/issues/28)--2025-01-11
 - [Random Picks](https://github.com/chinobing/chinobing.github.io/issues/17)--2024-12-05
 ## 最近更新
+- [Travel.澳门.01](https://github.com/chinobing/chinobing.github.io/issues/30)--2025-01-17
 - [经济数据的意义](https://github.com/chinobing/chinobing.github.io/issues/29)--2025-01-14
 - [Amuse Myself](https://github.com/chinobing/chinobing.github.io/issues/28)--2025-01-11
 - [Market Breadth在A股概念板块上的应用](https://github.com/chinobing/chinobing.github.io/issues/26)--2024-12-24
 - [《穷查理宝典》书摘](https://github.com/chinobing/chinobing.github.io/issues/24)--2024-12-23
-- [选股：周期性股票的交易方式-席勒市盈率](https://github.com/chinobing/chinobing.github.io/issues/23)--2024-12-21
 ## 一、Travel
+- [Travel.澳门.01](https://github.com/chinobing/chinobing.github.io/issues/30)--2025-01-17
 - [Travel.贵州.都匀](https://github.com/chinobing/chinobing.github.io/issues/19)--2024-12-10
 ## 二、想法
 - [月过十五光明少，人到中年万事休](https://github.com/chinobing/chinobing.github.io/issues/21)--2024-12-13
