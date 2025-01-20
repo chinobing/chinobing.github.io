@@ -5,22 +5,23 @@
 - [Amuse Myself](https://github.com/chinobing/chinobing.github.io/issues/28)--2025-01-11
 - [Random Picks](https://github.com/chinobing/chinobing.github.io/issues/17)--2024-12-05
 ## 最近更新
+- [感激之情](https://github.com/chinobing/chinobing.github.io/issues/31)--2025-01-20
 - [Travel.澳门.01](https://github.com/chinobing/chinobing.github.io/issues/30)--2025-01-17
 - [经济数据的意义](https://github.com/chinobing/chinobing.github.io/issues/29)--2025-01-14
 - [Amuse Myself](https://github.com/chinobing/chinobing.github.io/issues/28)--2025-01-11
 - [Market Breadth在A股概念板块上的应用](https://github.com/chinobing/chinobing.github.io/issues/26)--2024-12-24
-- [《穷查理宝典》书摘](https://github.com/chinobing/chinobing.github.io/issues/24)--2024-12-23
 ## 一、Travel
 - [Travel.澳门.01](https://github.com/chinobing/chinobing.github.io/issues/30)--2025-01-17
 - [Travel.贵州.都匀](https://github.com/chinobing/chinobing.github.io/issues/19)--2024-12-10
 ## 二、想法
+- [感激之情](https://github.com/chinobing/chinobing.github.io/issues/31)--2025-01-20
 - [月过十五光明少，人到中年万事休](https://github.com/chinobing/chinobing.github.io/issues/21)--2024-12-13
 - [《破.地狱》：请珍惜眼前人](https://github.com/chinobing/chinobing.github.io/issues/18)--2024-12-07
 - [自证陷阱：谁主张，谁举证](https://github.com/chinobing/chinobing.github.io/issues/8)--2024-11-29
 - [第一性原理：钙尔奇钙片](https://github.com/chinobing/chinobing.github.io/issues/7)--2024-11-29
-- [从《内部视角陷阱：CEO为什么频频预测失误》说起](https://github.com/chinobing/chinobing.github.io/issues/6)--2024-11-29
 <details><summary>显示更多</summary>
 
+- [从《内部视角陷阱：CEO为什么频频预测失误》说起](https://github.com/chinobing/chinobing.github.io/issues/6)--2024-11-29
 - [人总是善忘：喷射战士华莱士](https://github.com/chinobing/chinobing.github.io/issues/3)--2024-11-29
 </details>
 
