@@ -54,8 +54,9 @@ TODO list from [Amuse Myself](https://github.com/chinobing/chinobing.github.io/i
 - [ ] 【-】明朝那些事儿@当年明月
 - [ ] 【-】哥谭（Gotham）
 
-TODO list from [接下来想写啥呢](https://github.com/chinobing/chinobing.github.io/issues/2)--3 jobs to do--6 jobs done
-- [ ] Convert Jupiter notebook with GitHub action
+TODO list from [接下来想写啥呢](https://github.com/chinobing/chinobing.github.io/issues/2)--4 jobs to do--6 jobs done
+- [ ] ~Convert Jupiter notebook with GitHub action~ 好想没必要弄了
+- [ ] 弄一个关于牛散的网站
 - [ ] Integrate pagefind with hugo blog by [Spike Leung - 使用 pagefind 添加博客搜索功能](https://taxodium.ink/use-pagefind-to-search-blog.html) .
 - [ ] modify Travel Page by integrating  [Zen Hugo Theme](https://zen-demo.xdeb.org/products/) .
 
