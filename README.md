@@ -10,10 +10,8 @@
 - [经济数据的意义](https://github.com/chinobing/chinobing.github.io/issues/29)--2025-01-14
 - [Amuse Myself](https://github.com/chinobing/chinobing.github.io/issues/28)--2025-01-11
 - [Market Breadth在A股概念板块上的应用](https://github.com/chinobing/chinobing.github.io/issues/26)--2024-12-24
-## 一、Travel
 - [Travel.澳门.01](https://github.com/chinobing/chinobing.github.io/issues/30)--2025-01-17
 - [Travel.贵州.都匀](https://github.com/chinobing/chinobing.github.io/issues/19)--2024-12-10
-## 二、想法
 - [感激之情](https://github.com/chinobing/chinobing.github.io/issues/31)--2025-01-20
 - [月过十五光明少，人到中年万事休](https://github.com/chinobing/chinobing.github.io/issues/21)--2024-12-13
 - [《破.地狱》：请珍惜眼前人](https://github.com/chinobing/chinobing.github.io/issues/18)--2024-12-07
@@ -25,7 +23,6 @@
 - [人总是善忘：喷射战士华莱士](https://github.com/chinobing/chinobing.github.io/issues/3)--2024-11-29
 </details>
 
-## 三、研究
 - [Market Breadth在A股概念板块上的应用](https://github.com/chinobing/chinobing.github.io/issues/26)--2024-12-24
 - [选股：周期性股票的交易方式-席勒市盈率](https://github.com/chinobing/chinobing.github.io/issues/23)--2024-12-21
 - [避雷：亿利洁能39亿存款说没就没了 - 存贷双高](https://github.com/chinobing/chinobing.github.io/issues/22)--2024-12-21
@@ -36,7 +33,6 @@
 - [上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计](https://github.com/chinobing/chinobing.github.io/issues/4)--2024-11-29
 </details>
 
-## 四、笔记
 - [经济数据的意义](https://github.com/chinobing/chinobing.github.io/issues/29)--2025-01-14
 - [《穷查理宝典》书摘](https://github.com/chinobing/chinobing.github.io/issues/24)--2024-12-23
 - [药物治疗备忘录](https://github.com/chinobing/chinobing.github.io/issues/20)--2024-12-13
@@ -50,7 +46,7 @@
 </details>
 
 ## TODO
-TODO list from [Amuse Myself](https://github.com/chinobing/chinobing.github.io/issues/28)--2 jobs to do--4 jobs done
+TODO list from [Amuse Myself](https://github.com/chinobing/chinobing.github.io/issues/28)--2 jobs to do--5 jobs done
 - [ ] 【-】明朝那些事儿@当年明月
 - [ ] 【-】哥谭（Gotham）
 
