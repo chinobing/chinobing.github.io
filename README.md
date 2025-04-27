@@ -5,11 +5,11 @@
 - [Amuse Myself](https://github.com/chinobing/chinobing.github.io/issues/28)--2025-01-11
 - [Random Picks](https://github.com/chinobing/chinobing.github.io/issues/17)--2024-12-05
 ## 最近更新
+- [业余爱好：牛散的网站](https://github.com/chinobing/chinobing.github.io/issues/32)--2025-04-27
 - [感激之情](https://github.com/chinobing/chinobing.github.io/issues/31)--2025-01-20
 - [Travel.澳门.01](https://github.com/chinobing/chinobing.github.io/issues/30)--2025-01-17
 - [经济数据的意义](https://github.com/chinobing/chinobing.github.io/issues/29)--2025-01-14
 - [Amuse Myself](https://github.com/chinobing/chinobing.github.io/issues/28)--2025-01-11
-- [Market Breadth在A股概念板块上的应用](https://github.com/chinobing/chinobing.github.io/issues/26)--2024-12-24
 - [Travel.澳门.01](https://github.com/chinobing/chinobing.github.io/issues/30)--2025-01-17
 - [Travel.贵州.都匀](https://github.com/chinobing/chinobing.github.io/issues/19)--2024-12-10
 - [感激之情](https://github.com/chinobing/chinobing.github.io/issues/31)--2025-01-20
@@ -46,13 +46,14 @@
 </details>
 
 ## TODO
+TODO list from [业余爱好：牛散的网站](https://github.com/chinobing/chinobing.github.io/issues/32) all done
+
 TODO list from [Amuse Myself](https://github.com/chinobing/chinobing.github.io/issues/28)--2 jobs to do--5 jobs done
 - [ ] 【-】明朝那些事儿@当年明月
 - [ ] 【-】哥谭（Gotham）
 
-TODO list from [接下来想写啥呢](https://github.com/chinobing/chinobing.github.io/issues/2)--4 jobs to do--6 jobs done
+TODO list from [接下来想写啥呢](https://github.com/chinobing/chinobing.github.io/issues/2)--3 jobs to do--7 jobs done
 - [ ] ~Convert Jupiter notebook with GitHub action~ 好想没必要弄了
-- [ ] 弄一个关于牛散的网站
 - [ ] Integrate pagefind with hugo blog by [Spike Leung - 使用 pagefind 添加博客搜索功能](https://taxodium.ink/use-pagefind-to-search-blog.html) .
 - [ ] modify Travel Page by integrating  [Zen Hugo Theme](https://zen-demo.xdeb.org/products/) .
 
