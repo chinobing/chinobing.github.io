@@ -48,7 +48,7 @@
 ## TODO
 TODO list from [业余爱好：牛散的网站](https://github.com/chinobing/chinobing.github.io/issues/32) all done
 
-TODO list from [Amuse Myself](https://github.com/chinobing/chinobing.github.io/issues/28)--2 jobs to do--5 jobs done
+TODO list from [Amuse Myself](https://github.com/chinobing/chinobing.github.io/issues/28)--2 jobs to do--6 jobs done
 - [ ] 【-】明朝那些事儿@当年明月
 - [ ] 【-】哥谭（Gotham）
 
