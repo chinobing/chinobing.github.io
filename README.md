@@ -50,7 +50,7 @@ TODO list from [业余爱好：牛散的网站](https://github.com/chinobing/chi
 
 TODO list from [Amuse Myself](https://github.com/chinobing/chinobing.github.io/issues/28)--3 jobs to do--6 jobs done
 - [ ] 【-】明朝那些事儿@当年明月
-- [ ] 【-】段永平投资问答录（商业逻辑篇）@2025-06-10 upto _第2节：商业模式_
+- [ ] 【-】段永平投资问答录（商业逻辑篇）@2025-06-10 upto _page 60_
 - [ ] 【-】哥谭（Gotham）
 
 TODO list from [接下来想写啥呢](https://github.com/chinobing/chinobing.github.io/issues/2)--3 jobs to do--7 jobs done
