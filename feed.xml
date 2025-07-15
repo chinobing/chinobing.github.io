@@ -1,18 +1,375 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/chinobing/chinobing.github.io</id><title>RSS feed of chinobing's chinobing.github.io</title><updated>2025-07-13T08:29:40.710974+00:00</updated><link href="https://github.com/chinobing/chinobing.github.io"/><link href="https://raw.githubusercontent.com/chinobing/chinobing.github.io/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/chinobing/chinobing.github.io/issues/32</id><title>业余爱好：牛散的网站</title><updated>2025-07-13T08:29:41.018713+00:00</updated><content type="html"><![CDATA[<ul>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/chinobing/chinobing.github.io</id><title>RSS feed of chinobing's chinobing.github.io</title><updated>2025-07-15T03:22:36.479326+00:00</updated><link href="https://github.com/chinobing/chinobing.github.io"/><link href="https://raw.githubusercontent.com/chinobing/chinobing.github.io/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/chinobing/chinobing.github.io/issues/33</id><title>《段永平投资问答录(投资逻辑篇)》书摘</title><updated>2025-07-15T03:22:36.872011+00:00</updated><content type="html"><![CDATA[<h2>第一章　投资理念</h2>
+<blockquote>
+<p>第3节　做对的事情，把事情做对 &gt; Page 23 · Location 261
+一般人学习理解是总是觉得做什么是最重要的，其实最重要的是不做什么。巴菲特能有今天最重要的是“不做什么”。</p>
+</blockquote>
+<blockquote>
+<p>第3节　做对的事情，把事情做对 &gt; Page 24 · Location 285
+往往不干什么是决定成功的最重要因素（当然是在也干点什么的前提下）。</p>
+</blockquote>
+<blockquote>
+<p>第3节　做对的事情，把事情做对 &gt; Page 26 · Location 308
+道可学，术要练。道指的就是“做对的事情”或者说“不做不对的事情”或者说“发现错了马上改--不管多大的代价都是最小的代价”。“术”指的是技术，对每个人来说都是需要学同时也需要练习的，非一朝一夕之功。</p>
+</blockquote>
+<blockquote>
+<p>第3节　做对的事情，把事情做对 &gt; Page 28 · Location 345
+投机投的是零和游戏，投资投的是企业带来的利润。</p>
+</blockquote>
+<blockquote>
+<p>第4节　Stop doing list（不为清单） &gt; Page 52 · Location 719
+条条道路都可能通罗马，这里是一条未必最好但肯定能到</p>
+</blockquote>
+<blockquote>
+<p>第4节　Stop doing list（不为清单） &gt; Page 54 · Location 737
+不要轻易去“扩大”自己的能力圈。搞懂一个生意往往是需要很多年的，不要因为看到一两个概念就轻易跳进自己不熟悉的领域或地方，不然早晚会栽</p>
+</blockquote>
+<blockquote>
+<p>第4节　Stop doing list（不为清单） &gt; Page 55 · Location 752
+老巴也说过，知道自己能力圈多大比能力圈有多大要重要的多。扩大自己的能力圈未必是明智的</p>
+</blockquote>
+<blockquote>
+<p>第4节　Stop doing list（不为清单） &gt; Page 55 · Location 760
+不要以赚钱喜，不要为亏钱悲哈，关键在过程。要时刻记住的就那么几条：不要用 margin，不要 sell short，不要做自己不懂的东西。尤其是最后这条比较难，因为比较难界定自己的能力圈。我经常看到有人跑到自己的能力圈以外去做事情，回头安慰自己的话就是“扩大能力圈”是要付学费的。其实，对大多数有能力投资的人而言，自己的能力圈里能做的事情实际上往往是足够多的，实在是没必要冒太大的风险跑到一个未知的地方去。</p>
+</blockquote>
+<blockquote>
+<p>第4节　Stop doing list（不为清单） &gt; Page 60 · Location 842
+变现容易，进出方便，是绝大多数人投资亏损的首因。</p>
+</blockquote>
+<h2>第二章　投资理解</h2>
+<blockquote>
+<p>第2节　什么叫价值投资 &gt; Page 87 · Location 1160
+我买的时候是不考虑是不是有人从我手里买的。我要假设如果这不是个上市企业这个价钱我还买不买。</p>
+</blockquote>
+<blockquote>
+<p>第3节　价值投资难吗？ &gt; Page 97 · Location 1295
+段永平：老是听人说价值投资太难了，下面这篇文章大概是很有代表性的，</p>
+</blockquote>
+<blockquote>
+<p>第5节　封仓十年的选择 &gt; Page 150 · Location 2110
+对投资，我想来想去，总觉得只有一样东西最简单，就是当你买一个股票时，你一定是认为你在买这家公司，你可能拿在手里 10年， 20年，有这种想法后就容易判断很多。 </p>
+</blockquote>
+<blockquote>
+<p>第5节　封仓十年的选择 &gt; Page 158 · Location 2233
+我一般只是想象如果某个公司是个非上市企业，我用目前的市值去拥有这家公司和我其他的机会比较，哪个在未来 10年或 20年得到的可能回报更高（这里的回报其实是指公司的盈利而不是股价的涨幅）。</p>
+</blockquote>
+<blockquote>
+<p>第5节　封仓十年的选择 &gt; Page 158 · Location 2235
+举个简单的例子， A股里我从若干年前就基本只拿着茅台，脑子里总是想着 10年后茅台会怎么样，所以也容易拿得住，回报也不错。我并不在乎别人这一时期赚了多少钱，我只考虑自己的机会成本。</p>
+</blockquote>
+<blockquote>
+<p>第5节　封仓十年的选择 &gt; Page 160 · Location 2263
+如果你不能看到 3年，那也是没办法的事。但是，有些公司你实际上是可以从很多方面看到 3年以上的东西的。比如，你大概会相信沃尔玛、麦当劳、耐克、宝洁甚至苹果 3年以后活得不错吧？再比如，你可能会发现你心里会觉得很多公司能不能活到 3年你是不确定的，所以，至少投资时要避开你无法确定的那些吧？（</p>
+</blockquote>
+<blockquote>
+<p>第5节　封仓十年的选择 &gt; Page 160 · Location 2275
+知道什么会发生比知道什么时候会发生要容易的多。很多事情，不管是好事还是坏事，给他 10年，大概率就会发生了，三年则未必，但三年会发生的概率显然会比三天高，所以能看三年也好啊，肯定好过看三天的。</p>
+</blockquote>
+<blockquote>
+<p>第5节　封仓十年的选择 &gt; Page 161 · Location 2280
+分批买入的好处是跌下去了可以低位补摊低成本，坏处是万一股价一直朝上走，心态会坏不愿意继续买。段永平：你纠结的东西不是关于价值的， 10年后回头看没啥意义。除非你钱太多，不然见到好价钱只买一点点是件说不过去的事情。</p>
+</blockquote>
+<blockquote>
+<p>第5节　封仓十年的选择 &gt; Page 161 · Location 2285
+段大哥在两年前就说过要以拥有十年公司的心态对待股票。一直都停留在字面理解上。今天突然悟到假设今天就是你拥有公司十年后，公司会发展成什么样。这样对于选股就豁然开朗了。问题就都集中在好的生意模式，好管理，好价格上，尤其在生意模式的重要，可以大致猜测出这家公司十年后什么样子。想想自己身边最看好的同事十年后能发展成什么样子，想想自己在十年后最理想的生活状态是什么样子，那么现在自己该如何做就很清晰，想想很有意思。今天真的很开心，谢谢段大哥。</p>
+</blockquote>
+<h2>第三章　golf和投资</h2>
+<blockquote>
+<p>第1节　golf和投资 &gt; Page 165 · Location 2338
+高手和其他选手的差别就在错误率低而不是能打出多少好球来。</p>
+</blockquote>
+<blockquote>
+<p>第1节　golf和投资 &gt; Page 170 · Location 2412
+心态好很多，不怕失去机会，最重要是不犯大错。</p>
+</blockquote>
+<blockquote>
+<p>第2节　什么是看懂一个公司？ &gt; Page 172 · Location 2424
+我自己的所谓能看懂就是认为自己大概能看懂其商业模式及未来的现金流（折现）。</p>
+</blockquote>
+<blockquote>
+<p>第2节　什么是看懂一个公司？ &gt; Page 174 · Location 2456
+对于上市公司而言，懂的标准是当他大掉的时候你非常想再买多些，而不是到处打听“发生什么事了”，或者老想着要卖掉。</p>
+</blockquote>
+<blockquote>
+<p>第2节　什么是看懂一个公司？ &gt; Page 176 · Location 2487
+比如欧洲金融危机和我住的房子是没关系的，当然如果你是借钱买的可能就有关系了。</p>
+</blockquote>
+<blockquote>
+<p>第2节　什么是看懂一个公司？ &gt; Page 176 · Location 2493
+最重要的东西是你能真正忽略市场的波动，聚焦在生意上。想象你打算买一家公司，拿着 10年都不上市你依然能睡好觉，那你大概就懂了。</p>
+</blockquote>
+<blockquote>
+<p>第2节　什么是看懂一个公司？ &gt; Page 177 · Location 2499
+首先买股票就是买公司，这是后面所有逻辑的前提，没有这一条，其他什么都不是。那么买什么股票或者说是公司呢？巴菲特告诉我们要买能力圈内的，也就是你能看懂它在干什么，你觉得以后它可能会怎么样的企业。原则上凡是你能力圈内你觉得好的企业都是可以投资的，所以并不是说什么行业就一定不能投资，而能力圈的大小要看你的经历你的知识等等甚至要看机缘，也许你看了 10年都没看懂但是某一天突然通了也是有可能的。那么能力圈内的公司要怎么去分析呢？巴菲特也说了好的生意模式，好的管理层，好的价格。可以看到好的价格是排在最后的，至于生意模式怎么理解，引用大道的话——赚钱模式；这 3个条件各人有各人的理解，但是能同时满足这 3条的很少见，所以大道也说过找到一个能理解的好的标的很难。</p>
+</blockquote>
+<blockquote>
+<p>第2节　什么是看懂一个公司？ &gt; Page 177 · Location 2510
+忽略市场影响，看懂商业模式和企业文化，尽量想明白 10年后企业会是啥样子。如果你决定要买某只股票，先想象一下如果股市马上停止 10年交易，你是否能接受。</p>
+</blockquote>
+<blockquote>
+<p>第2节　什么是看懂一个公司？ &gt; Page 178 · Location 2520
+我在老巴那里学到的非常重要的一点就是先看商业模式，除非你喜欢这家公司的商业模式，不然就不再往下看了，</p>
+</blockquote>
+<blockquote>
+<p>第2节　什么是看懂一个公司？ &gt; Page 179 · Location 2530
+好的商业模式的很简单，就是利润和净现金流一直都是杠杠的，而且竞争对手哪怕很长的时间里也很难抢。你可以自己想想谁的生意是很难抢的？然后再想想为什么？</p>
+</blockquote>
+<blockquote>
+<p>第2节　什么是看懂一个公司？ &gt; Page 181 · Location 2566
+其实投资和我做企业是一样的，是不是买一家公司的股票，我首先看它是否健康长久，这是看得见的。如果这个企业急功近利，那我就敬而远之，不管它短期内看起来有多红火。</p>
+</blockquote>
+<blockquote>
+<p>第2节　什么是看懂一个公司？ &gt; Page 191 · Location 2717
+所以当一个公司里哪个部门强调自己部门是最重要的时候，往往这个部门就是公司最弱的部门。</p>
+</blockquote>
+<blockquote>
+<p>第2节　什么是看懂一个公司？ &gt; Page 196 · Location 2794
+我确实见过很好的大学里有些教授依然在试图找到通过数学用电脑就可以赚钱的办法，他们的逻辑推理的前提里有些假设是不对的，所以后面的结论不管多“高级”都不可能得出正确的结果。</p>
+</blockquote>
+<blockquote>
+<p>第2节　什么是看懂一个公司？ &gt; Page 197 · Location 2817
+投资里最难的就是没有具有“充分条件”的投资，只能从概率的角度考虑。越了解的公司，决策的把握越大，但从来没有 100%的赢面。</p>
+</blockquote>
+<blockquote>
+<p>第2节　什么是看懂一个公司？ &gt; Page 198 · Location 2820
+安全边际应该指的就是你自己的了解度，投资里没有数学上 100%的东西。</p>
+</blockquote>
+<blockquote>
+<p>第3节　谈能力圈与原则 &gt; Page 199 · Location 2835
+能力圈”的意思就是你能够判断未来现金流折现的范围。知道自己的“能力圈”有多大比“能力圈”本身有多大要重要的多。</p>
+</blockquote>
+<blockquote>
+<p>第3节　谈能力圈与原则 &gt; Page 200 · Location 2848
+能力圈是：诚实对自己，知之为知之，不知为不知。有这样的态度，然后如果能看懂一个东西，那它就是在我能力圈内，否则就不是。</p>
+</blockquote>
+<blockquote>
+<p>第3节　谈能力圈与原则 &gt; Page 200 · Location 2854
+You don’ t really have a competency if you don’ t know the edge of it，</p>
+</blockquote>
+<blockquote>
+<p>第4节　你懂的才是你的好生意 &gt; Page 224 · Location 3213
+网友：“所谓安全边际指的应该是自己对公司的理解度而不是价钱”，“什么价格买完全取决于你自己资金的机会成本”。</p>
+</blockquote>
+<blockquote>
+<p>第4节　你懂的才是你的好生意 &gt; Page 225 · Location 3235
+不了解的公司再便宜也可能不便宜哈。</p>
+</blockquote>
+<blockquote>
+<p>第4节　你懂的才是你的好生意 &gt; Page 230 · Location 3312
+一般而言，当自己的股票下跌时有很想卖的想法时，多数是你买了自己不了解的公司。</p>
+</blockquote>
+<h2>第四章　财务理解</h2>
+<blockquote>
+<p>第1节　财报的理解 &gt; Page 237 · Location 3409
+负债、净现金、现金流、开销合理性、真实利润、扣除商誉的净资产，</p>
+</blockquote>
+<blockquote>
+<p>第1节　财报的理解 &gt; Page 238 · Location 3424
+但是我在乎利润、成本这些数据里面到底是由哪些东西组成的，你要知道它真实反映的东西是什么。而且你要把数据连续几个季度甚至几年来看，你跟踪一家公司久了，你就知道他是在说谎还是说真话。好多公司看起来赚很多钱，现金流却一直在减少。那就有危险了。其实这些巴菲特早说过，人们都知道，但是投资的时候就会糊涂。很多人管他们自己叫投资，我却说他们只是 for fun，他们很在乎别人满不满意（这家公司），真正的投资者绝对是“目中无人”的，脑子里盯的就是这个企业，他不看周围有没有人买，他最好希望别人都不买。同样，如果我做一个上市公司，我也不理（华尔街）他们，我该干吗干吗，股价高低跟我没有关系的。</p>
+</blockquote>
+<blockquote>
+<p>第1节　财报的理解 &gt; Page 254 · Location 3678
+好多公司看起来赚很多钱，现金流却一直在减少。那就有危险了。其实这些巴菲特早说过，人们都知道，但是投资的时候就会糊涂。</p>
+</blockquote>
+<blockquote>
+<p>第1节　财报的理解 &gt; Page 257 · Location 3717
+资本支出大的行业不容易出现好企业”，我同意这个观点。</p>
+</blockquote>
+<h2>第五章　估值逻辑</h2>
+<blockquote>
+<p>第2节　估值的逻辑与方法 &gt; Page 293 · Location 4243
+是的，对一个一年能赚 20亿美金的公司，你花 2000万买下和花 20亿买下都是合算的，前提是怎么才能知道他未来能赚到 20亿。</p>
+</blockquote>
+<blockquote>
+<p>第2节　估值的逻辑与方法 &gt; Page 298 · Location 4324
+芒格：我有些最糟糕的商业决策就是因为详细的分析造成的，高深的数学是错误的精确。</p>
+</blockquote>
+<blockquote>
+<p>第2节　估值的逻辑与方法 &gt; Page 306 · Location 4445
+段永平：我买万科时万科的市值大约在 150亿左右，具体时间不记得了（大概在股改前半年到一年的时候？）当时就觉得万科一年赚个几十个亿早晚能做到，不到 200亿确实便宜。同时觉得我看到的万科的账肯定不会是假账，因为王石不是作假账的人。当时买的理由都在这儿了。那个价钱我还需要算吗？（ 2010-04-06）</p>
+</blockquote>
+<blockquote>
+<p>第2节　估值的逻辑与方法 &gt; Page 306 · Location 4449
+段永平：我的所谓估值都是毛估估的。我买万科时万科市值才 100多个亿，我认为这无论如何也不止，所以就随便给了个 500亿。呵呵，当时唯一确定的就是 100多个亿有点太便宜了，如果有人把万科 100多个亿卖给我，我会很乐意买，所以买一部分也是很乐意的。</p>
+</blockquote>
+<blockquote>
+<p>第2节　估值的逻辑与方法 &gt; Page 313 · Location 4554
+译文：长期而言，一个公司股票的盈利很难比这个公司的盈利多。如果公司每年赚 6%持续 40年，你最后的年化回报也就是 6%左右，即使你买的时候股票有很大的折扣。但反过来如果公司每年资产收益率达 18%并且持续二三十年，即使你买的时候看起来很贵，他还是会给你带来惊喜。</p>
+</blockquote>
+<blockquote>
+<p>第3节　现金流折现案例（雅虎） &gt; Page 319 · Location 4640
+每股（都是大概数，没细算过）：现金 3， yahoo以外上市部分属于 yahoo的部分（包括 yahoo Japan约 30%和阿里巴巴 B2B香港上市部分约 30%） 4. 6 + 2. 1 = 6. 7。 yahoo本身现在的现金流大概有每股 1. 4/年，估计盈利大概在 0. 8左右，在 Internet这样一个成长的市场里， yahoo的广告总量还是有很大可能成长的，所以我给这部分 12倍的 pe（这里给多少都可以，看每个人对他们业务的理解），这就是 9. 6。以上总和是 3 + 6. 7 + 9. 6 = 19. 3。所以我认为 yahoo现在的市场的 fair price大概就在 18-20块之间，所以我认为 yahoo不贵。另外， yahoo拥有 40%阿里巴巴集团的股份（所有没上市部分，包括淘宝，支付宝还有他们的妈妈等），我也不知道那一块到底值多少钱，反正是送的。如果整个阿里巴巴没上市这块值到 500亿的话， yahoo就一定在 30块以上了。如果值 200亿的话， yahoo大概值 25-6块。</p>
+</blockquote>
+<blockquote>
+<p>第4节　对市盈率（PE）的看法 &gt; Page 332 · Location 4828
+多少倍 pe和平均长期利息有关， 12倍长期 pe应该可以了，我一般大概也用这个数左右。</p>
+</blockquote>
+<blockquote>
+<p>第4节　对市盈率（PE）的看法 &gt; Page 334 · Location 4852
+给个例子，我买 GE时是怎么算的：当 GE掉到 10块钱以下时（最低破 6块了），我想 GE好的时候能赚差不多两块钱，只要经济恢复正常，他怎么还不赚个一块多？由于 ge的 rating长期来讲还是会非常高的，假设他能赚 1. 5，给他个 15倍 pe不就 20多了吗？我当时的想法就是这样的，简单吗？其实背后有一个不太简单的东西就是我能够坚信 GE是家好公司（ Great company），好公司犯错后能回来的机会非常大。其实比我会算的人大把，但知道如何坚信确实不容易。 2010-03-23）</p>
+</blockquote>
+<blockquote>
+<p>第4节　对市盈率（PE）的看法 &gt; Page 335 · Location 4870
+相对于 pe，我会更多用 e/ e来衡量一个企业。这里有一个 e是 enterprise value。</p>
+</blockquote>
+<blockquote>
+<p>第4节　对市盈率（PE）的看法 &gt; Page 335 · Location 4872
+企业价值（市值 ＋负债-现金）（</p>
+</blockquote>
+<blockquote>
+<p>第5节　什么时候买卖股票 &gt; Page 339 · Location 4926
+股票是由每个买家自己“定价”的，到你“自己”觉得便宜的时候才可以买，实际上和市场（别人）无关。</p>
+</blockquote>
+<blockquote>
+<p>第5节　什么时候买卖股票 &gt; Page 339 · Location 4932
+但是我有个理解，就是无论什么时候卖都不要和买的成本联系起来。</p>
+</blockquote>
+<blockquote>
+<p>第5节　什么时候买卖股票 &gt; Page 344 · Location 5007
+不上市的公司有价值吗？应该回到投资的最基本定义，就是：买股票就是买公司，和上不上市无关。</p>
+</blockquote>
+<blockquote>
+<p>第5节　什么时候买卖股票 &gt; Page 344 · Location 5009
+你们只要把这公司想象成一家非上市公司，没有股价的变化就明白了。不过，绝大多数人大概做不到这点。客观讲，没办法将一家公司看成非上市公司来投资的话，最后多数是会亏钱的。</p>
+</blockquote>
+<blockquote>
+<p>第5节　什么时候买卖股票 &gt; Page 346 · Location 5035
+投资最简单的定义就是如果你有足够的钱你就想在这个价钱买下整个公司，然后把他下市。</p>
+</blockquote>
+<blockquote>
+<p>第5节　什么时候买卖股票 &gt; Page 348 · Location 5066
+在卖出大部分网易之前，我一直理性考虑的问题主要是这家公司未来到底可以赚多少钱而不是想我的股票已经赚了多少钱的问题。要大致想明白这个问题，对公司、行业、产品等等的了解不深是做不到的。</p>
+</blockquote>
+<blockquote>
+<p>第5节　什么时候买卖股票 &gt; Page 350 · Location 5097
+接飞刀容易中招的原因是：人们在接飞刀的时候往往想的是这个股票过去到过什么价，而不是想的这个公司值多少钱。个人认为在买股票的任何时候，总是应该假设自己刚刚从外星来到地球，然后平常心地看这个股票该不该在这个价钱买，包括接飞刀的时候。</p>
+</blockquote>
+<blockquote>
+<p>第5节　什么时候买卖股票 &gt; Page 350 · Location 5102
+我不知道老巴是怎么判断的，但我可以说说我一般是怎么判断的。一般来讲，当我买一只股票时，一定会有个买的理由，同时也要看到负面的东西。当买的理由消失了或重要的负面东西增加到我不能接受的时候，我就会离场。太贵了有时会成为离场的理由。如果所有的理由不变而只有价格掉到 10%的话，当然是个好机会。但如果理由发生巨变的时候，也许有可能是要离场的。</p>
+</blockquote>
+<blockquote>
+<p>第5节　什么时候买卖股票 &gt; Page 353 · Location 5155
+好价和长期持有的关系是什么呢？其实是好股长期持有就是好价了，而不是买到了好价钱的意思。</p>
+</blockquote>
+<blockquote>
+<p>第6节　机会成本 &gt; Page 368 · Location 5383
+平：价格合适主要指的是你自己的机会成本（也可以扩展到社会的机会成本）。</p>
+</blockquote>
+<blockquote>
+<p>第6节　机会成本 &gt; Page 372 · Location 5441
+理论上讲，持有 ＝买入，其实不是一个观点而是一个事实，所以如果人们没有持有一家非上市公司的心态的话，每时每刻都会有卖出的冲动的。</p>
+</blockquote>
+<blockquote>
+<p>第6节　机会成本 &gt; Page 372 · Location 5443
+从持有等于买入的角度看，实际上我每天都在买入苹果。</p>
+</blockquote>
+<blockquote>
+<p>第6节　机会成本 &gt; Page 372 · Location 5450
+平：持有等于买入是个事实，不是观点。买入 ＝持有。</p>
+</blockquote>
+<h2>第六章　投资方法论</h2>
+<blockquote>
+<p>第2节　牛市以及熊市的投资策略 &gt; Page 392 · Location 5731
+我认为“懂”不是个绝对的概念，大概就是“毛估估”懂的意思。懂不懂只有自己才知道，任何别人都很难评价。比如说我觉得我懂 ge的文化的价值，但不懂得人就会在其很便宜的时候把股票卖给我。从投资的角度而言，当你觉得你买的股票掉的时候你真的不受影响的时候，你大概就是懂了（不是讲的心理因素），不然就有可能是在投机（尤其是当你觉得害怕的时候）。</p>
+</blockquote>
+<blockquote>
+<p>第2节　牛市以及熊市的投资策略 &gt; Page 400 · Location 5850
+看图看线实际上是有 50%的准确率的，唯一的问题是人们事先无法肯定哪次是对的。看图看线实际上就是看目前（这个时刻或时段）别人对股票的看法。所谓的价值投资者的心中是无图无线的！（</p>
+</blockquote>
+<blockquote>
+<p>第2节　牛市以及熊市的投资策略 &gt; Page 405 · Location 5930
+06．假如长期看好一只股票并持有，也想长期持有，但是短期内价格增长太快，超过了我自己对它的估值不少（业务本身近期并没有明显变化来支撑价值的变化），我应该先卖出等以后再买入吗？段永平：我也想过这么做来着，谁不想赚差价啊，但这么做的结果基本上都是瞎忙半天还少赚了，所以以后就不再想干这种事情了。知其不可为也很重要啊。 2019-05-20）</p>
+</blockquote>
+<blockquote>
+<p>第2节　牛市以及熊市的投资策略 &gt; Page 418 · Location 6131
+需要胆量的是投机，投资不需要勇气，也就是说当你需要勇气时你就危险了。</p>
+</blockquote>
+<blockquote>
+<p>第5节　投资书籍及其它 &gt; Page 460 · Location 6769
+排名不分先后：巴菲特给股东的信、巴菲特名言录、基业长青、韦尔奇自传。有空还可以看：查理宝典、穷爸爸富爸爸。</p>
+</blockquote>
+<blockquote>
+<p>第5节　投资书籍及其它 &gt; Page 472 · Location 6959
+投指数就是投国家。</p>
+</blockquote>
+<blockquote>
+<p>第5节　投资书籍及其它 &gt; Page 472 · Location 6962
+我理解的巴菲特讲的买美国其实就是买指数。</p>
+</blockquote>
+<h2>第七章　案例分析</h2>
+<blockquote>
+<p>案例1：贵州茅台 &gt; Page 477 · Location 7011
+一般来讲我要投资一个公司时，主要考虑两个重要的点： 1、这家公司能长期获利（足够的利润）吗？ 2、公司获得的利润如何给到股东？</p>
+</blockquote>
+<blockquote>
+<p>案例1：贵州茅台 &gt; Page 510 · Location 7534
+我说的 pe一般指的是相对于未来长期实际利润的 pe，不是一般财报上的那个 pe。</p>
+</blockquote>
+<blockquote>
+<p>案例1：贵州茅台 &gt; Page 510 · Location 7539
+长期来说，存银行很难有 5%的利息，所以茅台长期的回报能到 20pe或更好的，茅台就不贵了。 2019-03-15）</p>
+</blockquote>
+<blockquote>
+<p>案例1：贵州茅台 &gt; Page 513 · Location 7587
+看三年五年是比看十年难的，基本上可以说，看得越短越难。</p>
+</blockquote>
+<blockquote>
+<p>案例1：贵州茅台 &gt; Page 514 · Location 7593
+知道什么会发生比知道什么时候会发生要容易的多。很多事情，不管是好事还是坏事，给他 10年，大概率就会发生了，三年则未必，但三年会发生的概率显然会比三天高，所以能看三年也好啊，肯定好过看三天的。</p>
+</blockquote>
+<blockquote>
+<p>案例1：贵州茅台 &gt; Page 518 · Location 7660
+段永平：其实所有的股票都只有一个真正的买家会最终影响到股价，其他人对股价的影响都是浮云。这个真正的买家就是公司自己，买股票的钱来自于盈利。</p>
+</blockquote>
+<blockquote>
+<p>案例2：网易 &gt; Page 526 · Location 7773
+人们其实都是喜欢玩游戏的，只不过游戏的形式不同。比如权利的游戏、赚钱的游戏（投资或投机）、各种体育竞技等等。游戏最根本的东西实际上是消费时间同时获得快乐。网络游戏对大多数人来说，是性价比最高的获取简单快乐的办法。</p>
+</blockquote>
+<blockquote>
+<p>案例2：网易 &gt; Page 538 · Location 7971
+好像巴菲特讲过：有一个 300斤的胖子走进来，我不用秤就知道他很胖。我买网易时可真没认真“估值”过。</p>
+</blockquote>
+<blockquote>
+<p>案例3：苹果 &gt; Page 547 · Location 8097
+比如苹果，我在 2011年买苹果的时候，苹果大概 3000亿市值（当时股价 310/ 7 = 44），手里有 1000亿净现金，那时候利润大概不到 200亿。以我对苹果的理解，我认为苹果未来 5年左右赢利大概率会涨很多，所以我就猜个 500亿（去年 595亿）。所以当时想的东西非常简单，用 2000亿左右市值买个目前赚接近 200亿／年，未来 5左右会赚到 500亿／年或以上的公司（而且还会往后继续很好）。如果有这个结论，买苹果不过是个简单算术题，你只要根据你自己的机会成本就可以决定了。但得到这个结论非常不容易，对我来说至少 20年功夫吧。能得到这个结论，就叫懂了。</p>
+</blockquote>
+<blockquote>
+<p>案例3：苹果 &gt; Page 578 · Location 8593
+平：所谓企业文化讲的就是什么是对的事情（或者说哪些是不对的事情），以及如何把对的事情做对。</p>
+</blockquote>
+<blockquote>
+<p>案例3：苹果 &gt; Page 588 · Location 8748
+right business + right people + right price + time = good result。虽然这个不是投资的充分公式，但好结果却是个比较大概率的事件。</p>
+</blockquote>
+<blockquote>
+<p>案例3：苹果 &gt; Page 592 · Location 8810
+担心库克的能力就不应该买苹果，干嘛和自己过不去？（
+案例3：苹果 &gt; Page 608 · Location 9059
+网友 I：“任何股票都只有一个真正的买家，那就是公司自己。”我觉得这句话绝不是说只有公司自己才是价值投资者。而是指公司以外的任何人购买都不会增加每股的价值，只不过是从张三转让给李四而已，和公司没啥关系；而公司回购并注销长期来看才会增加每股的含金量，这才是唯一真正的买家。段永平：其实只要把公司想象成非上市公司，而且只有一个股东，大概就能容易明白了。</p>
+</blockquote>
+<blockquote>
+<p>案例3：苹果 &gt; Page 611 · Location 9093
+段永平：其实会买公司股票的人只有一个，那就是公司自己，别人都是过客。想通了这个道理，别的都不是问题了。再说一个简单的例子：好几年前，我在某个场合碰到 Tim Cook。他问我你干嘛的，我说，投资。他问，投啥了？我说，苹果。他再问，还有呢？我说，没了，基本上都是苹果。然后他没接话，可能他觉得他见的投资人里没这样的。然后我说，如果苹果一直这个价钱，十来年后我可能就是苹果的唯一股东了哈，因为苹果的盈利会把除了我以外的所有股票都买回去的，他听了后微笑了一下，啥也没说。大家都知道，很可惜这个事情没能发生，尤其是有个叫巴菲特的人跑进来把我的如意算盘给搅和了 ￼。 2020-10-18）</p>
+</blockquote>
+<blockquote>
+<p>案例3：苹果 &gt; Page 615 · Location 9163
+段永平：如果你关注生意本身，你到时就会知道的，没有一个公式可以借用。我开始买苹果时苹果市值大概 310/ 7/ 4 = 11块左右（分了两次股， 1： 7， 1： 4），这些年还有不少分红。那个时候就不停地有人跟我说难道树还能长到天上去？连芒格当时也说过他们不会买苹果。我本来曾经想跟老巴聊苹果的（那时苹果大概 15块左右），但看了芒格说的话之后就犹豫了。这事我其实一直有点后悔，如果当时老巴要买了苹果 20%的话，我会非常开心的。多年后当老巴已经买了很多苹果后，我确实曾经跟老巴当面聊过苹果。我说我其实很久以前就想跟你聊苹果的，他说，哎呀，你当时应该说的，下不为例哈。所以独立思考，关注生意本身最重要哈。 2020-10-13）</p>
+</blockquote>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/33"/><category term="笔记"/><published>2025-07-15T03:22:14+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/32</id><title>业余爱好：牛散的网站</title><updated>2025-07-15T03:22:37.023196+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox"> 流通股东的数据构建</li>
 <li><input checked="" disabled="" type="checkbox"> 搜索功能</li>
 <li><input checked="" disabled="" type="checkbox"> 牛散筛选功能</li>
 <li><input checked="" disabled="" type="checkbox"> 会员的后台管理，包括会员期限、收藏夹功能</li>
 <li><input checked="" disabled="" type="checkbox"> 首页-热门搜索功能</li>
 </ul>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/32"/><category term="TODO"/><published>2025-04-27T02:47:11+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/31</id><title>感激之情</title><updated>2025-07-13T08:29:41.141249+00:00</updated><content type="html"><![CDATA[<p>昨天跟很久没见的外公在电话中嘘寒问暖了几句。 在电话里得知外公已经开始有点耳聋而不得不佩戴助听器。确实，年龄大了，身体上的各种小问题就难以避免地出现。</p>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/32"/><category term="TODO"/><published>2025-04-27T02:47:11+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/31</id><title>感激之情</title><updated>2025-07-15T03:22:37.119844+00:00</updated><content type="html"><![CDATA[<p>昨天跟很久没见的外公在电话中嘘寒问暖了几句。 在电话里得知外公已经开始有点耳聋而不得不佩戴助听器。确实，年龄大了，身体上的各种小问题就难以避免地出现。</p>
 <p>虽然好几年没见了，但当我听到外公的状况的时候，心里不是滋味。</p>
 <p>原来不知不觉已经回国10年了，感觉就像昨日的事情。</p>
 <p>记得十多年前寄宿在外公家，当时候年少无知，经常在处理事情上不够成熟，无论是生活上，工作上，还是学习上。 在当时候的我看来，我自己是相当的委屈；但现在的我看来，不骂是不行的，连我自己也想回到过去臭骂自己一顿。</p>
 <p>但随着自己的心智和认知慢慢变得成熟和开豁，我发现原来事情与当时候自己所想、所知、所见是大不相同。事实上，我是一直受到他的关照。</p>
 <p>希望在不久将来，我们还有机会再见面，无论是我过去，还是你回来。</p>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/31"/><category term="想法"/><published>2025-01-20T08:33:55+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/30</id><title>Travel.澳门.01</title><updated>2025-07-13T08:29:41.217696+00:00</updated><content type="html"><![CDATA[<h2>永利皇宫</h2>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/31"/><category term="想法"/><published>2025-01-20T08:33:55+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/30</id><title>Travel.澳门.01</title><updated>2025-07-15T03:22:37.219043+00:00</updated><content type="html"><![CDATA[<h2>永利皇宫</h2>
 <p><img src="https://github.com/user-attachments/assets/0d431beb-9f2c-4a7b-8a1d-2dbe2c9dbed3" alt="Image" />
 <img src="https://github.com/user-attachments/assets/e507ace1-afd8-4313-8a19-1e4d52d4cd3e" alt="Image" /></p>
 <h2>葡京</h2>
@@ -48,7 +405,7 @@
 <img src="https://github.com/user-attachments/assets/98453a70-8c99-4fa7-95f2-7e28b780c0e2" alt="Image" />
 <img src="https://github.com/user-attachments/assets/a37b4d1d-7913-4e0f-9da3-c72638765c53" alt="Image" />
 <img src="https://github.com/user-attachments/assets/3845d408-d0a0-40cf-a9e2-bc0ddc8f90b3" alt="Image" /></p>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/30"/><category term="Travel"/><published>2025-01-17T02:18:42+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/29</id><title>经济数据的意义</title><updated>2025-07-13T08:29:41.312148+00:00</updated><content type="html"><![CDATA[<h2>M0、M1、M2数据意义</h2>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/30"/><category term="Travel"/><published>2025-01-17T02:18:42+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/29</id><title>经济数据的意义</title><updated>2025-07-15T03:22:37.315053+00:00</updated><content type="html"><![CDATA[<h2>M0、M1、M2数据意义</h2>
 <blockquote>
 <p>2024年12月末，广义货币(M2)余额313.53万亿元,同比增长7.3%。狭义货币(M1)余额67.1万亿元，同比下降1.4%。流通中货币(M0)余额12.82万亿元,同比增长13%。全年净投放现金1.47万亿元。</p>
 </blockquote>
@@ -64,7 +421,7 @@
 <li>M1：MO + 企业活期存款；<strong>M1高，经济预期好，企业要大规模投资</strong>；</li>
 <li>M2：M1+准货币（企业定期存款+居民储蓄存款+其它存款）；<strong>M2高，经济预期差，企业勒紧裤头，存定期收息</strong>。</li>
 </ul>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/29"/><category term="笔记"/><published>2025-01-14T07:22:27+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/28</id><title>Amuse Myself</title><updated>2025-07-13T08:29:41.398513+00:00</updated><content type="html"><![CDATA[<h2>2025年</h2>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/29"/><category term="笔记"/><published>2025-01-14T07:22:27+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/28</id><title>Amuse Myself</title><updated>2025-07-15T03:22:37.413483+00:00</updated><content type="html"><![CDATA[<h2>2025年</h2>
 <h3>书籍</h3>
 <ul>
 <li>
@@ -130,7 +487,7 @@
 <li><input checked="" disabled="" type="checkbox"> 上线大牛散项目 <a href="https://daniusan.com/">https://daniusan.com/</a> @2025-04-28</li>
 <li><input checked="" disabled="" type="checkbox"> 上线股票基本面项目 <a href="https://thepapers.cn/">https://thepapers.cn/</a> @2025-05-15</li>
 </ul>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/28"/><category term="TODO"/><category term="Top"/><published>2025-01-11T14:16:13+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/26</id><title>Market Breadth在A股概念板块上的应用</title><updated>2025-07-13T08:29:41.476522+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/28"/><category term="TODO"/><category term="Top"/><published>2025-01-11T14:16:13+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/26</id><title>Market Breadth在A股概念板块上的应用</title><updated>2025-07-15T03:22:37.541742+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>[!NOTE]
 昨天又遇到一个资本大鳄，基本每次只炒一只票，而且持股不超过2天。 这两年行情那么差居然可以实现每年翻倍，这简直是游资的手法。
 按照他所说的，<code>只看股票的资金面： 概念、换手率、净特大单情况。</code>
@@ -199,7 +556,7 @@
 </ul>
 <hr />
 <h2>未完，待续。</h2>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/26"/><category term="研究"/><published>2024-12-24T08:51:57+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/24</id><title>《穷查理宝典》书摘</title><updated>2025-07-13T08:29:41.567703+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/26"/><category term="研究"/><published>2024-12-24T08:51:57+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/24</id><title>《穷查理宝典》书摘</title><updated>2025-07-15T03:22:37.648656+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>[!NOTE]
 “当沃伦在商学院上课时，他说：‘我用一张考勤卡就能改善你最终的财务状况；这张卡片上有20格，所以你只能有20次打卡的机会——这代表你一生中所能拥有的投资次数。当你把卡打完之后，你就再也不能进行投资了。在这样的规则之下，你将会真正地慎重考虑你做的事情，你将不得不花大笔资金在你真正想投资的项目上。这样你的表现将会好得多。’”</p>
 </blockquote>
@@ -223,7 +580,7 @@
 <li><strong>只在自己明确界定的能力圈内行事</strong>。</li>
 <li><strong>反过来想，总是反过来想。</strong></li>
 </ul>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/24"/><category term="笔记"/><published>2024-12-23T03:31:11+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/23</id><title>选股：周期性股票的交易方式-席勒市盈率</title><updated>2025-07-13T08:29:41.650071+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/24"/><category term="笔记"/><published>2024-12-23T03:31:11+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/23</id><title>选股：周期性股票的交易方式-席勒市盈率</title><updated>2025-07-15T03:22:37.753105+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>[!NOTE]
 本来是放在<code>quail.ink</code>和<code>微信公众号</code>的收费文章，想了想，还是算了</p>
 </blockquote>
@@ -355,7 +712,7 @@ ax.legend()
 fig.tight_layout()
 fig.savefig(&#x27;cape.pdf&#x27;)
 </code></pre>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/23"/><category term="研究"/><published>2024-12-21T04:06:19+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/22</id><title>避雷：亿利洁能39亿存款说没就没了 - 存贷双高</title><updated>2025-07-13T08:29:41.730287+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/23"/><category term="研究"/><published>2024-12-21T04:06:19+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/22</id><title>避雷：亿利洁能39亿存款说没就没了 - 存贷双高</title><updated>2025-07-15T03:22:37.880259+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>[!NOTE]
 本来是放在<code>quail.ink</code>和<code>微信公众号</code>的收费文章，想了想，还是算了</p>
 </blockquote>
@@ -433,7 +790,7 @@ result_dict[&#x27;利息费用净利润比率(%)&#x27;] = round(expense_rate,2)
 df = pd.DataFrame(result_dict)
 df
 </code></pre>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/22"/><category term="研究"/><published>2024-12-21T03:55:32+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/21</id><title>月过十五光明少，人到中年万事休</title><updated>2025-07-13T08:29:41.815352+00:00</updated><content type="html"><![CDATA[<p>最近想起了多年前的一个邻居，一个年龄比我大7年的邻居。</p>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/22"/><category term="研究"/><published>2024-12-21T03:55:32+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/21</id><title>月过十五光明少，人到中年万事休</title><updated>2025-07-15T03:22:37.989201+00:00</updated><content type="html"><![CDATA[<p>最近想起了多年前的一个邻居，一个年龄比我大7年的邻居。</p>
 <p>他不爱读书，也没读多少书。 他辍学以后一直在我们隔壁村小学的附近干小卖部。</p>
 <p>在我看来，他是幸运的，也是不幸的。 </p>
 <p>他是幸运的。他们家是属于比较早的、可以申请去香港移民的那一批，我们村的人都羡慕得很。他爸先去了香港，后来他妈和他弟都跟着一起过去，唯独他选择留在这边。 他没说原因，估计是舍不得那小卖部。 但是后来小卖部也没了，每月靠着村里的分红过日子。</p>
@@ -443,7 +800,7 @@ df
 <p>事实上，我们每个人都经历着不同的人生阶段， 有时候我们处于自己的人生阶段是很难去明白他人在他的阶段的抉择。</p>
 <p>我记得古天乐曾经做过一次采访。 主持人问他关于爱情的看法，但他拒绝了回答。 他说，每个人生阶段对爱情的看法都不一样，如果我现在给出了答案，那么这个答案在我另一个人生阶段则变得毫无意义。</p>
 <p>其实，关于他，只有我经历过他的人生阶段，我对他的评价才有存在的意义。</p>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/21"/><category term="想法"/><published>2024-12-13T17:14:24+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/20</id><title>药物治疗备忘录</title><updated>2025-07-13T08:29:41.891626+00:00</updated><content type="html"><![CDATA[<h2>感染</h2>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/21"/><category term="想法"/><published>2024-12-13T17:14:24+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/20</id><title>药物治疗备忘录</title><updated>2025-07-15T03:22:38.090212+00:00</updated><content type="html"><![CDATA[<h2>感染</h2>
 <h3>呼吸道感染</h3>
 <p>肺炎支原体（下呼吸道感染）是引起呼吸道感染的一种特定病原体。</p>
 <ul>
@@ -844,7 +1201,7 @@ df
 </ul>
 </li>
 </ul>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/20"/><category term="笔记"/><published>2024-12-13T15:46:40+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/19</id><title>Travel.贵州.都匀</title><updated>2025-07-13T08:29:42.043637+00:00</updated><content type="html"><![CDATA[<p>想了一想，这应该是第四次出差都匀这座城市。</p>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/20"/><category term="笔记"/><published>2024-12-13T15:46:40+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/19</id><title>Travel.贵州.都匀</title><updated>2025-07-15T03:22:38.255132+00:00</updated><content type="html"><![CDATA[<p>想了一想，这应该是第四次出差都匀这座城市。</p>
 <p>前三次都是来得比较匆忙，很多时候都是直奔项目公司，以至于一直没有时间到处游逛。</p>
 <p>但说实话，这边的旅游景点也不算多，有几次坐滴滴的时候也檫身而过了好几个所谓的景点。</p>
 <p>这边市中心和开发区还是有点区别的。开发区略显荒凉，我甚至一度以为整个都匀都是这种充满山区、楼盘烂尾、人烟稀少的气息。如果去了市中心，就会发现市中心的人烟不亚于二三线城市的城区，这又是另一番景象。 </p>
@@ -865,7 +1222,7 @@ df
 <p><img src="https://github.com/user-attachments/assets/c8eb7ccb-7e71-4fd2-8fb6-ca3a05eaaf46" alt="IMG_0594" />
 <img src="https://github.com/user-attachments/assets/fcf66fb3-86cf-4cf9-a52b-85f55a0cee01" alt="IMG_0595" />
 <img src="https://github.com/user-attachments/assets/b110050a-687f-45e0-a888-2d3455c816ed" alt="IMG_0597" /></p>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/19"/><category term="Travel"/><published>2024-12-10T02:13:25+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/18</id><title>《破.地狱》：请珍惜眼前人</title><updated>2025-07-13T08:29:42.120371+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/user-attachments/assets/9a07b4de-fbec-4293-a7a0-461e932d656f" alt="3b1a1decc98ac7e2b897cf8b23d79c2" /></p>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/19"/><category term="Travel"/><published>2024-12-10T02:13:25+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/18</id><title>《破.地狱》：请珍惜眼前人</title><updated>2025-07-15T03:22:38.346029+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/user-attachments/assets/9a07b4de-fbec-4293-a7a0-461e932d656f" alt="3b1a1decc98ac7e2b897cf8b23d79c2" /></p>
 <p>黄子华和许冠文主演的电影《破.地狱》终于在广东地区超前上映。</p>
 <p>最庆幸的是，整部电影一刀未剪，而且是原汁原味的粤语，什么敏感字眼、什么粗口都如常播出。 这属于什么概念？这属于”既要...又要...还要...“的情况下全部得到满足。</p>
 <p>在收到超前点映的官宣之前，我一度以为只有香港才能上映。 为了看上这部电影去香港的冲动都有了，但看看口袋的money money之后，还是打消了念头。</p>
@@ -901,7 +1258,7 @@ df
 <p>回望在多少遗憾中普渡的众生</p>
 <p>才觉已得到福荫</p>
 </blockquote>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/18"/><category term="想法"/><published>2024-12-07T17:06:19+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/17</id><title>Random Picks</title><updated>2025-07-13T08:29:42.194114+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/18"/><category term="想法"/><published>2024-12-07T17:06:19+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/17</id><title>Random Picks</title><updated>2025-07-15T03:22:38.433432+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>[!IMPORTANT]
 随机摘录</p>
 </blockquote>
@@ -928,7 +1285,7 @@ df
 <li>There is nothing permanent except change. @Heraclitus.</li>
 <li>菜就多练.</li>
 </ul>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/17"/><category term="Top"/><published>2024-12-05T16:23:30+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/16</id><title>选股：低成交金额选股，站在游资的肩膀上</title><updated>2025-07-13T08:29:42.296855+00:00</updated><content type="html"><![CDATA[<p>事情是发生在昨天晚上的一个饭局里面。 </p>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/17"/><category term="Top"/><published>2024-12-05T16:23:30+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/16</id><title>选股：低成交金额选股，站在游资的肩膀上</title><updated>2025-07-15T03:22:38.534480+00:00</updated><content type="html"><![CDATA[<p>事情是发生在昨天晚上的一个饭局里面。 </p>
 <p>饭局上，朋友说到其实A股上的游资套路很多，真正玩起来也不是那么难。</p>
 <p>他说他认识当地好几个游资，其中一个游资就是<strong>买进之后啥也不动，往后只加仓，不减仓</strong>，到目前为止总共才做了3只票。 我随手打开了东方财富翻了翻，其中一只已经是做到了第二大股东，而且从18年就开始买进，持有到现在，持有市值27亿。</p>
 <p>另外一个游资的玩法就更简单暴力，<strong>只看成交金额</strong>。 他说这个游资挑了一只40来亿的股票，但每天的成交金额才1000来万。 他给出的理由也很简单，成交金额非常低，很容易控盘。</p>
@@ -1030,7 +1387,7 @@ df = df.merge(ms_data, on=[&#x27;ts_code&#x27;])
 filtered_df = df[(df[&#x27;total_mv&#x27;] &lt;= 50.0) &amp; (df[&#x27;is_lowest&#x27;] == True) &amp; (df[&#x27;latest_value&#x27;] &lt;= 0.2)]
 filtered_df.to_excel(&#x27;027_is_lowest.xlsx&#x27;)
 </code></pre>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/16"/><category term="研究"/><published>2024-12-05T13:54:25+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/15</id><title>发行股份及支付现金的并购重组案例：烽火电子</title><updated>2025-07-13T08:29:42.384968+00:00</updated><content type="html"><![CDATA[<p>最近并购重组在证监会新一届的领导<strong>吴清</strong>的带领下搞得红红火火，但这并不是我关注A股并购重组的直接理由。</p>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/16"/><category term="研究"/><published>2024-12-05T13:54:25+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/15</id><title>发行股份及支付现金的并购重组案例：烽火电子</title><updated>2025-07-15T03:22:38.639045+00:00</updated><content type="html"><![CDATA[<p>最近并购重组在证监会新一届的领导<strong>吴清</strong>的带领下搞得红红火火，但这并不是我关注A股并购重组的直接理由。</p>
 <p>最主要的理由是：目前证监会收紧了A股上市IPO的节奏，我手头上一个跟了差不多4年的项目大概率要通过走并购重组这条路实现间接上市退出。 </p>
 <p>还是那句话，<strong>能退出总比烂在那里要强。</strong></p>
 <p>我浏览了一下这段时间并购重组的案例，大概有20几家，最终挑了<code>烽火电子（000561）</code>这个案例来做研究。主要还是它家比较接近我手头上这个项目的情况。</p>
@@ -1089,7 +1446,7 @@ filtered_df.to_excel(&#x27;027_is_lowest.xlsx&#x27;)
 </ul>
 <hr />
 <p>最终还得回归到玄学上， <strong>这都得看命了</strong>。</p>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/15"/><category term="笔记"/><published>2024-12-05T05:21:14+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/13</id><title>付鹏的《对冲风险VS软着陆》总结</title><updated>2025-07-13T08:29:42.468651+00:00</updated><content type="html"><![CDATA[<p>时间：2024年11月24日</p>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/15"/><category term="笔记"/><published>2024-12-05T05:21:14+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/13</id><title>付鹏的《对冲风险VS软着陆》总结</title><updated>2025-07-15T03:22:38.750166+00:00</updated><content type="html"><![CDATA[<p>时间：2024年11月24日</p>
 <p>沙龙：汇丰私人财富规划</p>
 <p><strong>附件：</strong></p>
 <ul>
@@ -1590,14 +1947,14 @@ filtered_df.to_excel(&#x27;027_is_lowest.xlsx&#x27;)
 <li>新兴市场危机: 由投资回报率下降和债务问题引发的经济危机</li>
 <li>三元悖论: 利率、汇率、财政政策之间的平衡关系</li>
 </ul>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/13"/><category term="笔记"/><published>2024-12-02T10:19:38+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/11</id><title>《详谈左晖》书摘</title><updated>2025-07-13T08:29:42.621496+00:00</updated><content type="html"><![CDATA[<ol>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/13"/><category term="笔记"/><published>2024-12-02T10:19:38+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/11</id><title>《详谈左晖》书摘</title><updated>2025-07-15T03:22:39.022115+00:00</updated><content type="html"><![CDATA[<ol>
 <li>读书是一项最被夸大的美德。 <code>p007</code></li>
 <li>我们不断和经纪人说，你卖了什么房子不重要，你不卖什么房子才是最重要的；你告诉消费者这个房子该买不重要，你告诉消费者这个房子不该买才是最重要的。 <code>p018</code></li>
 <li>我觉得我们今天好像都偷懒了，要去问踩了那些坑。但这些坑毕竟是他踩的，你自己没踩过，你听的跟你碰到的差别是非常大，或者是完全不一样的。你有那个功夫到处去打听，还不如自己去干。 <code>p057</code></li>
 <li>你要想赢，有两个办法，第一个办法让自己变强，第二个办法是让别人变弱。关心竞争多了之后，很容易用第二种办法，因为比较容易，很容易去打击别人，去诋毁别人。 <code>p082</code></li>
 <li>他就说要做一件小事跟做一件大事付出的努力差不多。我当时觉得，要选大的事去做。 <code>p109</code></li>
 </ol>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/11"/><category term="笔记"/><published>2024-11-29T05:32:16+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/10</id><title>选股：妖股是如何割韭菜的</title><updated>2025-07-13T08:29:42.697763+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/user-attachments/assets/eece90b2-c85a-41d9-b6e7-93477ad8bfc9" alt="image" /></p>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/11"/><category term="笔记"/><published>2024-11-29T05:32:16+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/10</id><title>选股：妖股是如何割韭菜的</title><updated>2025-07-15T03:22:39.122830+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/user-attachments/assets/eece90b2-c85a-41d9-b6e7-93477ad8bfc9" alt="image" /></p>
 <h3>看抖音选股票</h3>
 <p>最近刷抖音看了一位播主比较生动地介绍了庄家是如何通过各种方式割韭菜。 </p>
 <p>播主在视频里面所说的确实是炒股割韭菜的一些老套路。除了股东名册我们普通大众是拿不到之外，持股集中度、市值大小、年线等这些指标还是可以通过公开信息获得。</p>
@@ -1638,7 +1995,7 @@ filtered_df.to_excel(&#x27;027_is_lowest.xlsx&#x27;)
 <li><a href="https://github.com/user-attachments/files/17964592/026.xlsx">026.xlsx</a></li>
 <li><a href="https://github.com/user-attachments/files/17964593/026_is_lowest.xlsx">026_is_lowest.xlsx</a></li>
 </ul>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/10"/><category term="研究"/><published>2024-11-29T05:31:43+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/9</id><title>《显示器》的避坑购买攻略</title><updated>2025-07-13T08:29:42.775607+00:00</updated><content type="html"><![CDATA[<p>最近用了差不多10年的显示器坏了，于是打算购买新的显示器。   基于#9 的原因，还是做做攻略比较好。</p>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/10"/><category term="研究"/><published>2024-11-29T05:31:43+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/9</id><title>《显示器》的避坑购买攻略</title><updated>2025-07-15T03:22:39.237724+00:00</updated><content type="html"><![CDATA[<p>最近用了差不多10年的显示器坏了，于是打算购买新的显示器。   基于#9 的原因，还是做做攻略比较好。</p>
 <p>看了一大圈，发现还得看性价比，反正越便宜越好....</p>
 <hr />
 <h3>2024-11-21</h3>
@@ -1728,7 +2085,7 @@ G-sync和Free-sync垂直同步技术<ul>
 <li><strong>DP</strong>：主流的高清接口，比HDMI更好</li>
 <li><strong>排名</strong>：DP&gt;HDMI&gt;DVI&gt;VGA；</li>
 </ul>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/9"/><category term="笔记"/><published>2024-11-29T05:30:56+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/8</id><title>自证陷阱：谁主张，谁举证</title><updated>2025-07-13T08:29:42.869170+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/user-attachments/assets/6ba97dfa-ba72-4a3e-9abf-464ba2ecff59" alt="image" /></p>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/9"/><category term="笔记"/><published>2024-11-29T05:30:56+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/8</id><title>自证陷阱：谁主张，谁举证</title><updated>2025-07-15T03:22:39.339073+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/user-attachments/assets/6ba97dfa-ba72-4a3e-9abf-464ba2ecff59" alt="image" /></p>
 <p>相信看过和没看过电影《让子弹飞》的人对于剧中的小六子被胡万污蔑吃了两碗粉这个情节都会震惊不已。 </p>
 <p>小六子为了证明自己只吃了一碗粉而剖开了自己的肚子，陷入了“自证陷阱”，最终丢了性命。</p>
 <p>其实这个时候，他只要说一句“<strong>你怎么证明我吃了两碗粉。</strong>”</p>
@@ -1763,7 +2120,7 @@ G-sync和Free-sync垂直同步技术<ul>
 [^2]:  <a href="https://www.51ldb.com/shsldb/ghnx/content/018bfac435a9c0010000ada09aaa8097.html">为什么女性更容易掉入“自证陷阱”？</a> </p>
 <hr />
 <h2>未完</h2>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/8"/><category term="想法"/><published>2024-11-29T05:29:51+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/7</id><title>第一性原理：钙尔奇钙片</title><updated>2025-07-13T08:29:42.955533+00:00</updated><content type="html"><![CDATA[<p>最近家里的老人家开始有补钙的需求，而我为了买钙片这事情也是使出了浑身解数，小红书、什么值得买、京东评论一个不落。</p>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/8"/><category term="想法"/><published>2024-11-29T05:29:51+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/7</id><title>第一性原理：钙尔奇钙片</title><updated>2025-07-15T03:22:39.454239+00:00</updated><content type="html"><![CDATA[<p>最近家里的老人家开始有补钙的需求，而我为了买钙片这事情也是使出了浑身解数，小红书、什么值得买、京东评论一个不落。</p>
 <p>但在选购钙片之前就听说过固态钙会导致便秘，而液态钙就不存在这种情况。所以在购买的时候我就特意搜索液态钙。</p>
 <p>搜索出来的结果五花八门，只看标题的话难以下手，有的叫软胶囊液态钙，有的还添加了D3、K2。</p>
 <p>最终我挑了钙尔奇的D3软胶囊钙。 当时候我的购买逻辑就是，胶囊等于液态，D3属于加分项。</p>
@@ -1795,7 +2152,7 @@ G-sync和Free-sync垂直同步技术<ul>
 <p>所谓第一性原理指的是，回归事物最基本的条件，把其解构成各种要素进行分析，从而找到实现目标最优路径的方法。</p>
 </blockquote>
 <p>生活中还有很多关于第一性原理的例子。例如购买牙膏、化妆品等，我们可以通过产品的成分表去分析那些产品是真正具有美白功效的，那些是具有防蛀牙功效的，而不是只看宣传广告语。</p>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/7"/><category term="想法"/><published>2024-11-29T05:29:14+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/6</id><title>从《内部视角陷阱：CEO为什么频频预测失误》说起</title><updated>2025-07-13T08:29:43.043584+00:00</updated><content type="html"><![CDATA[<p>最近沉迷上了贝叶斯定理，还专门在京东买了两本书，一本是刘雪峰编写的《生活不是掷骰子》，另一本是Will Kurt的《趣学贝叶斯统计》。</p>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/7"/><category term="想法"/><published>2024-11-29T05:29:14+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/6</id><title>从《内部视角陷阱：CEO为什么频频预测失误》说起</title><updated>2025-07-15T03:22:39.550095+00:00</updated><content type="html"><![CDATA[<p>最近沉迷上了贝叶斯定理，还专门在京东买了两本书，一本是刘雪峰编写的《生活不是掷骰子》，另一本是Will Kurt的《趣学贝叶斯统计》。</p>
 <p>在《生活不是掷骰子》中，刘大师说起了内外部视角对先验概率的影响，其中就引用了百度前副总裁李靖写的一篇文章《 <a href="https://mp.weixin.qq.com/s/7dkXYXsabmCFbk8Wz_NWqA">内部视角陷阱：CEO为什么频频预测失误</a> 》中的一个例子。 </p>
 <p>由于这例子很有意思，我还特意把这篇15年的文章找了出来整篇阅读。
 例子如下：</p>
@@ -1810,7 +2167,7 @@ G-sync和Free-sync垂直同步技术<ul>
 <p>针对他的想法，我提了几个问题。 后面基本就聊不下去了，主要原因就是他觉得我们不懂这系统有多厉害，不懂他们的经销商渠道有多厉害。</p>
 <p><code>5年过去了，这公司的管理系统没有铺开，融资没有办成，当然也没有上市。 </code></p>
 <p>现在想起来还是有点意思。这大佬当时候就是从内部角度去做产品，倘若当年他也看了李靖写的《内部视角陷阱：CEO为什么频频预测失误》，结果会不会不一样呢？</p>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/6"/><category term="想法"/><published>2024-11-29T05:28:32+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/5</id><title>《控糖革命》读书笔记</title><updated>2025-07-13T08:29:43.129479+00:00</updated><content type="html"><![CDATA[<p>前段时间不知道为啥《控糖革命》这本书在twitter上疯传，好几个大V都在推这书，而且口碑评价都不错。于是乎我也认真读了起来。
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/6"/><category term="想法"/><published>2024-11-29T05:28:32+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/5</id><title>《控糖革命》读书笔记</title><updated>2025-07-15T03:22:39.636350+00:00</updated><content type="html"><![CDATA[<p>前段时间不知道为啥《控糖革命》这本书在twitter上疯传，好几个大V都在推这书，而且口碑评价都不错。于是乎我也认真读了起来。
 书本基本围绕着（1）为什么要控糖；（2）葡萄糖峰值的危害；（3）控糖技巧；去展开。</p>
 <p>以下是主要的控糖技巧：</p>
 <ol>
@@ -1848,7 +2205,7 @@ G-sync和Free-sync垂直同步技术<ul>
 <p>实际上，上面的控糖方法都是简单明了的。对于第7点，我还特意在京东买了3盒苹果醋试试。</p>
 <hr />
 <p><img src="https://github.com/user-attachments/assets/c22c6cdb-eb2b-42d8-aa91-2b22949f64da" alt="image" /></p>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/5"/><category term="笔记"/><published>2024-11-29T05:27:39+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/4</id><title>上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计</title><updated>2025-07-13T08:29:43.211851+00:00</updated><content type="html"><![CDATA[<h2>一、统计的理由</h2>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/5"/><category term="笔记"/><published>2024-11-29T05:27:39+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/4</id><title>上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计</title><updated>2025-07-15T03:22:39.737253+00:00</updated><content type="html"><![CDATA[<h2>一、统计的理由</h2>
 <p>说实话，中国的A股从21年开始到现在就一直反反复复地下跌。当然大盘的行情也是伴随着政府救市政策的出台一惊一乍的。</p>
 <p>较为意外是国庆节举办的国新办新闻发布会，潘功胜、吴清等人的发话直接将A股带上天了。直到国庆节的节后第一个开盘日，10月8日，上证指数已经累计上升了接近30%，从2700的低位上涨到接近3700点。这算是活久见了。</p>
 <p>但是，我持有的两只票居然跑输了大盘。 在此之前，我一直奉行“大盘业绩股”策略。 策略的好处是股票有业绩支撑，不容易出现下跌。 但国庆节打后，炒股的风格发生了骤变。 我发现这种“大盘业绩股”基本是跑输大盘的，而且跌跌不休。</p>
@@ -1970,7 +2327,7 @@ G-sync和Free-sync垂直同步技术<ul>
 <p><img src="https://github.com/user-attachments/assets/2ceee6a6-86f8-4606-a396-309c289079d9" alt="image" /></p>
 <hr />
 <p><strong>下载地址</strong>： <a href="https://github.com/user-attachments/files/17571211/024.xlsx">024.xlsx</a></p>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/4"/><category term="研究"/><published>2024-11-29T05:26:19+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/3</id><title>人总是善忘：喷射战士华莱士</title><updated>2025-07-13T08:29:43.304873+00:00</updated><content type="html"><![CDATA[<h3>总是善忘</h3>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/4"/><category term="研究"/><published>2024-11-29T05:26:19+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/3</id><title>人总是善忘：喷射战士华莱士</title><updated>2025-07-15T03:22:39.850530+00:00</updated><content type="html"><![CDATA[<h3>总是善忘</h3>
 <p>对的，我又拉肚子了。</p>
 <p>事情还得从那顿叉烧饭说起。</p>
 <p>依稀记得上年差不多也是这个时间，在同样的餐馆，吃同样的叉烧饭，拉同样的肚子，感觉就像吃了华莱士一样。当时候还暗暗地“发誓”，这家店太“干净又卫生”， 以后再也不吃了。</p>
@@ -1996,7 +2353,7 @@ G-sync和Free-sync垂直同步技术<ul>
 <hr />
 <p><img src="https://github.com/user-attachments/assets/1d0673af-a775-4bf1-a028-4c7d57d0c45c" alt="image" /></p>
 <p>[^1]: fear of missing out.</p>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/3"/><category term="想法"/><published>2024-11-29T05:21:25+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/2</id><title>接下来想写啥呢</title><updated>2025-07-13T08:29:43.374860+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/3"/><category term="想法"/><published>2024-11-29T05:21:25+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/2</id><title>接下来想写啥呢</title><updated>2025-07-15T03:22:39.957658+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox"> 《控糖革命》笔记</li>
 <li><input checked="" disabled="" type="checkbox"> 上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计</li>
 <li><input checked="" disabled="" type="checkbox"> 人总是善忘：喷射战士华莱士</li>
@@ -2008,7 +2365,7 @@ G-sync和Free-sync垂直同步技术<ul>
 <li><input disabled="" type="checkbox"> Integrate pagefind with hugo blog by <a href="https://taxodium.ink/use-pagefind-to-search-blog.html">Spike Leung - 使用 pagefind 添加博客搜索功能</a> .</li>
 <li><input disabled="" type="checkbox"> modify Travel Page by integrating  <a href="https://zen-demo.xdeb.org/products/">Zen Hugo Theme</a> .</li>
 </ul>
-]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/2"/><category term="TODO"/><published>2024-11-29T05:19:39+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/1</id><title>关于</title><updated>2025-07-13T08:29:43.441723+00:00</updated><content type="html"><![CDATA[<ol>
+]]></content><link href="https://github.com/chinobing/chinobing.github.io/issues/2"/><category term="TODO"/><published>2024-11-29T05:19:39+00:00</published></entry><entry><id>https://github.com/chinobing/chinobing.github.io/issues/1</id><title>关于</title><updated>2025-07-15T03:22:40.080378+00:00</updated><content type="html"><![CDATA[<ol>
 <li>曾经漂洋过海，见证过万恶的华尔街</li>
 <li>经历过15年股灾</li>
 <li>现从事股权投资行业</li>
