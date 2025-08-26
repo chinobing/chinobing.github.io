@@ -5,11 +5,11 @@
 - [Amuse Myself](https://github.com/chinobing/chinobing.github.io/issues/28)--2025-01-11
 - [Random Picks](https://github.com/chinobing/chinobing.github.io/issues/17)--2024-12-05
 ## 最近更新
+- [虹吸咖啡壶碎了](https://github.com/chinobing/chinobing.github.io/issues/35)--2025-08-26
 - [A股市场融资余额的暗示](https://github.com/chinobing/chinobing.github.io/issues/34)--2025-08-25
 - [《段永平投资问答录(投资逻辑篇)》书摘](https://github.com/chinobing/chinobing.github.io/issues/33)--2025-07-15
 - [业余爱好：牛散的网站](https://github.com/chinobing/chinobing.github.io/issues/32)--2025-04-27
 - [感激之情](https://github.com/chinobing/chinobing.github.io/issues/31)--2025-01-20
-- [Travel.澳门.01](https://github.com/chinobing/chinobing.github.io/issues/30)--2025-01-17
 - [Travel.澳门.01](https://github.com/chinobing/chinobing.github.io/issues/30)--2025-01-17
 - [Travel.贵州.都匀](https://github.com/chinobing/chinobing.github.io/issues/19)--2024-12-10
 - [感激之情](https://github.com/chinobing/chinobing.github.io/issues/31)--2025-01-20
@@ -47,6 +47,8 @@
 - [《控糖革命》读书笔记](https://github.com/chinobing/chinobing.github.io/issues/5)--2024-11-29
 </details>
 
+## 一、生活
+- [虹吸咖啡壶碎了](https://github.com/chinobing/chinobing.github.io/issues/35)--2025-08-26
 ## TODO
 TODO list from [业余爱好：牛散的网站](https://github.com/chinobing/chinobing.github.io/issues/32) all done
 
