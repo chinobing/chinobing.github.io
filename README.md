@@ -10,8 +10,10 @@
 - [A股市场融资余额的暗示](https://github.com/chinobing/chinobing.github.io/issues/34)--2025-08-25
 - [《段永平投资问答录(投资逻辑篇)》书摘](https://github.com/chinobing/chinobing.github.io/issues/33)--2025-07-15
 - [业余爱好：牛散的网站](https://github.com/chinobing/chinobing.github.io/issues/32)--2025-04-27
+## 一、Travel
 - [Travel.澳门.01](https://github.com/chinobing/chinobing.github.io/issues/30)--2025-01-17
 - [Travel.贵州.都匀](https://github.com/chinobing/chinobing.github.io/issues/19)--2024-12-10
+## 二、想法
 - [感激之情](https://github.com/chinobing/chinobing.github.io/issues/31)--2025-01-20
 - [月过十五光明少，人到中年万事休](https://github.com/chinobing/chinobing.github.io/issues/21)--2024-12-13
 - [《破.地狱》：请珍惜眼前人](https://github.com/chinobing/chinobing.github.io/issues/18)--2024-12-07
@@ -23,6 +25,7 @@
 - [人总是善忘：喷射战士华莱士](https://github.com/chinobing/chinobing.github.io/issues/3)--2024-11-29
 </details>
 
+## 三、研究
 - [Market Breadth在A股概念板块上的应用](https://github.com/chinobing/chinobing.github.io/issues/26)--2024-12-24
 - [选股：周期性股票的交易方式-席勒市盈率](https://github.com/chinobing/chinobing.github.io/issues/23)--2024-12-21
 - [避雷：亿利洁能39亿存款说没就没了 - 存贷双高](https://github.com/chinobing/chinobing.github.io/issues/22)--2024-12-21
@@ -33,6 +36,7 @@
 - [上证指数从2600反弹到3400的过程中涨幅最厉害的个股统计](https://github.com/chinobing/chinobing.github.io/issues/4)--2024-11-29
 </details>
 
+## 四、笔记
 - [《雪球》的投资精华帖](https://github.com/chinobing/chinobing.github.io/issues/36)--2025-08-28
 - [A股市场融资余额的暗示](https://github.com/chinobing/chinobing.github.io/issues/34)--2025-08-25
 - [《段永平投资问答录(投资逻辑篇)》书摘](https://github.com/chinobing/chinobing.github.io/issues/33)--2025-07-15
@@ -48,7 +52,7 @@
 - [《控糖革命》读书笔记](https://github.com/chinobing/chinobing.github.io/issues/5)--2024-11-29
 </details>
 
-## 一、生活
+## 五、生活
 - [虹吸咖啡壶碎了](https://github.com/chinobing/chinobing.github.io/issues/35)--2025-08-26
 ## TODO
 TODO list from [业余爱好：牛散的网站](https://github.com/chinobing/chinobing.github.io/issues/32) all done
