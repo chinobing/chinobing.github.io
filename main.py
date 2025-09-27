@@ -188,7 +188,7 @@ def add_md_recent(repo, md, me, limit=5):
         # one the issue that only one issue and delete (pyGitHub raise an exception)
         try:
             md.write("## 最近更新\n")
-            for issue in repo.get_issues():
+            for issue in repo.get_issues(sort="created", direction="desc"):
                 if is_me(issue, me):
                     add_issue_info(issue, md)
                     count += 1
