@@ -227,7 +227,7 @@ def add_md_label(repo, md, me):
             if label.name in IGNORE_LABELS:
                 continue
             issues = get_issues_from_label(repo, label)
-            if issues.totalCount:
+            if len(issues) != 0:
                 md.write("## " + f'{FRONT_LABELS[j]}' + label.name + "\n")
                 issues = sorted(issues, key=lambda x: x.created_at, reverse=True)
                 j += 1
