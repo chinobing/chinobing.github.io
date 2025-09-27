@@ -5,11 +5,11 @@
 - [Amuse Myself](https://github.com/chinobing/chinobing.github.io/issues/28)--2025-01-11
 - [Random Picks](https://github.com/chinobing/chinobing.github.io/issues/17)--2024-12-05
 ## 最近更新
+- [行业研究资料整理](https://github.com/chinobing/chinobing.github.io/issues/37)--2025-09-27
 - [《雪球》的投资精华帖](https://github.com/chinobing/chinobing.github.io/issues/36)--2025-08-28
 - [虹吸咖啡壶碎了](https://github.com/chinobing/chinobing.github.io/issues/35)--2025-08-26
 - [A股市场融资余额的暗示](https://github.com/chinobing/chinobing.github.io/issues/34)--2025-08-25
 - [《段永平投资问答录(投资逻辑篇)》书摘](https://github.com/chinobing/chinobing.github.io/issues/33)--2025-07-15
-- [业余爱好：牛散的网站](https://github.com/chinobing/chinobing.github.io/issues/32)--2025-04-27
 ## 一、Travel
 - [Travel.澳门.01](https://github.com/chinobing/chinobing.github.io/issues/30)--2025-01-17
 - [Travel.贵州.都匀](https://github.com/chinobing/chinobing.github.io/issues/19)--2024-12-10
@@ -37,13 +37,14 @@
 </details>
 
 ## 四、笔记
+- [行业研究资料整理](https://github.com/chinobing/chinobing.github.io/issues/37)--2025-09-27
 - [《雪球》的投资精华帖](https://github.com/chinobing/chinobing.github.io/issues/36)--2025-08-28
 - [A股市场融资余额的暗示](https://github.com/chinobing/chinobing.github.io/issues/34)--2025-08-25
 - [《段永平投资问答录(投资逻辑篇)》书摘](https://github.com/chinobing/chinobing.github.io/issues/33)--2025-07-15
 - [经济数据的意义](https://github.com/chinobing/chinobing.github.io/issues/29)--2025-01-14
-- [《穷查理宝典》书摘](https://github.com/chinobing/chinobing.github.io/issues/24)--2024-12-23
 <details><summary>显示更多</summary>
 
+- [《穷查理宝典》书摘](https://github.com/chinobing/chinobing.github.io/issues/24)--2024-12-23
 - [药物治疗备忘录](https://github.com/chinobing/chinobing.github.io/issues/20)--2024-12-13
 - [发行股份及支付现金的并购重组案例：烽火电子](https://github.com/chinobing/chinobing.github.io/issues/15)--2024-12-05
 - [付鹏的《对冲风险VS软着陆》总结](https://github.com/chinobing/chinobing.github.io/issues/13)--2024-12-02
